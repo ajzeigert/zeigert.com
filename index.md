@@ -12,9 +12,25 @@ tk
 
 ## Work
 
-Interaction Designer
-[GeoEngineers](http://geoengineers.com/) software engineering team
-Bend, OR
+### Currently:
+
+- **Interaction Designer**
+  - [GeoEngineers](http://geoengineers.com/) software engineering team
+  - Bend, OR
+
+### Formerly:
+
+- **Graphics Reporter**
+  - [The Bulletin](http://www.bendbulletin.com)
+  - Bend, OR
+
+### Also-ly:
+
+- **Freelancer**
+  - Graphic design
+  - Illustration
+  - Web design/development
+  - Cartography
 
 ## Contact
 
