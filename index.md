@@ -8,10 +8,11 @@
 
 ## Projects
 
-- [Bend Buildings import into OpenStreetMap](https://github.com/MaptimeBend/bend_buildings) organizer
-- [Maptime Bend](https://www.meetup.com/maptimebend/) organizer
+- [Bend Buildings import into OpenStreetMap](https://github.com/MaptimeBend/bend_buildings), organizer
+- [Maptime Bend](https://www.meetup.com/maptimebend/), organizer
 - [RoboMapper](https://twitter.com/robomapper), a twitter bot that makes maps for you using Mapbox APIs
-- [Leafarctica 2](https://github.com/ajzeigert/leafarctica), a fork of a cool project that I like to fiddle with
+- [Leafarctica 2](http://ajzeigert.github.io/leafarctica/), a fork of a cool project that I like to fiddle with
+- [Tarot Reader](https://ajzeigert.github.io/tarot-reader/), a simple react app that reads your tarot
 
 ## Work
 
