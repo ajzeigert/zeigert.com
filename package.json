@@ -25,6 +25,7 @@
   "dependencies": {
     "normalize.css": "^8.0.1",
     "preact": "^10.1.0",
-    "preact-render-to-string": "^5.1.2"
+    "preact-render-to-string": "^5.1.2",
+    "smoothscroll-polyfill": "^0.4.4"
   }
 }

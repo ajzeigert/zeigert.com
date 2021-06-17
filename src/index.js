@@ -2,6 +2,8 @@ import './style';
 
 import portfolio from './portfolio.json';
 
+import AnchorLink from './AnchorLink';
+
 
 const ContactSection = ({content}) => {
 
@@ -105,7 +107,8 @@ const NavLink = ({id}) => {
             {/* <Scrollchor to={`#${id}`}>
                 {id}
             </Scrollchor> */}
-            <a href={`#${id}`}>{id}</a>
+            {/* <a href={`#${id}`}>{id}</a> */}
+            <AnchorLink href={`#${id}`}>{id}</AnchorLink>
         </li>
     )
 }
@@ -130,7 +133,7 @@ const Nav = () => {
 const Resume = () => {
     return (
 		<Fragment>
-			<header>
+			<header id='home'>
 				<h1>
                     {portfolio.title}
                     {/* <span className="blinking-cursor">█</span> */}
@@ -141,20 +144,20 @@ const Resume = () => {
 			<Nav/>
 			<main>
 				<section id="contact">
-					<h2>_contact <small><a href="#">home</a></small></h2>
+					<h2>_contact <small><AnchorLink offset="100" href="#home">home</AnchorLink></small></h2>
 					<ContactSection content={portfolio.contact}/>
 				</section>
 				<section id="resumé">
-					<h2>_resumé <small><a href="#">home</a></small></h2>
+					<h2>_resumé <small><AnchorLink offset="100" href="#home">home</AnchorLink></small></h2>
 					<ResumeSection content={portfolio.resume}/>
 				</section>
 				<section id="portfolio">
-					<h2>_portfolio <small><a href="#">home</a></small></h2>
+					<h2>_portfolio <small><AnchorLink offset="100" href="#home">home</AnchorLink></small></h2>
 					<PortfolioSection content={portfolio.portfolio}/>
 				</section>
 			</main>
 			<footer>
-				copyright {new Date().getFullYear()} <a href="mailto:ajzeigert@gmail.com">andy zeigert</a> — made with <a href="https://preactjs.com">preact</a>
+				copyright {new Date().getFullYear()} <a href="mailto:ajzeigert@gmail.com">andy zeigert</a> | made with <a href="https://preactjs.com">preact</a> | <AnchorLink offset="100" href="#home">home</AnchorLink>
 			</footer>
 		</Fragment>
     )
