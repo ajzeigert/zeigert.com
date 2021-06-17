@@ -50,29 +50,33 @@ const ResumeSection = ({content}) => {
 
 const PortfolioItem = ({item}) => {
     return (
-        <div className='portfolioItemContainer'>
-            <h4>{item['Title']}</h4>
-            <hr/>
-            <div className='portfolioItemParent'>
+        <article className='portfolioItemContainer'>
+            <div className="portfolioItemHeader">
+                <h4>{item['Title']}</h4>
+            </div>
+            <div className='portfolioItemBody'>
                 <div className='portfolioItemDescription'>
-                    <p style={{padding: '0 20px 0 0'}}><small>{item['Description']}</small></p>
-                </div>
-                <div className='portfolioItemPreview'>
+                    <p style={{padding: '0 20px 0 0'}}>{item['Description']}</p>
                     <p>
                         {item['url'] !== undefined ? item['url'] !== false ? <>URL: <a href={item['url']}>{item['url']}</a></> : <em>URL: Sorry, not publicly available</em> : false}
                     </p>
+                </div>
+                <div className='portfolioItemPreview'>
+
                     <p>
                         {item['image'] !== null ? <PortfolioImage item={item}/> : false}
                     </p>
                 </div>
             </div>
-        </div>
+        </article>
     )
 }
 
 const PortfolioImage = ({item}) => {
     return (
-        <img src={`/assets/${item['image']}`}/>
+        <a href={`/assets/images/${item['image']}`}>
+            <img src={`/assets/images/sm-${item['image']}`}/>
+        </a>
     )
 }
 
@@ -82,13 +86,13 @@ const PortfolioSection = ({content}) => {
             Object.entries(section).map(sect => {
                 // console.log('sect', sect)
                 return (
-                    <Fragment>
+                    <div className="portfolioSection">
                         <h3>{`> ${sect[0]}`}</h3>
                         <p>{sect[1].info}</p>
                         {sect[1].examples.map(example => {
                             return <PortfolioItem item={example}/>
                         })}
-                    </Fragment>
+                    </div>
                 )
             })
         )
@@ -120,11 +124,17 @@ const Nav = () => {
     )
 }
 
+// Maybe this for something at some point?
+// https://frontendscript.com/demo/pure-css-typing-text-animation/
+
 const Resume = () => {
     return (
 		<Fragment>
 			<header>
-				<h1>{portfolio.title}</h1>
+				<h1>
+                    {portfolio.title}
+                    {/* <span className="blinking-cursor">█</span> */}
+                </h1>
 				<h2>{portfolio.subtitle}</h2>
 				<h3><small>version: {portfolio.version}</small></h3>
 			</header>
@@ -144,7 +154,7 @@ const Resume = () => {
 				</section>
 			</main>
 			<footer>
-				copyright 2021 <a href="mailto:ajzeigert@gmail.com">andy zeigert</a> — made with <a href="https://preactjs.com">preact</a>
+				copyright {new Date().getFullYear()} <a href="mailto:ajzeigert@gmail.com">andy zeigert</a> — made with <a href="https://preactjs.com">preact</a>
 			</footer>
 		</Fragment>
     )
