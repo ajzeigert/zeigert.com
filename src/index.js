@@ -52,7 +52,7 @@ const ResumeSection = ({content}) => {
 
 const PortfolioItem = ({item}) => {
     return (
-        <article className='portfolioItemContainer'>
+        <div className='portfolioItemContainer'>
             <div className="portfolioItemHeader">
                 <h4>{item['Title']}</h4>
             </div>
@@ -70,7 +70,7 @@ const PortfolioItem = ({item}) => {
                     </p>
                 </div>
             </div>
-        </article>
+        </div>
     )
 }
 
