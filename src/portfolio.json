@@ -55,6 +55,12 @@
                 "info": "I've created many websites for many purposes. Here are a select few.",
                 "examples": [
                     {
+                        "Title": "Leafarctica",
+                        "Description": "Originally forked from another project, this web map displays antarctica using a polar projection, supplemented by some open source marker and boundary data and MODIS imagery.",
+                        "url": "http://ajzeigert.github.io/leafarctica/",
+                        "image": "leafarctica.png"
+                    },
+                    {
                         "Title": "Tarot Reader",
                         "Description": "Created in order to teach myself React.",
                         "url": "https://ajzeigert.github.io/tarot-reader/",
