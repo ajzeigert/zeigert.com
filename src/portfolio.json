@@ -58,7 +58,7 @@
                         "Title": "Tarot Reader",
                         "Description": "Created in order to teach myself React.",
                         "url": "https://ajzeigert.github.io/tarot-reader/",
-                        "image": "images/tarot_reader.png"
+                        "image": "images/sm-tarot_reader.png"
                     },
                     {
                         "Title": "Robomapper",
@@ -70,19 +70,19 @@
                         "Title": "XYZ Export Tool",
                         "Description": "This app allows the user to upload a KMZ file. Any points in the file are displayed on the map. Elevation and coordinates in a local projection are determined. The user can then export a table with this information. Developed for internal use. Built using ArcGIS Javascript API.",
                         "url": false,
-                        "image": "images/xyz.png"
+                        "image": "images/sm-xyz.png"
                     },
                     {
                         "Title": "Project Delivery",
                         "Description": "This app lets clients track the progress of their work, access documents, photos and contacts. Built using React, Node and Postgres. Hosted on AWS.",
                         "url": false,
-                        "image": "images/project_delivery.png"
+                        "image": "images/sm-project_delivery.png"
                     },
                     {
                         "Title": "Safety Hub",
                         "Description": "This app allows employees at my company to report safety information. It is built using React and the Microsoft Graph API. It reads from and records data to a shared spreadsheet on Sharepoint Online, thus it does not require a backend server.",
                         "url": false,
-                        "image": "images/safety_02.png"
+                        "image": "images/sm-safety_02.png"
                     }
                 ]
             }
@@ -94,42 +94,42 @@
                     {
                         "Title": "What it takes to drill for offshore oil",
                         "Description": "A full-page infographic as illustration",
-                        "image": "images/8-31-08 F1 Perspective oil drilling.png"
+                        "image": "images/sm-8-31-08 F1 Perspective oil drilling.png"
                     },
                     {
                         "Title": "2008 Central Oregon election results map",
                         "Description": "A full-page infographic detailing local election results and comparing to past years",
-                        "image": "images/11-30-08 F1 Perspective voting results.png"
+                        "image": "images/sm-11-30-08 F1 Perspective voting results.png"
                     },
                     {
                         "Title": "Winterize your home",
                         "Description": "A full-page infographic detailing steps to take to winterize your home",
-                        "image": "images/12-07 winterize your home.png"
+                        "image": "images/sm-12-07 winterize your home.png"
                     },
                     {
                         "Title": "30 steps to a healthier you",
                         "Description": "A full-page infographic on healthy steps you can take",
-                        "image": "images/12-29-05 E1 Health 30 steps to a healthier you.png"
+                        "image": "images/sm-12-29-05 E1 Health 30 steps to a healthier you.png"
                     },
                     {
                         "Title": "Oregon election history",
                         "Description": "A collection of maps showing Oregon counties' presidential picks",
-                        "image": "images/ElectionHistory-g1 100008.png"
+                        "image": "images/sm-ElectionHistory-g1 100008.png"
                     },
                     {
                         "Title": "Les Schwab Amphitheater ticket sales",
                         "Description": "Comparison of ticket sales across a decade of amphitheater shows",
-                        "image": "images/LSALookback-g1 052612.png"
+                        "image": "images/sm-LSALookback-g1 052612.png"
                     },
                     {
                         "Title": "Food colors and health",
                         "Description": "What the color of your food indicates about its nutrition",
-                        "image": "images/PULSE 05-14-12 BULL Pgraphic 051412-1.jpg"
+                        "image": "images/sm-PULSE 05-14-12 BULL Pgraphic 051412-1.jpg"
                     },
                     {
                         "Title": "Women in power",
                         "Description": "A history of female lawmakers in the U.S.",
-                        "image": "images/women_lawmakers.png"
+                        "image": "images/sm-women_lawmakers.png"
                     }
                 ]
             }
@@ -141,7 +141,7 @@
                     {
                         "Title": "Oregon Boundaries",
                         "Description": "A full broadsheet page exploring the history of Oregon's official boundary lines.",
-                        "image": "images/7-9-08 oregon boundaries.png"
+                        "image": "images/sm-7-9-08 oregon boundaries.png"
                     }
                 ]
             }
@@ -153,17 +153,17 @@
                     {
                         "Title": "Bonnie & Clyde cover",
                         "Description": "Illustration for a cover story about a local play; Adobe Illustrator/Photoshop",
-                        "image": "images/8-13-10 GO bonnie and clyde.png"
+                        "image": "images/sm-8-13-10 GO bonnie and clyde.png"
                     },
                     {
                         "Title": "Fall calendar main art",
                         "Description": "Illustration to accompany a seasonal event calendar; felt on paper",
-                        "image": "images/9-10-06 D1 fall winter calendar.jpg"
+                        "image": "images/sm-9-10-06 D1 fall winter calendar.jpg"
                     },
                     {
                         "Title": "Evil Dead musical cover",
                         "Description": "Illustration to for a cover story about a local play; modeling clay on paper",
-                        "image": "images/10-2-2009 GO zombie evil dead musical.png"
+                        "image": "images/sm-10-2-2009 GO zombie evil dead musical.png"
                     }
                 ]
             }
