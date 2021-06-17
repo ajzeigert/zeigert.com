@@ -1,0 +1,77 @@
+@import '../node_modules/normalize.css/normalize.css';
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@5.2/distr/fira_code.css);
+
+html, body {
+
+  width: 100%;
+  height: 100%;
+}
+
+html { font-family: 'Fira Code', monospace; }
+
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Fira Code VF', monospace; }
+}
+
+header, main, footer {
+	padding: 0 10px 0 10px;
+}
+
+footer {
+	padding-bottom: 10px;
+}
+
+#resume {
+  /* width: 100%; */
+  /* height: 100%; */
+  padding: 10px;
+}
+
+img {
+  width: 100%;
+  border: 1px solid gray;
+}
+
+a, a:visited {
+  color: red; 
+}
+
+a:hover {
+  color: pink;
+}
+/* 
+h2 {
+  color: gray;
+}
+
+h3 {
+  color: brown;
+} */
+
+h2 > small {
+  font-size: 0.75rem;
+}
+
+.portfolioItemContainer {
+  border: 1px solid pink;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.portfolioItemParent {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: space-between;
+  align-items: flex-start;
+}
+
+.portfolioItemParent > div {
+  order: 0;
+  flex: 1 1 auto;
+  align-self: auto;
+  max-width: 50%;
+  min-width: 300px;
+  /* padding: 10px; */
+}
