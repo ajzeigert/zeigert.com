@@ -1,10 +1,9 @@
 import preact from 'preact';
-import './style';
+import './style.css';
 
 import portfolio from './portfolio.json';
 
 import AnchorLink from './AnchorLink';
-
 
 const ContactSection = ({content}) => {
 
@@ -133,7 +132,7 @@ const Nav = () => {
 
 const Zeigert = () => {
     return (
-		<div id='mainContent'>
+		<div id='mainContent' className='text-black'>
 			<header id='home'>
 				<h1>
                     {portfolio.title}
