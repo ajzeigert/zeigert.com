@@ -1,3 +1,4 @@
+import preact from 'preact';
 import './style';
 
 import portfolio from './portfolio.json';
@@ -89,7 +90,7 @@ const PortfolioSection = ({content}) => {
                 // console.log('sect', sect)
                 return (
                     <div className="portfolioSection">
-                        <h3>{`> ${sect[0]}`}</h3>
+                        <h3>{`${sect[0]}`}</h3>
                         <p>{sect[1].info}</p>
                         {sect[1].examples.map(example => {
                             return <PortfolioItem item={example}/>
@@ -118,9 +119,9 @@ const Nav = () => {
     return (
 		<nav>
 			<ul>
+				<NavLink id="portfolio"/>
 				<NavLink id="contact"/>
 				<NavLink id="resumé"/>
-				<NavLink id="portfolio"/>
 				{/* <NavLink id="awards"/> */}
 			</ul>
 		</nav>
@@ -130,37 +131,38 @@ const Nav = () => {
 // Maybe this for something at some point?
 // https://frontendscript.com/demo/pure-css-typing-text-animation/
 
-const Resume = () => {
+const Zeigert = () => {
     return (
-		<Fragment>
+		<div id='mainContent'>
 			<header id='home'>
 				<h1>
                     {portfolio.title}
                     {/* <span className="blinking-cursor">█</span> */}
                 </h1>
-				<h2>{portfolio.subtitle}</h2>
-				<h3><small>version: {portfolio.version}</small></h3>
+				{/* <h2>{portfolio.subtitle}</h2> */}
+                <h3>{portfolio.description}</h3>
+				<small>version: {portfolio.version}</small>
 			</header>
 			<Nav/>
 			<main>
-				<section id="contact">
-					<h2>_contact <small><AnchorLink offset="100" href="#home">home</AnchorLink></small></h2>
+				<section id="portfolio">
+					<h2>Portfolio <small><AnchorLink offset="100" href="#home">home</AnchorLink></small></h2>
+					<PortfolioSection content={portfolio.portfolio}/>
+				</section>
+                <section id="contact">
+					<h2>Contact <small><AnchorLink offset="100" href="#home">home</AnchorLink></small></h2>
 					<ContactSection content={portfolio.contact}/>
 				</section>
 				<section id="resumé">
-					<h2>_resumé <small><AnchorLink offset="100" href="#home">home</AnchorLink></small></h2>
+					<h2>Resumé <small><AnchorLink offset="100" href="#home">home</AnchorLink></small></h2>
 					<ResumeSection content={portfolio.resume}/>
-				</section>
-				<section id="portfolio">
-					<h2>_portfolio <small><AnchorLink offset="100" href="#home">home</AnchorLink></small></h2>
-					<PortfolioSection content={portfolio.portfolio}/>
 				</section>
 			</main>
 			<footer>
 				copyright {new Date().getFullYear()} <a href="mailto:ajzeigert@gmail.com">andy zeigert</a> | made with <a href="https://preactjs.com">preact</a> | <AnchorLink offset="100" href="#home">home</AnchorLink>
 			</footer>
-		</Fragment>
+		</div>
     )
 };
 
-export default Resume;
+export default Zeigert;

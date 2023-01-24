@@ -1,7 +1,8 @@
 {
-    "title": "_andy_zeigert",
-    "subtitle": "// Developer, designer, journalist, illustrator, etc.",
-    "version": "June 2021",
+    "title": "Andy Zeigert",
+    "subtitle": "Developer, designer, journalist, illustrator, etc.",
+    "description": "Hi, my name is Andy Zeigert. I'm a developer, designer, journalist and illustrator. Below you'll find details about some of my projects.",
+    "version": "September 2022",
     "contact": [
         [ "email", "ajzeigert@gmail.com" ],
         [ "phone", "541-788-0452" ],
@@ -10,7 +11,7 @@
         [ "Observable", "https://observablehq.com/@ajzeigert"],
         [ "Instagram", "https://www.instagram.com/zeigert/" ],
         [ "LinkedIn", "https://www.linkedin.com/in/andy-zeigert" ],
-        [ "Twitter", "https://twitter.com/zeigert" ],
+        [ "Mastodon", "https://mastodon.social/@zeigert" ],
         [ "NewsPageDesigner", "https://newspagedesigner.org/members/AndyZeigert" ]
     ],
     "resume": {
@@ -18,7 +19,7 @@
             {
                 "Date": "2015 - present",
                 "Company": "GeoEngineers, Inc.",
-                "Location": "Tacoma, Washington — workign remotely",
+                "Location": "Tacoma, Washington — working remotely",
                 "Role": "UI/UX Designer, Software Engineers",
                 "Description": "Design user interfaces for client-facing web applications. These applications are mostly concerned with managing environmental data, including sensor data, laboratory sampling data, and data for incident management. Many of these are location data driven. Transitioned to working on these applications as a full-stack developer, managing both development and production environments for several Node.js applications hosted on Amazon Web Services. Also work on many other kinds of projects, including mobile applications.",
                 "Tools": [ "Javascript", "Node", "HTML", "CSS", "Backbone.js", "React", "AWS", "PostgreSQL", "Git + Github", "various ArcGIS tools"]

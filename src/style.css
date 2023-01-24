@@ -1,11 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import '../node_modules/normalize.css/normalize.css';
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@5.2/distr/fira_code.css);
 
 html, body {
-  color: #521a1a;
+  color: #000;
   width: 100%;
   height: 100%;
-  background-color: #e4e1d5;
+  background-color: #fff;
 }
 
 html { font-family: 'Fira Code', monospace; }
@@ -16,6 +20,14 @@ html { font-family: 'Fira Code', monospace; }
 
 header, main, footer {
 	padding: 0 10px 0 10px;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+  font-weight: 400
+}
+
+#mainContent {
+  padding: 100px
 }
 
 footer {
