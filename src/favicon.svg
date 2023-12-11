@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.82702848"
+     inkscape:cx="244.85251"
+     inkscape:cy="301.68248"
+     inkscape:window-width="1496"
+     inkscape:window-height="846"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="-2.1694915"
+       y="-2.1694915"
+       width="774.50847"
+       height="802.71187"
+       id="rect1" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <rect
+         style="fill:#000000;stroke-width:0.448164"
+         id="rect4"
+         width="205.66313"
+         height="268.07236"
+         x="31.788439"
+         y="335.7955" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-size:666.667px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000"
+       transform="matrix(2.4869189,0,0,1.9152408,-78.308856,-643.59202)"
+       clip-path="url(#clipPath3)"><tspan
+         x="-2.1699219"
+         y="606.05059"
+         id="tspan3"><tspan
+           style="font-weight:bold;font-size:400px;font-family:Palatino;-inkscape-font-specification:'Palatino Bold'"
+           id="tspan2">Z</tspan></tspan></text>
+  </g>
+</svg>
