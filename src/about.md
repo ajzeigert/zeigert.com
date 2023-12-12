@@ -7,7 +7,7 @@ menu:
     order: 3
 ---
 
-Born in Indiana in 1983
+Born in Indiana in 1983.
 
 Grew up not far away until 2001, when I moved a little farther away for college.
 
