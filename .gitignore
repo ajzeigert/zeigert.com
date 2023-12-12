@@ -1,3 +1,4 @@
 /_site
 /*.log
 /nbproject/private/
+.DS_Store
