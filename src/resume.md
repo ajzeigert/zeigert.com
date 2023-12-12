@@ -15,7 +15,7 @@ menu:
 
 **Company:** GeoEngineers, Inc.
 
-**Location:** Tacoma, Washington — workign remotely
+**Location:** Tacoma, Washington — working remotely
 
 **Description:** Design user interfaces for client-facing web applications. These applications are mostly concerned with managing environmental data, including sensor data, laboratory sampling data, and data for incident management. Many of these are location data driven. Transitioned to working on these applications as a full-stack developer, managing both development and production environments for several Node.js applications hosted on Amazon Web Services. Also work on many other kinds of projects, including mobile applications.
 
