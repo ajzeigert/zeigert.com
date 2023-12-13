@@ -1,7 +1,27 @@
 <!doctype html>
 
-<html lang="{{ it.lang }}">
+<html lang="{{ it.lang }}" data-theme="light">
   <head>
+    <script type="text/javascript">
+      const root = document.firstElementChild;
+      const mediaQuery = "(prefers-color-scheme: dark)";
+      const mediaMatch = window.matchMedia;
+      const currentMode = mediaMatch(mediaQuery).matches;
+
+      const storeTheme = (targetTheme) => {
+        if ("boolean" === typeof targetTheme) {
+          targetTheme = targetTheme ? "dark" : "light";
+        }
+        root.setAttribute("data-theme", targetTheme);
+        localStorage.setItem("data-theme", targetTheme);
+      };
+
+      const storedTheme = ("data-theme" in localStorage)
+        ? localStorage.getItem("data-theme")
+        : currentMode;
+
+      storedTheme && storeTheme(storedTheme);
+    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ it.title || metas.title }} - {{ metas.site }}</title>
@@ -51,5 +71,20 @@
     </main>
 
     <!-- Current page: {{ url }} -->
+    {{ include '../templates/footer.vto'}}
+
+    <script type="text/javascript">
+      window.addEventListener('DOMContentLoaded', () => {
+        document.getElementById("switch-theme").addEventListener("click", (event) => {
+          const currentTheme =
+            localStorage.getItem("data-theme") == "light" || (getComputedStyle(root).getPropertyValue("color-scheme") == "light");
+          storeTheme(!!currentTheme);
+        });
+
+        mediaMatch(mediaQuery).addEventListener("change", (event) => {
+          storeTheme(event.matches);
+        });
+      });
+    </script>
   </body>
 </html>
