@@ -1,3 +1,13 @@
-layout: layouts/base.vto
-language: en
-type: page
+home:
+  welcome: Hello, I am a person that writes stuff.
+
+menu_links: []
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: Andy Zeigert
+  description: Andy Zeigert's personal website
+  title: "=title"
+  image: "=image"
+  mastodon: mastodon.social/@zeigert
+  lang: en

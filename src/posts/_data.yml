@@ -1,2 +1,6 @@
-layout: layouts/article.vto
 type: post
+layout: layouts/post.vto
+author: Andy Zeigert
+
+metas:
+  title: "=title"

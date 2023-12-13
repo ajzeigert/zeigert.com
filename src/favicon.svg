@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.82702848"
-     inkscape:cx="244.85251"
-     inkscape:cy="301.68248"
-     inkscape:window-width="1496"
-     inkscape:window-height="846"
+     inkscape:cx="258.15314"
+     inkscape:cy="333.12033"
+     inkscape:window-width="1392"
+     inkscape:window-height="1212"
      inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
@@ -42,30 +42,51 @@
        id="rect1" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath3">
+       id="clipPath9">
       <rect
-         style="fill:#000000;stroke-width:0.448164"
-         id="rect4"
-         width="205.66313"
-         height="268.07236"
-         x="31.788439"
-         y="335.7955" />
+         style="fill:#000000;stroke-width:0.951674"
+         id="rect9"
+         width="510.25836"
+         height="511.45541"
+         x="1.9555588"
+         y="0.38737065"
+         ry="0"
+         clip-path="none" />
     </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       id="text1"
-       style="font-size:666.667px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000"
-       transform="matrix(2.4869189,0,0,1.9152408,-78.308856,-643.59202)"
-       clip-path="url(#clipPath3)"><tspan
-         x="-2.1699219"
-         y="606.05059"
-         id="tspan3"><tspan
-           style="font-weight:bold;font-size:400px;font-family:Palatino;-inkscape-font-specification:'Palatino Bold'"
-           id="tspan2">Z</tspan></tspan></text>
+    <g
+       id="g9"
+       clip-path="url(#clipPath9)">
+      <text
+         xml:space="preserve"
+         id="text1"
+         style="font-size:666.667px;white-space:pre;shape-inside:url(#rect1);shape-padding:2.75038;display:inline;fill:#000000"
+         transform="matrix(2.5221513,0,0,1.8043288,-87.15116,-590.99045)"
+         clip-path="none"><tspan
+           x="0.58007812"
+           y="608.80059"
+           id="tspan4"><tspan
+             style="font-weight:bold;font-size:400px;font-family:Palatino;-inkscape-font-specification:'Palatino Bold'"
+             id="tspan1">Z</tspan></tspan></text>
+      <rect
+         style="fill:#000000"
+         id="rect2"
+         width="556.20819"
+         height="36.274445"
+         x="-6.0457411"
+         y="-10.882334" />
+      <rect
+         style="fill:#000000"
+         id="rect3"
+         width="645.68512"
+         height="49.575077"
+         x="-72.548889"
+         y="-551.37158"
+         transform="scale(1,-1)" />
+    </g>
   </g>
 </svg>
