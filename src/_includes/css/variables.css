@@ -13,8 +13,8 @@
 
   /* Fonts */
   --font-family-display: 'YoungSerif', 'YoungSerif-fallback', serif;
-  --font-family-code: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
-  --font-family-ui: -apple-system, system-ui, sans-serif;
+  --font-family-code: 'JetBrains Mono', 'JetBrains-fallback', Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+  --font-family-ui: 'Inter', 'Inter-fallback', -apple-system, system-ui, sans-serif;
 
   --font-code: 1rem/1.5 var(--font-family-code);
   --font-display: clamp(2rem, 10vw, 4rem)/1 var(--font-family-display);
