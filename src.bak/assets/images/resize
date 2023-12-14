@@ -1,6 +1,0 @@
-#!/bin/zsh
-
-for i in *.jpg; do
-	printf "Resize $i\n"
-	convert "$i" -resize 1000x1000 "sm-$i"
-done

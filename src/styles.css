@@ -1,9 +1,9 @@
 /* Lume's design system */
-/* @import "css/ds.css"; */
+@import "css/ds.css";
 
-@import "css/fonts.css";
+/* Variables */
+
 @import "css/variables.css";
-@import "css/reset.css";
 
 /* Custom components */
 @import "css/navbar.css";

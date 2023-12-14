@@ -1,5 +1,5 @@
 home:
-  welcome: Hello, I am a person that writes stuff.
+  welcome: Welcome.
 
 menu_links: []
 
@@ -9,5 +9,5 @@ metas:
   description: Andy Zeigert's personal website
   title: "=title"
   image: "=image"
-  mastodon: mastodon.social/@zeigert
+  twitter: mastodon.social/@zeigert
   lang: en
