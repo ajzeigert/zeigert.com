@@ -1,7 +1,6 @@
 ---
 title: What this website is for
 date: 2023-12-20T20:35:28.693Z
-draft: false
 
 tags:
     - Introduction
