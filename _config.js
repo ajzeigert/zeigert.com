@@ -11,5 +11,6 @@ const site = lume({
   .use(favicon())
   .use(picture())
   .use(transformImages())
+  .copy("fonts")
 
 export default site;
