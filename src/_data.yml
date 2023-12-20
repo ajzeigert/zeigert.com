@@ -1,7 +1,11 @@
 home:
   welcome: Welcome.
 
-extra_head: <link rel="stylesheet" href="/variables.css"
+extra_head: <link rel="stylesheet" href="/variables.css"/>
+  <link rel="me" href="https://mastodon.social/@zeigert"/>
+  <link rel="me" href="https://github.com/ajzeigert"/>
+  <link rel="me" href="mailto:andy@zeigert.com"/>
+  <link rel="me" href="https://www.linkedin.com/in/andy-zeigert/"/>
 
 menu_links: 
   - href: https://mastodon.social/@zeigert
