@@ -2,3 +2,5 @@
 /*.log
 /nbproject/private/
 .DS_Store
+/src/_cache
+/src/_cache/*

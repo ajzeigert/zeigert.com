@@ -1,3 +1,19 @@
-layout: layouts/base.vto
-language: en
-type: page
+home:
+  welcome: Welcome.
+
+extra_head: <link rel="stylesheet" href="/variables.css"
+
+menu_links: 
+  - href: https://mastodon.social/@zeigert
+    text: '@zeigert'
+  - href: https://github.com/ajzeigert
+    text: github
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: Andy Zeigert
+  description: Andy Zeigert's personal website
+  title: "=title"
+  image: "=image"
+  twitter: zeigert
+  lang: en

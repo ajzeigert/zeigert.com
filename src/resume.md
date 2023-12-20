@@ -1,7 +1,6 @@
 ---
 title: Résumé
-description: A brief summary of work experience and education
-type: page
+layout: layouts/page.vto
 menu: 
     visible: true
     order: 4

@@ -1,7 +1,6 @@
 ---
 title: About Me
-description: About Andy Zeigert
-tags: bio
+layout: layouts/page.vto
 menu:
     visible: true
     order: 3
