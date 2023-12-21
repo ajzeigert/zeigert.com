@@ -11,7 +11,7 @@ menu_links:
   - href: https://mastodon.social/@zeigert
     text: '@zeigert'
   - href: https://github.com/ajzeigert
-    text: github
+    text: Github
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:

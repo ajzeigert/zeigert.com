@@ -2,7 +2,7 @@
 title: Résumé
 layout: layouts/page.vto
 menu: 
-    visible: true
+    visible: false
     order: 4
 ---
 

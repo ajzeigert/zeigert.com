@@ -6,9 +6,9 @@
   /* --color-base: hsl(10, 63%, 46%); */
   /* --color-text: hsl(220, 30%, 20%); */
   /* --color-dim: hsl(220, 30%, 40%); */
-  /* --color-link: hsl(220, 30%, 10%); */
-  /* --color-link-hover: hsl(220, 30%, 40%); */
-  /* --color-line: hsl(220, 30%, 90%); */
+  --color-link: hsl(219, 26%, 25%);
+  --color-link-hover: hsl(159, 89%, 45%);
+  --color-line: hsl(220, 30%, 90%);
   /* --color-background: hsl(140, 75%, 91%); */
 
   /* Fonts */
@@ -17,13 +17,13 @@
   --font-family-ui: 'Inter', 'Inter-fallback', -apple-system, system-ui, sans-serif;
 
   /* --font-code: 1rem/1.5 var(--font-family-code); */
-  /* --font-display: clamp(2rem, 10vw, 4rem)/1 var(--font-family-display); */
+  --font-display: clamp(2rem, 10vw, 4rem)/1 var(--font-family-display);
   --font-display-spacing: -0.02em;
   /* --font-title: clamp(1.5rem, 8vw, 2rem)/1.2 var(--font-family-display); */
   /* --font-title-spacing: -0.015em; */
   /* --font-body: clamp(1rem, 5vw, 1.2rem)/1.5 var(--font-family-ui); */
   /* --font-body-bold: bold var(--font-body); */
-  --font-ui: 1rem/1.4 var(--font-family-ui);
+  /* --font-ui: 1rem/1.4 var(--font-family-ui); */
   /* --font-small: 0.85rem/1.4 var(--font-family-ui); */
 
   /* Space */
@@ -43,4 +43,25 @@
     /* --color-line: hsl(220, 20%, 20%); */
     /* --color-background: hsl(218, 79%, 40%); */
   }
+}
+
+a {
+  text-decoration-style: dashed;
+}
+
+a[href]:not(:where(
+  /* exclude hash only links */
+  [href^="#"],
+  /* exclude relative but not double slash only links */
+  [href^="/"]:not([href^="//"]),
+  /* domains to exclude */
+  /* [href*="//stackoverflow.com"], */
+  /* subdomains to exclude */
+  /* [href*="//meta.stackoverflow.com"], */
+)):after {
+  content: ' ↗';
+}
+
+nav {
+  font-size: 1.2rem;
 }
