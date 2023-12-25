@@ -64,11 +64,11 @@ a[href]:not(:where(
 
 .navbar-links a {
   text-decoration: none !important;
-  padding: 0.3rem;
+  /* padding: 0.3rem; */
 }
 
 .navbar-links li {
-  /* margin: .3rem; */
+  margin: .3rem;
 }
 
 .navbar-home {
@@ -116,7 +116,7 @@ nav.navbar::after {
   background-color: var(--color-link-hover);
   height: 30px;
   width: 100vw;
-  margin-top: -10px;
+  margin-top: -15px;
   /* margin-left: -100vw; */
   /* margin-right: -100vw; */
 }
