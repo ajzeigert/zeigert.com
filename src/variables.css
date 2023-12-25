@@ -73,11 +73,11 @@ a[href]:not(:where(
 
 .navbar-home {
   font-family: var(--font-family-display);
-  font-size: 2rem;
-  line-height: 0rem;
-  position: relative;
-  top: 4.5vh;
-  margin-bottom: 8vh;
+  font-size: 1rem;
+  /* line-height: 0rem; */
+  /* position: relative; */
+  /* top: 4.5vh; */
+  /* margin-bottom: 0; */
 }
 
 nav ul.navbar-links a {
@@ -88,7 +88,7 @@ nav ul.navbar-links a {
 }
 
 nav ul.navbar-links a:not([aria-current="page"]):hover {
-  /* margin-top: 1vh; */
+  margin-top: 1vh;
   top: -0.25rem;
 }
 
@@ -114,11 +114,11 @@ nav.navbar::after {
   position: relative;
   top: 0; */
   background-color: var(--color-link-hover);
-  height: 10vh;
-  width: 1000%;
-  margin-top: -1rem;
-  margin-left: -100vw;
-  margin-right: -100vw;
+  height: 30px;
+  width: 100vw;
+  margin-top: -10px;
+  /* margin-left: -100vw; */
+  /* margin-right: -100vw; */
 }
 
 .navbar-links [aria-current="page"] {
