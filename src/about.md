@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 layout: layouts/page.vto
 menu:
     visible: true

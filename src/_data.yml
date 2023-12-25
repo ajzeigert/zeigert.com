@@ -1,26 +1,40 @@
 home:
-  welcome: Andy Zeigert on the web
-  description: Please check out my blog below for starters
+  # welcome: Andy Zeigert's homepage
+  description: On this page you will find information by and about me
 
 extra_head: <link rel="stylesheet" href="/variables.css"/>
   <link rel="me" href="https://mastodon.social/@zeigert"/>
   <link rel="me" href="https://github.com/ajzeigert"/>
   <link rel="me" href="mailto:andy@zeigert.com"/>
-  <link rel="me" href="https://www.linkedin.com/in/andy-zeigert/"/>
 
 footer: Copyright © 2023 Andy Zeigert
  
 menu_links: 
   - href: https://mastodon.social/@zeigert
     text: '@zeigert'
-  - href: https://github.com/ajzeigert
-    text: Github
+  # - href: https://github.com/ajzeigert
+  #   text: Github
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
   site: Andy Zeigert
-  description: Andy Zeigert's personal website
+  description: Andy Zeigert's personal portfolio website and blog.
+  keywords: 
+    - Andy Zeigert
+    - web development
+    - javascript
+    - deno
+    - node
+    - react
+    - art
+    - philosophy
+    - technology
+    - music
+    - film
+    - zeigertgeist
   title: "=title"
   image: "=image"
   twitter: zeigert
   lang: en
+  robots: false
+  generator: true
