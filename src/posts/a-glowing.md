@@ -3,6 +3,8 @@ title: A glowing
 date: 2023-12-25T00:54:06.420Z
 tags:
     - Illustration
+    - Watercolor
+    - Ink
 ---
 Illustration from a while back.
 
