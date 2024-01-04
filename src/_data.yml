@@ -1,5 +1,5 @@
 home:
-  # welcome: Andy Zeigert's homepage
+  welcome: Andy Zeigert's homepage
   description: On this page you will find information by and about me
 
 extra_head: <link rel="stylesheet" href="/variables.css"/>
@@ -17,7 +17,7 @@ menu_links:
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
-  site: Andy Zeigert
+  site: Zeigert.com
   description: Andy Zeigert's personal portfolio website and blog.
   keywords: 
     - Andy Zeigert

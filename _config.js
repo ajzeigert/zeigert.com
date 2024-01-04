@@ -6,6 +6,7 @@ import transformImages from "lume/plugins/transform_images.ts";
 
 const site = lume({
     src: "./src",
+    location: new URL("https://zeigert.com")
   })
   .use(blog())
   .use(favicon())
