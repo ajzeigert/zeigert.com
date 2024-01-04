@@ -1,12 +1,16 @@
 export default function(title) {
-    const slug = title.replace(/\s+/g, "-").toLowerCase();
+
+    const date = new Date();
+    const output = date.toISOString().slice(0,10);
+
+    const slug = `${output}-${title.replace(/\s+/g, "-").toLowerCase()}`;
     return {
         path: `posts/${slug}.md`,
         content: {
             title,
-            date: new Date(),
+            date: output,
             draft: true,
-            content: "Post content",
+            content: "Don't get cocky",
         }
     }
 }

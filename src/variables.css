@@ -1,14 +1,18 @@
 @import "./fonts.css";
 
+
+
 :root {
+  --andygreen: hsl(159 89% 45%);
   /* Light colors */
   color-scheme: light;
   /* --color-base: hsl(10, 63%, 46%); */
   /* --color-text: hsl(220, 30%, 20%); */
   /* --color-dim: hsl(220, 30%, 40%); */
-  --color-link: hsl(219, 26%, 25%);
-  --color-link-hover: hsl(159, 89%, 45%);
-  --color-line: hsl(220, 30%, 90%);
+  --color-link: hsl(339, 50%, 26%);
+  --color-link-underline: hsl(335, 32%, 26%, 0.25);
+  --color-link-hover: var(--andygreen);
+  --color-line: hsl(220 30% 90%);
   /* --color-background: hsl(140, 75%, 91%); */
 
   /* Fonts */
@@ -39,6 +43,7 @@
     --color-text: hsl(220, 20%, 80%);
     --color-dim: hsl(220, 20%, 60%);
     --color-link: hsl(220, 20%, 100%);
+    --color-link-underline: hsl(220, 20%, 100% / 60%);
     /* --color-link-hover: hsl(220, 20%, 70%); */
     --color-line: hsl(220, 20%, 20%);
     /* --color-background: hsl(218, 79%, 40%); */
@@ -47,6 +52,8 @@
 
 a {
   text-decoration-style: wavy;
+  text-decoration-color: var(--color-link-underline)
+  /* color: var(--color-link-hover) */
 }
 
 a[href]:not(:where(
@@ -54,8 +61,10 @@ a[href]:not(:where(
   [href^="#"],
   /* exclude relative but not double slash only links */
   [href^="/"]:not([href^="//"]),
+  /* exclude email links */
+  [href^="mailto:"],
   /* domains to exclude */
-  /* [href*="//stackoverflow.com"], */
+  [href*="//zeigert.com"],
   /* subdomains to exclude */
   /* [href*="//meta.stackoverflow.com"], */
 )):after {
@@ -72,7 +81,7 @@ nav.navbar {
   row-gap: 0;
   /* display: flex; */
   /* flex-direction: row; */
-  background-color: var(--color-link-hover)
+  background-color: var(--andygreen)
   /* box-sizing: border-box; */
   /* padding-left: 15vw !important; */
   /* padding-right: 15vw !important; */
@@ -86,23 +95,20 @@ nav.navbar {
 ul.navbar-links {
   padding: 0.3rem 1rem 0.3rem 0;
   align-items: center;
-  color: var(--color-background);
+  /* color: var(--color-background); */
 }
 
 .navbar-links a {
   /* text-decoration: none !important; */
   /* padding: 0.3rem; */
-}
-
-.navbar-links li {
-  /* margin: .3rem; */
+  color: var(--color-base);
 }
 
 .navbar-home {
   font-family: var(--font-family-display);
   font-size: 2rem;
   color: var(--color-background);
-  background-color: var(--color-link-hover);
+  /* background-color: var(--color-link-hover); */
   /* padding: 0.3rem 1.3rem; */
   /* line-height: 0rem; */
   /* position: relative; */
@@ -130,4 +136,15 @@ nav ul.navbar-links a:not([aria-current="page"]):hover {
 .navbar-links [aria-current="page"] {
   /* background-color: var(--color-link-hover); */
   /* color: var(--color-background) */
+}
+
+div.h-card {
+  display: flex;
+}
+
+div.h-card img {
+  margin-left: 1rem;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
 }
