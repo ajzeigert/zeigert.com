@@ -9,8 +9,8 @@
   /* --color-base: hsl(10, 63%, 46%); */
   /* --color-text: hsl(220, 30%, 20%); */
   /* --color-dim: hsl(220, 30%, 40%); */
-  --color-link: hsl(339, 50%, 26%);
-  --color-link-underline: hsl(335, 32%, 26%, 0.25);
+  --color-link: hsl(339 50% 26%);
+  --color-link-underline: hsl(335 32% 26% / 0.25);
   --color-link-hover: var(--andygreen);
   --color-line: hsl(220 30% 90%);
   /* --color-background: hsl(140, 75%, 91%); */
@@ -39,13 +39,13 @@
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
-    --color-base: hsl(220, 20%, 100%);
-    --color-text: hsl(220, 20%, 80%);
-    --color-dim: hsl(220, 20%, 60%);
-    --color-link: hsl(220, 20%, 100%);
-    --color-link-underline: hsl(220, 20%, 100% / 60%);
+    --color-base: hsl(220 20% 100%);
+    --color-text: hsl(220 20% 80%);
+    --color-dim: hsl(220 20% 60%);
+    --color-link: hsl(220 20% 100%);
+    --color-link-underline: hsl(220 20% 100% / 70%);
     /* --color-link-hover: hsl(220, 20%, 70%); */
-    --color-line: hsl(220, 20%, 20%);
+    --color-line: hsl(220 20% 20%);
     /* --color-background: hsl(218, 79%, 40%); */
   }
 }
