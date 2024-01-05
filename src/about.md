@@ -29,6 +29,7 @@ Leading with all of that only scratches the surface, of course. I don't really c
 
 - [Mastodon](https://mastodon.social/@zeigert)
 - [Github](https://github.com/ajzeigert/)
+- [Glitch](https://glitch.com/@zeigert)
 
 ### Less important elsewhere but you're welcome to follow me
 

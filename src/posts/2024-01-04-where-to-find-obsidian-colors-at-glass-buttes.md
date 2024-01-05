@@ -5,6 +5,8 @@ tags:
     - Maps
     - Javascript
     - Lume
+comments: 
+    src: https://mastodon.social/@zeigert/111701186113394460
 ---
 
 One thing I'd like to do with this blog is share mapping projects.
@@ -47,7 +49,7 @@ People have been coming here for 13,000 years! You can go there and [legally col
     });
 
     const roadLayer = new FeatureLayer({
-        url: "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Ground_Transportation_Publication_Roads_Line_Hub/FeatureServer"
+        url: "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/ArcGIS/rest/services/BLM_OR_Ground_Transportation_GTRN_Roads_Line_Hub/FeatureServer"
     });
 
     const colorMap = {
@@ -189,7 +191,7 @@ const view = new MapView({
 });
 
 const roadLayer = new FeatureLayer({
-	url: "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/BLM_OR_Ground_Transportation_Publication_Roads_Line_Hub/FeatureServer"
+	url: "https://services1.arcgis.com/KbxwQRRfWyEYLgp4/ArcGIS/rest/services/BLM_OR_Ground_Transportation_GTRN_Roads_Line_Hub/FeatureServer"
 });
 
 const colorMap = {
