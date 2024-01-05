@@ -295,3 +295,7 @@ This post mostly started out as practice embedding javascript in a Lume post. I 
 Additionally, I'm excited to have a place to post mapping projects that I've worked on over the years!
 
 P.S. This map was originally [made on CodePen](https://codepen.io/ajzeigert/pen/OJzMQvB), feel free to fork it there.
+
+P.P.S. I'm testing out the Mastodon comment integration, see below. 
+
+P.P.P.S. When I view this post in NetNewWire, the map div gets extremely weird. I'm working on it.
