@@ -1,7 +1,5 @@
 @import "./fonts.css";
 
-
-
 :root {
   --andygreen: hsl(159 89% 45%);
   /* Light colors */
@@ -147,4 +145,8 @@ div.h-card img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
+}
+
+.feedonly {
+  display: none;
 }

@@ -2,11 +2,12 @@
 title: Where to find obsidian colors at Glass Buttes
 date: 2024-01-04
 tags:
-    - Maps
-    - Javascript
-    - Lume
+  - Maps
+  - Javascript
+  - Lume
 comments: 
-    src: https://mastodon.social/@zeigert/111701186113394460
+  src: https://mastodon.social/@zeigert/111701186113394460
+    
 ---
 
 One thing I'd like to do with this blog is share mapping projects.
@@ -23,17 +24,20 @@ Glass Buttes is a small group of buttes located about an hour drive southeast of
 
 People have been coming here for 13,000 years! You can go there and [legally collect obsidian](https://www.fs.usda.gov/detail/deschutes/recreation/rocks-minerals/?cid=stelprdb5381935), which you can't do on most public lands. 
 
-<div id="viewDiv" style="height: 400px"></div>
+<div id="viewDiv" style="height: 400px" class="nofeed"></div>
 
-<link rel="stylesheet" href="https://js.arcgis.com/4.28/@arcgis/core/assets/esri/themes/light/main.css">
+<link class="nofeed" rel="stylesheet" href="https://js.arcgis.com/4.28/@arcgis/core/assets/esri/themes/light/main.css">
 
-<script type="module">
+<script class="nofeed" type="module">
     import config from 'https://js.arcgis.com/4.28/@arcgis/core/config.js'
     import Map from 'https://js.arcgis.com/4.28/@arcgis/core/Map.js';
     import MapView from 'https://js.arcgis.com/4.28/@arcgis/core/views/MapView.js';
     import FeatureLayer from 'https://js.arcgis.com/4.28/@arcgis/core/layers/FeatureLayer.js';
     import SimpleRenderer from 'https://js.arcgis.com/4.28/@arcgis/core/renderers/SimpleRenderer.js';
     import SimpleFillSymbol from 'https://js.arcgis.com/4.28/@arcgis/core/symbols/SimpleFillSymbol.js';
+
+    // document.getElementById("viewDiv").style['height'] = '400px';
+    // document.getElementById("viewDivFallback").style['display'] = 'none';
 
     config.apiKey = "AAPK86784ca30aa14d049a6f9738ad5242bdDlVV9sW1lHnv91iRyQ2z-BevguH-N6EE0rVZDLfL08h6fxsQPgNFMgviM1v4g5IL";
 
@@ -147,6 +151,8 @@ People have been coming here for 13,000 years! You can go there and [legally col
     map.add(roadLayer);
     map.add(recBounds);
 </script>
+
+<img class="feedonly" id="viewDivFallback" loading="lazy" src='/img/glass-buttes-fallback.jpg' alt='Screenshot of the Glass Buttes map'>
 
 ## How I added this map to a Lume post
 
@@ -298,4 +304,6 @@ P.S. This map was originally [made on CodePen](https://codepen.io/ajzeigert/pen/
 
 P.P.S. I'm testing out the Mastodon comment integration, see below. 
 
-P.P.P.S. When I view this post in NetNewWire, the map div gets extremely weird. I'm working on it.
+P.P.P.S. When I view this post in NetNewsWire, the map div gets extremely weird. I'm working on it. 
+
+**UPDATE 2024/1/8:** Thanks to some [quick work](https://github.com/lumeland/lume/discussions/548) from [Óscar Otero](https://mastodon.gal/@misteroom), the creator of Lume and maintainer of [theme-simple-blog](https://github.com/lumeland/theme-simple-blog), the RSS feed should now show a fallback image in place of unsupported content. 
