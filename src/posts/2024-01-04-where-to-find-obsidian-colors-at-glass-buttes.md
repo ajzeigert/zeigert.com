@@ -159,16 +159,21 @@ People have been coming here for 13,000 years! You can go there and [legally col
 Each post in my Lume project is generated from a Markdown file. Since ordinary HTML can be included inline in any Markdown file, it is easy to accomplish. I added the following markup after the introductory paragraphs:
 
 ```html
+<!-- Note the 'nofeed' class applied to elements related to the interactive map. This tells my instance of loom to remove these elements from generated feeds. -->
+
 <!-- Div that the map will eventually be rendered in -->
-<div id="viewDiv" style="height: 300px"></div>
+<div id="viewDiv" class='nofeed' style="height: 300px"></div>
 
 <!-- Link to external css dependency -->
-<link rel="stylesheet" href="https://js.arcgis.com/4.28/@arcgis/core/assets/esri/themes/light/main.css">
+<link rel="stylesheet" class='nofeed' href="https://js.arcgis.com/4.28/@arcgis/core/assets/esri/themes/light/main.css">
 
 <!-- Module script element -->
-<script type="module">
+<script class='nofeed' type="module">
     // javascript that creates the map, see below
 </script>
+
+<!-- Fallback image for feed -->
+<img class="feedonly" id="viewDivFallback" loading="lazy" src='/img/glass-buttes-fallback.jpg' alt='Screenshot of the Glass Buttes map'>
 ```
 
 Lume generates the necessary HTML from the Markdown and simply drops in the added HTML. The `script` tag includes references to CSS and JavaScript hosted on an external CDN, so no additional files are necessary.
@@ -306,4 +311,4 @@ P.P.S. I'm testing out the Mastodon comment integration, see below.
 
 P.P.P.S. When I view this post in NetNewsWire, the map div gets extremely weird. I'm working on it. 
 
-**UPDATE 2024/1/8:** Thanks to some [quick work](https://github.com/lumeland/lume/discussions/548) from [Óscar Otero](https://mastodon.gal/@misteroom), the creator of Lume and maintainer of [theme-simple-blog](https://github.com/lumeland/theme-simple-blog), the RSS feed should now show a fallback image in place of unsupported content. 
+**UPDATE 2024-01-08:** Thanks to some [quick work](https://github.com/lumeland/lume/discussions/548) from [Óscar Otero](https://mastodon.gal/@misteroom), the creator of Lume and maintainer of [theme-simple-blog](https://github.com/lumeland/theme-simple-blog), the RSS feed should now show a fallback image in place of unsupported content. 
