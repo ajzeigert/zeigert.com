@@ -1,10 +1,12 @@
 ---
 title: Saint Colombo
-date: '2024-01-08'
+date: 2024-01-08
 tags:
   - Illustration
   - Printmaking
   - TTRPG
+comments:
+  src: https://mastodon.social/@zeigert/111727290967682840
 ---
 
 <div style="display:flex; width: 100%; flex-wrap: wrap;" transform-images="320@2 jpg" >
