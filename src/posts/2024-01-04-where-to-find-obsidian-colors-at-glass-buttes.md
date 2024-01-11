@@ -7,7 +7,6 @@ tags:
   - Lume
 comments: 
   src: https://mastodon.social/@zeigert/111701186113394460
-    
 ---
 
 One thing I'd like to do with this blog is share mapping projects.
