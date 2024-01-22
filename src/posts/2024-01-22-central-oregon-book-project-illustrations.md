@@ -4,6 +4,8 @@ date: '2024-01-22'
 tags: 
     - Illustration
     - Central Oregon
+metas: 
+    image: /img/cobp/fort_rock.jpg
 ---
 A couple years ago I had the privilege of creating illustrations for [Central Oregon Book Project](https://centraloregonbookproject.com/) a volume put together and edited by writer (and close friend of mine) [Kimberly Bowker](https://kimberlybowker.com/).
 
