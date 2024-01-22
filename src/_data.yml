@@ -1,6 +1,8 @@
 home:
-  welcome: Andy Zeigert's homepage
-  description: On this page you will find information by and about me
+  welcome: Hi 👋
+  description: I'm Andy Zeigert, a web developer based in Oregon. I also draw pictures, 
+    write stories and try to nurture an ever-growing array of hobbies. 
+    Use the search bar below to find something specific, or check out my most recent blog posts below that.
 
 extra_head: <link rel="stylesheet" href="/variables.css"/>
   <link rel="me" href="https://mastodon.social/@zeigert"/>
