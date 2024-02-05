@@ -1,6 +1,6 @@
 ---
 title: Using systemd timers as a cron replacement
-date: '2024-01-12'
+date: '2024-02-04'
 draft: true
 tags:
   - Linux
@@ -23,33 +23,155 @@ CRON_TZ=PST
 @midnight $HOME/postgresql_auto_backup_s3/pg_backup_rotated.sh -c $HOME/postgresql_auto_backup_s3/app_backup.config >> $HOME/psql2s3_logs/backup.log 2>&1
 ```
 
-And it has worked well for years! So why change? Well, using `cron` on AL2023 is possible, but it requires some unofficial packages that could break or be difficult to understand. Since there was going to be learning involved either way, why not use the recommended way?
+And it has worked well for years! So why change? Well, using `cron` on AL2023 is possible, but it requires some unofficial packages that could break or be difficult to maintain. Since there was going to be learning involved either way, why not use the recommended way?
 
-Although my setup was specific to my postgres backup jobs, I'm going to demonstrate a generic implimentation below. My setup is using AL2023, but the commands should be relevant to anyone linux flavor with `systemd`.
+Although my setup was specific to my postgres backup jobs, I'm going to demonstrate a generic implementation below.
 
 ## System services overview
 
 This post assumes the reader is already somewhat familiar with `systemd` and `systemctl`. I'm an amateur myself, so I'll explain as simple as I can. `systemd` does a [bunch of things](https://en.wikipedia.org/wiki/Systemd), but I think of it as being responsible for setting up the system when it starts up by mounting disks, starting services, etc.
 
-`systemctl` is a command for creating and managing **services**, which can be just about anything. In our case, it's running a single bash script.
+`systemctl` is a command for creating and managing **services**, which can be just about anything. In our case, it's a single bash script.
 
-Another use case is using a service to run Node on a production server. The main advantages (for me) of running Node as a service is that `systemd` will restart the service if it crashes and maintain logs. Our services will be "oneshot" services, i.e. they will be called and run when needed, not left running all the time.
+Another use case for a service is to run Node on a production server. The main advantages (for me) of running Node as a service is that `systemd` will restart the service if it crashes and maintain logs. Our services will be "oneshot" services, i.e. they will be called and run when needed, not left running all the time.
 
-Services are defined using _unit files_, which are generally stored in `/etc/systemd/system`. 
+Services are defined using _unit files_, which are generally stored in `/etc/systemd/system`.
 
-## Part 1: Create a service unit and timer
+## Setup
 
-Service units are saved in `/etc/systemd/system`. 
+For this tutorial, I'll be using a clean Ubuntu 22.04.3 running via [multipass](https://github.com/canonical/multipass).[^1] My original experience was with Amazon Linux 2023, but for the sake of most users, I'm going with something a little more mainstream.
 
-### Create a one-off system service unit and run it
+[^1]: I'm brand new to multiplass, but I like its ability — from a macOS terminal — to install, launch and connect to a new instance with 3 simple commands.
 
-### Add a system timer
+My original script is a bit niche, so for the purposes of this tutorial I wrote something a bit simpler:
 
-## Part 2: Create a service unit template and timer template
+```bash
+#!/bin/bash
 
-For my originaly implementation, I needed to run the same script with slightly different arguments. Instead of writing all of my timers individually, I utilized service templates and timer templates so I could reuse my code. Below is a simple implementation.
+# example.sh
 
-First, we'll reuse our 
+base=15
+product=$(($base * $1))
+now=$(date '+%Y-%m-%d %H:%M:%S')
+
+echo The random input number is $1.
+echo The product of $base times input is ${product}.
+echo This script was executed on $now.
+```
+
+The above script checks for a single integer argument[^2], multiplies it by 15 and then echos the result as well as the date and time it was executed.
+
+[^2]: A better version of this script would ensure one and only one argument, and would check to make sure it was a number.
+
+Run this script: `sh example.sh 5`. The result should be something similar to the output below:
+
+```bash
+ubuntu@verified-whistler:~$ sh example.sh 5
+The random input number is 5.
+The product of 15 times input is 75.
+This script was executed on 2024-02-04 22:16:11.
+```
+
+To randomize the output slightly, we can pass a bash command that will generate a random number between 1 and 10 as the argument:
+
+```bash
+sh example.sh $((1 + $RANDOM % 10))
+```
+
+## Create a service unit
+
+Service units are saved in `/etc/systemd/system`. To create one, create a new file there (I did not log in as root, so I am using sudo):
+
+```bash
+sudo vim /etc/systemd/system/example.service
+```
+
+```bash
+[Unit]
+Description="Generate a random number and pass it to a script"
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /home/ubuntu/example.sh $((1 + $RANDOM % 10))
+User=ubuntu
+```
+
+The service can now be run using the following command:
+
+```bash
+sudo systemctl start example.service
+```
+
+Not seeing the expected output? That's because output of services is sent directly to logs be default. You can quickly check the most recent logs of a service using:
+
+```bash
+sudo systemctl status example.service
+```
+
+The service output should be shown with information about the invocation.
+
+## Add a system timer
+
+In order to run our service on a schedule, we need to create a system timer. A system timer is a service unit that calls a service at a specific interval OR at a specific point in time or repeating point in time.
+
+Create a new timer:
+
+```bash
+sudo vim /etc/systemd/system/example.timer
+```
+
+Add the following to the timer file; It will invoke the example service unit every fifteen seconds.
+
+```bash
+[Unit]
+Description="Daily timer for example service"
+
+[Timer]
+OnBootSec=15sec
+OnUnitActiveSec=15sec
+AccuracySec=1us
+Persistent=true
+Unit=example.service
+
+[Install]
+WantedBy=default.target
+```
+
+Now activate the timer using:
+
+```bash
+sudo systemctl enable example.timer
+```
+
+And start it using:
+
+```bash
+sudo systemctl start example.timer
+```
+
+View the status of all timers — including next time, last time and time left until next — using:
+
+```bash
+sudo systemctl list-timers
+```
+
+You can also view the status of this specific timer, although the logs
+
+```bash
+sudo systemctl status example.timer
+```
+
+**Note:** Any changes made to service unit files requires restarting the daemon using:
+
+```bash
+sudo systemctl daemon-reload
+```
+
+## Create a service unit template
+
+For my original implementation, I needed to run the same script with slightly different arguments. Instead of writing all of my timers individually, I utilized service templates and timer templates so I could reuse my code. Below is a simple implementation.
+
+First, we'll reuse our
 
 `sudo vim /etc/systemd/system/backup_postgres@.service`
 
@@ -116,7 +238,7 @@ View your timers, including their last and next invocations:
 
 `sudo yum install amazon-cloudwatch-agent`
 
-Make sure IAM role is attached to instance 
+Make sure IAM role is attached to instance
 
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/create-iam-roles-for-cloudwatch-agent-commandline.html
 
