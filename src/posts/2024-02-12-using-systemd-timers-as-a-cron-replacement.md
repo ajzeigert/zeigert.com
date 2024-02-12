@@ -50,7 +50,7 @@ For this tutorial, I'll be using a clean Ubuntu 22.04.3 running via [multipass](
 
 [^2]: I'm brand new to multiplass, but I like its ability — from a macOS terminal — to install, launch and connect to a new instance with 3 simple commands.
 
-My original shell script is a bit niche, so for the purposes of this tutorial I wrote something a bit simpler:
+My original bash script is a bit niche, so for the purposes of this tutorial I wrote something simpler:
 
 ```bash
 #!/bin/bash
@@ -70,7 +70,13 @@ The above script checks for a single integer argument[^3], multiplies it by 15 a
 
 [^3]: A better version of this script would ensure one and only one argument, and would check to make sure it was a number.
 
-Run this script: `sh example.sh 5`. The result should be something similar to the output below:
+Run this script:
+
+```bash
+bash example.sh 5
+```
+
+The result should be something similar to the output below:
 
 ```bash
 ubuntu@verified-whistler:~$ bash example.sh 5
