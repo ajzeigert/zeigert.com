@@ -9,7 +9,7 @@ const server = new Server({
 
 server.use(expires());
 
-server.user(
+server.use(
   not_found({
     page404: "404.html",
     directoryIndex: true,
