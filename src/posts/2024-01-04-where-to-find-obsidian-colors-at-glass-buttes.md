@@ -5,7 +5,7 @@ tags:
   - Maps
   - Javascript
   - Lume
-comments: 
+comments:
   src: https://mastodon.social/@zeigert/111701186113394460
 ---
 
@@ -21,7 +21,7 @@ Glass Buttes is a small group of buttes located about an hour drive southeast of
 
 > For thousands of years, Native Americans used obsidian for making cutting tools, arrowheads, and spear points. Obsidian was also an important trade good for Native Americans. Glass Buttes obsidian was used for these purposes at least 9000 years ago. Clovis people may have also collected obsidian at Glass Buttes up to 13,000 years ago. Glass Buttes obsidian has been found at sites throughout the Pacific Northwest, from British Columbia in the north to California in the south and as far east as Idaho. Some reports place Glass Buttes obsidian artifacts at archeological sites as far east as Ohio.
 
-People have been coming here for 13,000 years! You can go there and [legally collect obsidian](https://www.fs.usda.gov/detail/deschutes/recreation/rocks-minerals/?cid=stelprdb5381935), which you can't do on most public lands. 
+People have been coming here for 13,000 years! You can go there and [legally collect obsidian](https://www.fs.usda.gov/detail/deschutes/recreation/rocks-minerals/?cid=stelprdb5381935), which you can't do on most public lands.
 
 <div id="viewDiv" style="height: 400px" class="nofeed"></div>
 
@@ -151,7 +151,7 @@ People have been coming here for 13,000 years! You can go there and [legally col
     map.add(recBounds);
 </script>
 
-<img class="feedonly" id="viewDivFallback" loading="lazy" src='/img/glass-buttes-fallback.jpg' alt='Screenshot of the Glass Buttes map'>
+<img class="feedonly" id="viewDivFallback" loading="lazy" src='/img/glass-buttes-fallback.png' alt='Screenshot of the Glass Buttes map'>
 
 ## How I added this map to a Lume post
 
@@ -306,8 +306,8 @@ Additionally, I'm excited to have a place to post mapping projects that I've wor
 
 P.S. This map was originally [made on CodePen](https://codepen.io/ajzeigert/pen/OJzMQvB), feel free to fork it there.
 
-P.P.S. I'm testing out the Mastodon comment integration, see below. 
+P.P.S. I'm testing out the Mastodon comment integration, see below.
 
-P.P.P.S. When I view this post in NetNewsWire, the map div gets extremely weird. I'm working on it. 
+P.P.P.S. When I view this post in NetNewsWire, the map div gets extremely weird. I'm working on it.
 
-**UPDATE 2024-01-08:** Thanks to some [quick work](https://github.com/lumeland/lume/discussions/548) from [Óscar Otero](https://mastodon.gal/@misteroom), the creator of Lume and maintainer of [theme-simple-blog](https://github.com/lumeland/theme-simple-blog), the RSS feed should now show a fallback image in place of unsupported content. 
+**UPDATE 2024-01-08:** Thanks to some [quick work](https://github.com/lumeland/lume/discussions/548) from [Óscar Otero](https://mastodon.gal/@misteroom), the creator of Lume and maintainer of [theme-simple-blog](https://github.com/lumeland/theme-simple-blog), the RSS feed should now show a fallback image in place of unsupported content.
