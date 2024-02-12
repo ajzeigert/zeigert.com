@@ -34,17 +34,17 @@ menu:
 
 ## Education
 
-**Program:** GIS Certificate Program
+### GIS Certificate Program
 
 **Institution:** Central Oregon Community College
 
-**Date: 2014**
+**Date:** 2014
 
 **Location:** Bend, Oregon
 
 **Description:** Completed a 1-year certificate in GIS. Learned about geospatial systems and workflows, developed a familiarity with ArcGIS, ArcMap and related ESRI systems.
 
-**Program:** Bachelor of Arts in Journalism Graphics
+### Bachelor of Arts in Journalism Graphics
 
 **Institution:** Ball State University
 
