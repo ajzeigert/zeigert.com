@@ -1,7 +1,7 @@
 ---
 title: Résumé
 layout: layouts/page.vto
-menu: 
+menu:
     visible: false
     order: 4
 ---
