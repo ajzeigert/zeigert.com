@@ -23,12 +23,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.82702848"
-     inkscape:cx="258.15314"
-     inkscape:cy="333.12033"
-     inkscape:window-width="1392"
-     inkscape:window-height="1212"
-     inkscape:window-x="0"
+     inkscape:zoom="1.654057"
+     inkscape:cx="341.88665"
+     inkscape:cy="294.1253"
+     inkscape:window-width="2080"
+     inkscape:window-height="1210"
+     inkscape:window-x="217"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -60,18 +60,19 @@
      id="layer1">
     <g
        id="g9"
-       clip-path="url(#clipPath9)">
+       clip-path="url(#clipPath9)"
+       transform="matrix(1.0035545,0,0,1,-1.8206734,0)">
       <text
          xml:space="preserve"
          id="text1"
          style="font-size:666.667px;white-space:pre;shape-inside:url(#rect1);shape-padding:2.75038;display:inline;fill:#000000"
-         transform="matrix(2.5221513,0,0,1.8043288,-87.15116,-590.99045)"
+         transform="matrix(2.5221513,0,0,1.8043288,-99.108654,-590.99045)"
          clip-path="none"><tspan
            x="0.58007812"
            y="608.80059"
-           id="tspan4"><tspan
+           id="tspan3"><tspan
              style="font-weight:bold;font-size:400px;font-family:Palatino;-inkscape-font-specification:'Palatino Bold'"
-             id="tspan1">Z</tspan></tspan></text>
+             id="tspan2">Z</tspan></tspan></text>
       <rect
          style="fill:#000000"
          id="rect2"
