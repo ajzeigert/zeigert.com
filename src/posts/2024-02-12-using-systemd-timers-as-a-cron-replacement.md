@@ -8,7 +8,7 @@ tags:
 metas:
     image: /img/timers/service-timer.png
 comments:
-    src: https://mastodon.social/@zeigert/111921097727927870#.
+    src: https://mastodon.social/@zeigert/111921097727927870
 ---
 
 ![Screenshot of result of running systemctl status for a systemd timer.](/img/timers/service-timer.png)
