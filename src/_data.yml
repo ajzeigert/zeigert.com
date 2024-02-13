@@ -9,7 +9,7 @@ extra_head: <link rel="stylesheet" href="/variables.css"/>
   <link rel="me" href="https://github.com/ajzeigert"/>
   <link rel="me" href="mailto:andy@zeigert.com"/>
 
-footer: Copyright © 2023 Andy Zeigert
+footer: Copyright © 2024 Andy Zeigert
  
 menu_links: 
   - href: https://mastodon.social/@zeigert
@@ -38,5 +38,4 @@ metas:
   image: "=image"
   twitter: zeigert
   lang: en
-  robots: false
   generator: true
