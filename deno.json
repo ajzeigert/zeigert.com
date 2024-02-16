@@ -10,6 +10,6 @@
     ]
   },
   "imports": {
-    "lume/": "https://deno.land/x/lume/"
+    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@cdd98e852c35eb539d6544af871457f0c4f2ed57/"
   }
 }

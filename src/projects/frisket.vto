@@ -1,0 +1,20 @@
+---
+title: Frisket
+url: /frisket
+menu:
+visible: false
+order: 3
+---
+
+<html>
+    <canvas width="500" height="300" id="frisket"></canvas>
+    <script>
+        function draw() {
+            const canvas = document.getElementById("frisket");
+            if (canvas.getContext) {
+                const ctx = canvas.getContext("2d");
+            }
+        }
+        window.addEventListener("load", draw);
+    </script>
+</html>
