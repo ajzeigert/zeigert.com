@@ -31,6 +31,7 @@ const site = lume({
       allow: ["Googlebot", "Bingbot"],
       disallow: ["ChatGPT-User"],
     }),
-  );
+  )
+  .copy("BingSiteAuth.xml");
 
 export default site;
