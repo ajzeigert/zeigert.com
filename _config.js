@@ -25,7 +25,11 @@ const site = lume({
   )
   .use(favicon())
   .use(picture())
-  .use(transformImages())
+  .use(
+    transformImages({
+      extensions: [".jpg", ".jpeg", ".png", ".tif", ".psd", ".pdf"],
+    }),
+  )
   .use(
     robots({
       allow: ["Googlebot", "Bingbot"],
