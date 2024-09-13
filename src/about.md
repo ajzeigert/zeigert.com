@@ -7,7 +7,7 @@ menu:
 ---
 
 <div class="h-card">
-    <p>Hi, my name is <a class="p-name u-url" href="https://zeigert.com">Andy Zeigert</a>. I write here about art, mapmaking and web development, but you can also find me at <a href="https://mastodon.social/@zeigert">@zeigert</a> on mastadon.social. <br/>Feel free to email me at <a class="u-email" href="mailto:andy@zeigert.com">andy@zeigert.com</a>.</p>
+    <p>Hi, my name is <a class="p-name u-url" href="https://zeigert.com">Andy Zeigert</a> (he/him). I write here about art, mapmaking and web development, but you can also find me at <a href="https://mastodon.social/@zeigert">@zeigert</a> on mastadon.social. <br/>Feel free to email me at <a class="u-email" href="mailto:andy@zeigert.com">andy@zeigert.com</a>.</p>
     <img class="u-photo" src="/img/avatar.png" alt="Andy Zeigert circa... a while ago. Dressed as a centurion for Halloween.">
 </div>
 
