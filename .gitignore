@@ -4,3 +4,4 @@
 .DS_Store
 /src/_cache
 /src/_cache/*
+/_cache
