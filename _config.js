@@ -7,35 +7,43 @@ import robots from "lume/plugins/robots.ts";
 import cleanFeed from "./src/utils/cleanfeed.js";
 
 const site = lume({
-  src: "./src",
-  location: new URL("https://zeigert.com"),
+	src: "./src",
+	location: new URL("https://zeigert.com"),
 })
-  .use(
-    blog({
-      feed: {
-        items: {
-          // content: 'Test'
-          content: (data) => {
-            //   console.log('data', data)
-            return cleanFeed(data.children);
-          },
-        },
-      },
-    }),
-  )
-  .use(favicon())
-  .use(picture())
-  .use(
-    transformImages({
-      extensions: [".jpg", ".jpeg", ".png", ".tif", ".psd", ".pdf"],
-    }),
-  )
-  .use(
-    robots({
-      allow: ["Googlebot", "Bingbot"],
-      disallow: ["ChatGPT-User"],
-    }),
-  )
-  .copy("BingSiteAuth.xml");
+	.use(
+		blog({
+			feed: {
+				items: {
+					// content: 'Test'
+					content: (data) => {
+						//   console.log('data', data)
+						return cleanFeed(data.children);
+					},
+				},
+			},
+		})
+	)
+	.use(favicon())
+	.use(picture())
+	.use(
+		transformImages({
+			extensions: [".jpg", ".jpeg", ".png", ".tif", ".psd", ".pdf"],
+		})
+	)
+	.use(
+		robots({
+			allow: ["Googlebot", "Bingbot"],
+			disallow: ["ChatGPT-User"],
+		})
+	)
+	.copy("BingSiteAuth.xml");
+
+// import cms from "./cms_config.ts";
+
+// Init the CMS and return an Hono instance with the app
+// const app = cms.init();
+
+// Run a local server with your CMS
+// Deno.serve(app.fetch);
 
 export default site;
