@@ -16,9 +16,9 @@ footer: Copyright © 2024 Andy Zeigert
 
 menu_links:
   - href: https://mastodon.social/@zeigert
-    text: "zeigert@mastodon"
-  - href: https://bsky.app/profile/zeigert.com
-    text: zeigert@bsky
+    text: zeigert@mastodon
+  # - href: https://bsky.app/profile/zeigert.com
+  #   text: zeigert@bsky
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:

@@ -53,7 +53,7 @@
     /* --font-code: 1rem/1.5 var(--font-family-code); */
     --font-display: bold clamp(2rem, 10vw, 3.8rem) / 1 var(--font-family-display);
     --font-display-spacing: -0.02em;
-    /* --font-title: bold clamp(1.5rem, 8vw, 2rem) / 1.2 var(--font-family-display); */
+    --font-title: bold clamp(1.5rem, 8vw, 2rem) / 1.2 var(--font-family-display);
     --font-title-spacing: -0.015em;
     --font-body: clamp(1rem, 5vw, 1.2rem) / 1.5 var(--font-family-ui);
     --font-body-spacing: 0em;
@@ -104,18 +104,18 @@ a[href]:not(:where(
 
 nav.navbar {
     /* padding: 1vh 0 1vh 0 !important; */
-    padding: 1vh max(100% -15vw, 1.3rem) 1vh max(100% -15vw, 1.3rem) !important;
+    /* padding: 1vh max(100% -15vw, 1.3rem) 1vh max(100% -15vw, 1.3rem) !important; */
     /* text-align: center; */
     /* max-width: min(100% - 15vw, 45em) !important; */
     padding: 1rem max((100% - 45em) / 2, 7.5vw);
-    /* margin: 0 auto; */
-    /* row-gap: 0; */
+    margin: 0 auto;
+    row-gap: 0;
     /* display: flex; */
     /* flex-direction: row; */
     background-color: var(--andygreen);
     /* box-sizing: border-box; */
-    padding-left: 15vw !important;
-    padding-right: 15vw !important;
+    /* padding-left: 15vw !important; */
+    /* padding-right: 15vw !important; */
     /* max-width: min(100% - 15vw, 45em); */
     /* border-bottom-style: solid; */
     /* border-bottom-width: 2rem; */
@@ -130,25 +130,31 @@ ul.navbar-links {
 }
 
 .navbar-links a {
-    text-decoration: none !important;
+    /* text-decoration: none !important; */
     /* padding: 0.3rem; */
-    /* color: var(--color-base); */
+    color: var(--color-base);
 }
 
 .navbar-home {
     font-family: var(--font-family-display);
     font-size: 2rem;
     color: var(--color-base);
+    /* font-weight: bolder; */
     /* background-color: var(--color-link-hover); */
     /* padding: 0.3rem 1.3rem; */
-    line-height: 0rem;
+    /* line-height: 0rem; */
     /* position: relative; */
     /* top: 4.5vh; */
     /* margin-bottom: 0; */
 }
 
-navbar-home strong {
+.navbar-home:hover {
+    color: var(--color-base);
+}
+
+.navbar-home>strong {
     color: var(--color-base) !important;
+    font-weight: bolder !important;
 }
 
 /* .navbar-home:hover {
@@ -156,9 +162,9 @@ navbar-home strong {
 } */
 
 nav ul.navbar-links a {
-    padding: 0.5rem 1rem;
-    position: relative;
-    top: 0;
+    /* padding: 0.5rem 1rem; */
+    /* position: relative; */
+    /* top: 0; */
     /* transition: all ease 0.5s; */
 }
 
@@ -169,8 +175,8 @@ nav ul.navbar-links a:not([aria-current="page"]):hover {
 }
 
 .navbar-links [aria-current="page"] {
-    background-color: var(--color-link-hover);
-    color: var(--color-background)
+    /* background-color: var(--color-link-hover); */
+    /* color: var(--color-background) */
 }
 
 div.h-card {
