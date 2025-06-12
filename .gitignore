@@ -1,7 +1,4 @@
-/_site
-/*.log
-/nbproject/private/
+_site
+_cache
 .DS_Store
-/src/_cache
-/src/_cache/*
-/_cache
+.env
