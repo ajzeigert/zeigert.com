@@ -1,3 +1,5 @@
+lang: en
+
 home:
   welcome: Hi 👋
   description:
@@ -14,13 +16,13 @@ footer: Copyright © 2024 Andy Zeigert
 
 menu_links:
   - href: https://mastodon.social/@zeigert
-    text: "@zeigert"
-  # - href: https://github.com/ajzeigert
-  #   text: Github
+    text: zeigert@mastodon
+  # - href: https://bsky.app/profile/zeigert.com
+  #   text: zeigert@bsky
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
-  site: Zeigert.com
+  site: Andy Zeigert
   description: Andy Zeigert's personal portfolio website and blog.
   color: hsl(159 89% 45%)
   keywords:
@@ -38,6 +40,6 @@ metas:
     - zeigertgeist
   title: "=title"
   image: "=image"
-  twitter: zeigert
+  # twitter: zeigert
   lang: en
   generator: true

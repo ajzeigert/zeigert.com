@@ -28,7 +28,7 @@ Leading with all of that only scratches the surface, of course. I don't really c
 ### Elsewhere
 
 - [Mastodon](https://mastodon.social/@zeigert)
-- [Bluesky](https://bsky.app/profile/zeigert.bsky.social)
+- [Bluesky](https://bsky.app/profile/zeigert.com)
 - [Github](https://github.com/ajzeigert/)
 - [Glitch](https://glitch.com/@zeigert)
 

@@ -2,8 +2,10 @@
 title: 'Remembering Abe Martin, Hoosier icon'
 date: '2024-09-13'
 draft: true
+tags: []
+comments: {}
 ---
-Don't get cocky
+This post is in progress.
 
 https://www.digitalresearch.bsu.edu/landandlit/about_us/student_bios/index.html
 

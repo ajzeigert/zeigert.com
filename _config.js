@@ -1,5 +1,5 @@
 import lume from "lume/mod.ts";
-import blog from "https://deno.land/x/lume_theme_simple_blog@v0.14.0/mod.ts";
+import blog from "blog/mod.ts";
 import favicon from "lume/plugins/favicon.ts";
 import picture from "lume/plugins/picture.ts";
 import transformImages from "lume/plugins/transform_images.ts";
@@ -27,9 +27,10 @@ const site = lume({
 	.use(picture())
 	.use(
 		transformImages({
-			extensions: [".jpg", ".jpeg", ".png", ".tif", ".psd", ".pdf"],
+			extensions: [".jpg", ".jpeg", ".png", ".tiff", ".psd", ".pdf"],
 		})
 	)
+	.add("img")
 	.use(
 		robots({
 			allow: ["Googlebot", "Bingbot"],
@@ -37,13 +38,5 @@ const site = lume({
 		})
 	)
 	.copy("BingSiteAuth.xml");
-
-// import cms from "./cms_config.ts";
-
-// Init the CMS and return an Hono instance with the app
-// const app = cms.init();
-
-// Run a local server with your CMS
-// Deno.serve(app.fetch);
 
 export default site;

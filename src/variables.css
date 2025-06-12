@@ -7,7 +7,7 @@
     /* --color-base: hsl(10, 63%, 46%); */
     /* --color-text: hsl(220, 30%, 20%); */
     /* --color-dim: hsl(220, 30%, 40%); */
-    --color-link: hsl(339 50% 26%);
+    /* --color-link: hsl(339 50% 26%); */
     --color-link-underline: hsl(335 32% 26% / 0.25);
     --color-link-hover: var(--andygreen);
     --color-line: hsl(220 30% 90%);
@@ -19,18 +19,39 @@
     /* --font-family-ui: 'Inter', 'Inter-fallback', -apple-system, system-ui, sans-serif; */
 
     /* SYSTEM FONT STACK ALT */
-    --font-family-ui: -apple-system, BlinkMacSystemFont, avenir next, avenir,
-        segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto,
-        arial, sans-serif;
-    --font-family-code: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console,
+    --font-family-ui: -apple-system,
+        BlinkMacSystemFont,
+        avenir next,
+        avenir,
+        segoe ui,
+        helvetica neue,
+        helvetica,
+        Cantarell,
+        Ubuntu,
+        roboto,
+        noto,
+        arial,
+        sans-serif;
+    --font-family-code: Menlo,
+        Consolas,
+        Monaco,
+        Liberation Mono,
+        Lucida Console,
         monospace;
-    --font-family-display: Iowan Old Style, Apple Garamond, Baskerville,
-        Times New Roman, Droid Serif, Times, Source Serif Pro, serif,
-        Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    --font-family-display: Iowan Old Style,
+        Apple Garamond,
+        Baskerville,
+        Times New Roman,
+        Droid Serif,
+        Times,
+        Source Serif Pro,
+        serif,
+        Apple Color Emoji,
+        Segoe UI Emoji,
+        Segoe UI Symbol;
 
     /* --font-code: 1rem/1.5 var(--font-family-code); */
-    --font-display: bold clamp(2rem, 10vw, 3.8rem) / 1
-        var(--font-family-display);
+    --font-display: bold clamp(2rem, 10vw, 3.8rem) / 1 var(--font-family-display);
     --font-display-spacing: -0.02em;
     --font-title: bold clamp(1.5rem, 8vw, 2rem) / 1.2 var(--font-family-display);
     --font-title-spacing: -0.015em;
@@ -38,7 +59,8 @@
     --font-body-spacing: 0em;
     /* --font-body-bold: bold var(--font-body); */
     /* --font-ui: 1rem/1.4 var(--font-family-ui); */
-    /* --font-small: 0.85rem/1.4 var(--font-family-ui); */ /* Space */
+    /* --font-small: 0.85rem/1.4 var(--font-family-ui); */
+    /* Space */
     /* --row-gap-small: 2.5rem; */
     --row-gap-medium: clamp(2rem, 5vh, 5rem);
 }
@@ -54,7 +76,7 @@
         --color-link-underline: hsl(220 20% 100% / 70%);
         /* --color-link-hover: hsl(220, 20%, 70%); */
         --color-line: hsl(220 20% 20%);
-        /* --color-background: hsl(218, 79%, 40%); */
+        --color-background: hsl(0, 0%, 100%);
     }
 }
 
@@ -65,17 +87,18 @@ a {
 }
 
 a[href]:not(:where(
-  /* exclude hash only links */
-  [href^="#"],
-  /* exclude relative but not double slash only links */
-  [href^="/"]:not([href^="//"]),
-  /* exclude email links */
-  [href^="mailto:"],
-  /* domains to exclude */
-  [href*="//zeigert.com"],
-  /* subdomains to exclude */
-  /* [href*="//meta.stackoverflow.com"], */
-)):after {
+
+        /* exclude hash only links */
+        [href^="#"],
+        /* exclude relative but not double slash only links */
+        [href^="/"]:not([href^="//"]),
+        /* exclude email links */
+        [href^="mailto:"],
+        /* domains to exclude */
+        [href*="//zeigert.com"],
+        /* subdomains to exclude */
+        /* [href*="//meta.stackoverflow.com"], */
+    )):after {
     content: " ↗";
 }
 
@@ -115,7 +138,8 @@ ul.navbar-links {
 .navbar-home {
     font-family: var(--font-family-display);
     font-size: 2rem;
-    color: var(--color-background);
+    color: var(--color-base);
+    /* font-weight: bolder; */
     /* background-color: var(--color-link-hover); */
     /* padding: 0.3rem 1.3rem; */
     /* line-height: 0rem; */
@@ -128,11 +152,20 @@ ul.navbar-links {
     color: var(--color-base);
 }
 
+.navbar-home>strong {
+    color: var(--color-base) !important;
+    font-weight: bolder !important;
+}
+
+/* .navbar-home:hover {
+    color: var(--color-base);
+} */
+
 nav ul.navbar-links a {
-    /* padding: 0.5rem 1rem;
-  position: relative;
-  top: 0;
-  transition: all ease 0.5s; */
+    /* padding: 0.5rem 1rem; */
+    /* position: relative; */
+    /* top: 0; */
+    /* transition: all ease 0.5s; */
 }
 
 nav ul.navbar-links a:not([aria-current="page"]):hover {

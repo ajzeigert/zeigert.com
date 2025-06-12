@@ -7,9 +7,28 @@ tags:
   - TTRPG
 comments:
   src: https://mastodon.social/@zeigert/111727290967682840
+transformImages:
+  resize: [200]
 ---
 
-<div style="display:flex; width: 100%; flex-wrap: wrap;" transform-images="320@2 jpg" >
+<style>
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Creates consistent spacing between items */
+  width: 100%;
+}
+
+.image-grid img {
+  flex: 1 1 calc(50% - 10px); /* 50% width minus gap */
+  min-width: calc(50% - 10px); /* Ensures 2 items per row */
+  max-width: calc(50% - 10px); /* Maintains consistent width */
+  object-fit: cover; /* Maintains aspect ratio */
+}
+
+</style>
+
+<div class="image-grid" >
     <img src="/img/colombo/colombo-04.png">
     <img src="/img/colombo/colombo-03.png">
     <img src="/img/colombo/colombo-02.png">
