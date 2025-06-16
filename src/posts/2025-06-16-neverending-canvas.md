@@ -3,7 +3,8 @@ title: Graffiti vs. gray paint
 date: '2025-06-16'
 draft: false
 tags: []
-comments: {}
+comments:
+  src: 'https://mastodon.social/@zeigert/114695681367947375'
 ---
 One of my regular running routes takes me along the access road for a local canal. It's a public right-of-way as well as a road regularly used by the [Central Oregon Irrigation District](https://coid.org/).[^1]
 
