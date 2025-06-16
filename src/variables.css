@@ -193,3 +193,9 @@ div.h-card img {
 .feedonly {
     display: none;
 }
+
+img+em {
+    font-weight: bold;
+    font-size: 0.9rem;
+    padding-left: 0.9rem;
+}
