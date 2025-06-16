@@ -2,8 +2,9 @@
 title: Graffiti vs. gray paint
 date: '2025-06-16'
 draft: false
+tags: []
+comments: {}
 ---
-
 One of my regular running routes takes me along the access road for a local canal. It's a public right-of-way as well as a road regularly used by the [Central Oregon Irrigation District](https://coid.org/).[^1]
 
 [^1]: The history of the little irrigation fiefdoms in our corner of the world is fascinating and worthy of a full post. Someday.
@@ -21,7 +22,9 @@ Spray painting these walls is illegal, make no mistake. But places like this are
 
 I'm not an art critic and especially not a graffiti critic. Many of the marks I've seen are amateur, rudimentary, perhaps created in haste and with little to say. But I've documented many of them. 
 
-Here are my favorites.
+Here are my favorites.[^3] I'll post more when I get 'em.
+
+[^3]: I had originally made an Instagram account to post these, but, fuck Instagram.
 
 ![Disobey or Die](/img/graffiti/02_disobey.jpeg)
 *Captured March 19, 2021*
