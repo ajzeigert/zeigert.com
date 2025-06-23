@@ -23,7 +23,11 @@ const site = lume({
 			},
 		})
 	)
-	.use(favicon())
+	.use(
+		favicon({
+			input: "/favicon.png",
+		})
+	)
 	.use(picture())
 	.use(
 		transformImages({
