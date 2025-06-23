@@ -2,6 +2,8 @@
 title: A Huyck down memory lane
 date: '2025-06-23T10:36:00.000Z'
 draft: false
+comments:
+  src: 'https://mastodon.social/@zeigert/114733934123130721'
 ---
 
 <img class="feedonly" id="viewDivFallback" loading="lazy" src='/img/huyck.png' alt='Screenshot of the Glass Buttes map'>
