@@ -4,7 +4,6 @@ date: '2025-07-04T00:00:00.000Z'
 draft: false
 tags:
   - review
-  - comics
 comments: {}
 ---
 Tongues Vol. 1 by Anders Nilsen | ★★★★☆
