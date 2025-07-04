@@ -5,7 +5,7 @@ draft: false
 tags:
   - reviews
 comments: 
-  src: https://mastodon.social/@zeigert/114796417939299181#.
+  src: 'https://mastodon.social/@zeigert/114796417939299181'
 ---
 Tongues Vol. 1 by Anders Nilsen | ★★★★☆
 
