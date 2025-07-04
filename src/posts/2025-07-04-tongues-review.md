@@ -3,8 +3,9 @@ title: Review of Tongues Vol. 1 by Anders Nilsen
 date: '2025-07-04T00:00:00.000Z'
 draft: false
 tags:
-  - review
-comments: {}
+  - reviews
+comments: 
+  src: https://mastodon.social/@zeigert/114796417939299181#.
 ---
 Tongues Vol. 1 by Anders Nilsen | ★★★★☆
 
