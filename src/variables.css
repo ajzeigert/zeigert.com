@@ -199,3 +199,10 @@ img+em {
     font-size: 0.9rem;
     padding-left: 0.9rem;
 }
+
+img[src$='#thumbnail'] {
+    float: right;
+    width: 200px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
