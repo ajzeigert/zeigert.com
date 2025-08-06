@@ -5,10 +5,10 @@ draft: false
 tags: 
   - music
 comments:
-  src: ''
+  src: 'https://mastodon.social/@zeigert/114983575568650440'
 ---
 
-I read two articles about dead musicians that seemed related, so I'll share here.
+I read two articles about dead musicians that seemed related.
 
 Julianne Escobedo Shepherd [offered a write-up of a new documentary about Jeff Buckley](https://www.hearingthings.co/jeff-buckley-documentary-review/), which places his admiration for women singers in context, making his chameleonic voice seem even more beautiful in retrospect. I'll be checking out that doc as soon as I can.
 
