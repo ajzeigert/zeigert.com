@@ -29,6 +29,9 @@ Here are my favorites.[^3] I'll post more when I get 'em.
 
 [^3]: I had originally made an Instagram account to post these, but, fuck Instagram.
 
+![Dragon?](/img/graffiti/dragon.jpeg)
+*Captured July 29, 2025*
+
 ![Disobey or Die](/img/graffiti/02_disobey.jpeg)
 *Captured March 19, 2021*
 
