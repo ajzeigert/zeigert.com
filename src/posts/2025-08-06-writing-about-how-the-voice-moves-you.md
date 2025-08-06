@@ -1,7 +1,7 @@
 ---
 title: The voices of dead musicians
 date: '2025-08-06'
-draft: true
+draft: false
 tags: 
   - music
 comments:
