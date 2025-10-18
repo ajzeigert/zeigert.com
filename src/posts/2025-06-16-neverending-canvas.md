@@ -2,7 +2,8 @@
 title: Graffiti vs. gray paint
 date: '2025-06-16'
 draft: false
-tags: []
+tags:
+  - art
 metas:
     image: /img/graffiti/16_cassette.jpeg
 comments:

@@ -2,6 +2,10 @@
 title: Open tabs for October 2025
 date: '2025-10-09'
 draft: false
+tags:
+  - links
+comments:
+  src: 'https://mastodon.social/@zeigert/115396696226803565'
 ---
 
 _**Editor's note:** This was supposed to be a September post but I got busy and it slipped into October, so forgive me if any of these are stale._ 
