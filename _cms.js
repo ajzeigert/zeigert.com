@@ -6,17 +6,12 @@ const user = Deno.env.get("CMS_USERNAME");
 const password = Deno.env.get("CMS_PASSWORD");
 
 cms.storage(
-	"src",
-	new GitHub({
-		client: new Octokit({ auth: Deno.env.get("GITHUB_TOKEN") }),
-		owner: "ajzeigert",
-		repo: "zeigert.com",
-		path: "src",
-	})
+  "src",
+  new GitHub("ajzeigert/zeigert.com/src", Deno.env.get("GITHUB_TOKEN")),
 );
 
 cms.auth({
-	[user]: password,
+  [user]: password,
 });
 
 export default cms;
