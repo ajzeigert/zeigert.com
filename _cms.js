@@ -2,8 +2,8 @@ import cms from "blog/_cms.ts";
 import GitHub from "lume/cms/storage/github.ts";
 import { Octokit } from "npm:octokit";
 
-const user = Deno.env.get("CMS_USERNAME");
-const password = Deno.env.get("CMS_PASSWORD");
+const user = Deno.env.get("CMS_USERNAME") || "test";
+const password = Deno.env.get("CMS_PASSWORD") || "test123";
 
 cms.storage(
   "src",
