@@ -23,7 +23,7 @@ menu_links:
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
   site: Andy Zeigert
-  description: Andy Zeigert's personal portfolio website and blog.
+  description: Andy's website and blog.
   color: hsl(159 89% 45%)
   keywords:
     - Andy Zeigert
