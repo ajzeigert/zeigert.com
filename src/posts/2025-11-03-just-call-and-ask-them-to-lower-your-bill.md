@@ -2,6 +2,8 @@
 title: Just call and ask them to lower your bill
 date: '2025-11-03'
 draft: false
+comments:
+  src: 'https://mastodon.social/@zeigert/115487361072125292'
 ---
 
 $10 a month feels pretty cheap until you realize that you are likely signing up to pay that every month in perpetuity. I've recently felt a little disillusioned by all the monthly charges. So I tried to do something about it. Here are my experiences.
