@@ -2,8 +2,8 @@
 title: Central Oregon Book Project illustrations
 date: '2024-01-22'
 tags:
-    - Illustration
-    - Central Oregon
+    - illustration
+    - central oregon
 metas:
     image: /img/cobp/fort-rock.png
 ---

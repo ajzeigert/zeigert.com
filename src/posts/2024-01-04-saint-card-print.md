@@ -2,9 +2,9 @@
 title: Saint Colombo
 date: 2024-01-08
 tags:
-  - Illustration
-  - Printmaking
-  - TTRPG
+  - illustration
+  - printmaking
+  - ttrpg
 comments:
   src: https://mastodon.social/@zeigert/111727290967682840
 transformImages:

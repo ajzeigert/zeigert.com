@@ -2,9 +2,9 @@
 title: Using systemd timers as a cron replacement
 date: '2024-02-12'
 tags:
-  - Linux
-  - Cron
-  - Systemd
+  - linux
+  - cron
+  - systemd
 metas:
     image: /img/timers/service-timer.png
 comments:

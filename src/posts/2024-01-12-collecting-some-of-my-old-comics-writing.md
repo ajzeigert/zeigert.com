@@ -2,8 +2,8 @@
 title: Collecting some of my old comics writing
 date: '2024-01-12'
 tags:
-  - Comics
-  - Writing
+  - comics
+  - writing
 ---
 
 I'm an avid comics reader. I still keep a pullbox at my [local comic shop](https://www.facebook.com/people/Pegasus-Books-of-Bend/100057318914816/), although my pull list maybe isn't as deep as it once was.

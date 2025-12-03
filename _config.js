@@ -21,26 +21,27 @@ const site = lume({
 					},
 				},
 			},
-		})
+		}),
 	)
 	.use(
 		favicon({
 			input: "/favicon.png",
-		})
+		}),
 	)
 	.use(picture())
 	.use(
 		transformImages({
 			extensions: [".jpg", ".jpeg", ".png", ".tiff", ".psd", ".pdf"],
-		})
+		}),
 	)
 	.add("img")
 	.use(
 		robots({
 			allow: ["Googlebot", "Bingbot"],
 			disallow: ["ChatGPT-User"],
-		})
+		}),
 	)
+	.copy("projects/scrollymap")
 	.copy("BingSiteAuth.xml");
 
 export default site;

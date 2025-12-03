@@ -2,9 +2,9 @@
 title: Where to find obsidian colors at Glass Buttes
 date: 2024-01-04
 tags:
-  - Maps
-  - Javascript
-  - Lume
+  - maps
+  - javascript
+  - lume
 comments:
   src: https://mastodon.social/@zeigert/111701186113394460
 ---

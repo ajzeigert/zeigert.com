@@ -1,6 +1,8 @@
 ---
 title: Just call and ask them to lower your bill
 date: '2025-11-03'
+tags:
+  - money
 draft: false
 comments:
   src: 'https://mastodon.social/@zeigert/115487361072125292'

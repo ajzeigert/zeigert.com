@@ -3,7 +3,7 @@ title: What this website is for
 date: 2023-12-20
 
 tags:
-    - Introduction
+    - introduction
 ---
 
 I kept a blog briefly in the early '00s. Shortly thereafter, I ran out of things to say. So I deleted it.

@@ -3,9 +3,9 @@ title: How this website is built
 date: 2023-12-21
 draft: false
 tags:
-    - Javascript
-    - Deno
-    - Lume
+    - javascript
+    - deno
+    - lume
 ---
 
 I'm primarily a javascript developer. I have built many websites, from simple, single HTML documents to large "enterprise" style apps. I'm quite comfortable building React [SPAs](https://developer.mozilla.org/en-US/docs/Glossary/SPA), in which the server sends a single HTML document to the client, which in turn instructs the client to download a few kilobytes or megabytes of javascript, which then constructs the UI and makes additional calls to the server for data. This usually results in a lovely, snappy interface that users have become quite accustomed to.

@@ -1,0 +1,489 @@
+StoreNumber,StoreName,StreetAddress,City,State,Zip,Manager,FirstAssistant,AreaName,AreaNumber,RegionName,RegionNumber,OpenYear,OpenMonth,OpenDay,Latitude,Longitude,Picture,Manager_Picture,No_Teldir_Update,Picture_Coming_Soon
+82,LEWISTON,1408 Main St,Lewiston,ID,83501,Rik Warden,Brian Peterson,Northern Idaho/Montana,9,Eastern Region,3,1966,10,1,46.4176795,-117.0131368,082 Lewiston.jpg,,0,0
+83,COEUR D'ALENE,2818 N Government Way,Coeur D Alene,ID,83815,Dwayne Glemser,Brandon Harris,Northern Idaho/Montana,9,Eastern Region,3,1966,10,1,47.7028400,-116.7857330,083 Coeur D Alene.jpg,,0,0
+84,GRANGEVILLE,411 E Main St,Grangeville,ID,83530,Ken Conner,Lee Stebar,Northern Idaho/Montana,9,Eastern Region,3,1966,10,1,45.9248514,-116.1142363,084-Grangeville.jpg,,0,0
+85,MOSCOW,1421 White Ave,Moscow,ID,83843,Rick Giddings,Will Walker,Northern Idaho/Montana,9,Eastern Region,3,1966,10,1,46.7227679,-116.9808805,085 Moscow.jpg,,0,0
+86,OROFINO,302 Johnson Ave,Orofino,ID,83544,Jason Mechling,Brian Corder,Northern Idaho/Montana,9,Eastern Region,3,1966,10,1,46.4779913,-116.2524992,086-Orofino.jpg,,0,0
+87,KELLOGG,15 E Cameron Ave,Kellogg,ID,83837,Tom Campbell,Brandon Benson,Northern Idaho/Montana,9,Eastern Region,3,1966,10,1,47.5381690,-116.1188210,087 Kellogg.jpg,,0,0
+89,WEISER,250 E 1st St,Weiser,ID,83672,Dan Gluch,Jacob Braithwaite,Southern Idaho,10,Eastern Region,3,1971,3,1,44.2453388,-116.9684195,089 Weiser.jpg,,0,0
+90,ST. MARIES,930 Main Ave,Saint Maries,ID,83861,Gary Gertje,Bryan Martin,Northern Idaho/Montana,9,Eastern Region,3,1969,10,9,47.3166016,-116.5697238,090-St. Maries.jpg,,0,0
+91,NAMPA,133 Caldwell Blvd,Nampa,ID,83651,Lon Holloman,Christopher Steffey,Southern Idaho,10,Eastern Region,3,1971,11,1,43.5857000,-116.5747270,091-Nampa.jpg,,0,0
+92,TWIN FALLS,421 Blue Lakes Blvd N,Twin Falls,ID,83301,Dave Cox,Jared Rorris,Southern Idaho,10,Eastern Region,3,1987,2,1,42.5691469,-114.4608305,092 Twin Falls.jpg,,0,0
+93,HAYDEN LAKE,8820 N Commerce Dr,Hayden,ID,83835,Kenny Carver,Richard Howe,Northern Idaho/Montana,9,Eastern Region,3,1996,2,1,47.7523070,-116.7894410,093-Hayden-Lake.jpg,,0,0
+94,JEROME,1848 S Lincoln Ave,Jerome,ID,83338,Mike Young,Jake Hansen,Southern Idaho,10,Eastern Region,3,2004,12,1,42.7055082,-114.5176621,094-Jerome.jpg,,0,0
+95,TWIN FALLS NORTH,389 Pole Line Rd,Twin Falls,ID,83301,Daniel Neff,Eddie Deleon,Southern Idaho,10,Eastern Region,3,2007,5,8,42.5924213,-114.4725536,095-Twin-Falls.jpg,,0,0
+99,RUPERT MORE MILE,601 S Oneida St # 2,Rupert,ID,83350,David George,,<null>,<null>,<null>,<null>,0,0,0,42.607268,-113.681093,,,1,1
+A03,ROSEBURG LAUREN YOUNG,2460 NE Stephens St,Roseburg,OR,97470,Dan Smith,Tim Eder,Southwestern Oregon,7,Central Region,2,1970,3,1,43.2397678,-123.3532116,A03 Roseburg.jpg,,0,0
+360,SPOKANE MORE MILE,6320 E Alki Ave,Spokane,WA,99212,Donnie Stevens,,<null>,<null>,<null>,<null>,0,0,0,47.662177,-117.319647,,,1,1
+A08,BAKER CITY LEW BROTHERS,210 Bridge St,Baker City,OR,97814,Jake Pearce,,Eastern Oregon,8,Central Region,2,1971,8,1,44.7729619,-117.8278694,A08-Baker-City.jpg,,0,0
+A09,QUINCY HORTON,116 E Main St,Quincy,CA,95971,Ron Horton,Chris Ray,Northeastern Calif/Nevada,13,Southern Region,4,1992,9,1,39.9358120,-120.9341137,A09 Quincy.jpg,,0,0
+A14,CAMAS GUNDERSON'S TIRE,2375 SE 8th Ave,Camas,WA,98607,Rich Gunderson,Chad Boyd,Southwestern Washington,2,Northwestern Region,1,1989,6,1,45.5814384,-122.3830923,A14-Camas.jpg,,0,0
+A15,DAVENPORT SCOTT'S TIRE,310 Morgan St,Davenport,WA,99122,Dru Van Ausdle,,Eastern Washington,4,Northwestern Region,1,1989,9,1,47.6543101,-118.1456026,A15 Davenport.jpg,,0,0
+A16,STEVENSVILLE HARPER,4026 US Highway 93 N,Stevensville,MT,59870,Jason Harper,Vince Edwards,Northern Idaho/Montana,9,Eastern Region,3,1995,7,1,46.5322340,-114.1097174,A16 Stevensville.jpg,,0,0
+A17,GARDNERVILLE MARK SMITH,1151 US Highway 395 N,Gardnerville,NV,89410,Melissa Smith,Robert Davis,Northeastern Calif/Nevada,13,Southern Region,4,1994,9,1,38.9218290,-119.7231866,A17-Gardnerville.jpg,,0,0
+A18,PORTLAND ARMSTRONG ENT,633 NE Broadway St,Portland,OR,97232,Richard Henry,Harold Lively,Northwestern Oregon,5,Central Region,2,1989,2,1,45.5353583,-122.6589104,A18-Portland-Armstrong.jpg,,0,0
+A19,PORTOLA COATES,73816 S Delleker Rd,Portola,CA,96122,Bob Price,Jared Willis,Northeastern Calif/Nevada,13,Southern Region,4,1995,10,1,39.8050428,-120.4990364,A19-Portola.jpg,,0,0
+A21,WARRENTON MCCALL'S TIRE,1167 SE Marlin Ave,Warrenton,OR,97146,Michael Mccall,Russell Hollaway,Western Oregon,6,Central Region,2,1977,7,1,46.1554665,-123.9054702,,,0,1
+A22,SEASIDE MCCALL'S TIRE,2155 S Roosevelt Dr,Seaside,OR,97138,Sam Jasmin,,Western Oregon,6,Central Region,2,1980,7,1,45.9793165,-123.9263433,A22-Seaside.jpg,,0,0
+A23,BONNERS FERRY J B'S TIRE,6804 Denver St,Bonners Ferry,ID,83805,Jay Wages,Rob Tompkins,Northern Idaho/Montana,9,Eastern Region,3,1982,9,1,48.6863776,-116.3186594,A23-Bonners-Ferry.jpg,,0,0
+A24,DEER LODGE MOUNT POWELL,217 Main St,Deer Lodge,MT,59722,Beau Brown,,Northern Idaho/Montana,9,Eastern Region,3,1996,4,1,46.4005565,-112.7346166,A24-Deer-Lodge.jpg,,0,0
+A25,NEWPORT ALAN BROWN,1155 SW Coast Hwy,Newport,OR,97365,Ken Brown,Brady Cyphert,Western Oregon,6,Central Region,2,1972,5,1,44.6259314,-124.0601251,A25 Newport.jpg,,0,0
+A26,TOLEDO ALAN BROWN,415 NW A St,Toledo,OR,97391,Tad Brown,Lynn Rorie,Western Oregon,6,Central Region,2,2001,10,2,44.6228801,-123.9397197,A26-Toledo.jpg,,0,0
+A28,HILLSBORO GRATTERI,320 SE 10th Ave,Hillsboro,OR,97123,Mike Atkinson,Nate Krupp,Northwestern Oregon,5,Central Region,2,1973,4,1,45.5196095,-122.9734266,A28-Hillsboro.jpg,,0,0
+A29,FOREST GROVE GRATTERI'S,2730 Pacific Ave,Forest Grove,OR,97116,Jason Warden,David Burns,Northwestern Oregon,5,Central Region,2,1978,1,2,45.5196354,-123.0983806,A29 Forest Grove.jpg,,0,0
+499,LS MOBILE ALIGN-SEATLE,22101 84th Ave S,Kent,WA,98032,Lloyd Kingsford,,<null>,<null>,<null>,<null>,0,0,0,47.402452,-122.228208,,,1,1
+A35,RITZVILLE TIRE CENTER,1004 W 1st Ave,Ritzville,WA,99169,Mitch Fode,Randy Geary,Eastern Washington,4,Northwestern Region,1,1997,2,1,47.1203407,-118.3855576,A35-Ritzville.jpg,,0,0
+A36,RIGBY GEO. & JESSE TIRE,126 S State St,Rigby,ID,83442,B.J. & Richard Byram,,Southern Idaho,10,Eastern Region,3,1995,8,1,43.6715964,-111.9153802,A36 Rigby.jpg,,0,0
+699,REDDING MORE MILE,4948 Caterpillar Rd ,Redding ,CA,96003,Mark Swofford,,<null>,<null>,<null>,<null>,0,0,0,40.625695,-122.376375,,,1,1
+A40,JUNCTION CITY BOB DICKMAN,222 W 1st Ave,Junction City,OR,97448,Jon Edwards,Travis Abrahamson,Southwestern Oregon,7,Central Region,2,1973,8,1,44.2154837,-123.2025503,A40 Junction City.jpg,,0,0
+A43,PROSSER BROWN'S TIRE,310 Wine Country Rd,Prosser,WA,99350,Jere Matthews,Kelby Cleaver,Eastern Washington,4,Northwestern Region,1,1981,10,1,46.2108890,-119.7791044,A43 Prosser.jpg,,0,0
+A46,RUPERT MAGIC VALLEY TIRE,109 S 100 W,Rupert,ID,83350,Layne Rutschke,Layne Jason Rutschke,Southern Idaho,10,Eastern Region,3,1990,2,1,42.6047506,-113.6883496,A46 Rupert.jpg,,0,0
+A47,PAUL MAGIC VALLEY TIRE,25 W Ellis St,Paul,ID,83347,Mitch & Beau Twiss,Dustin Anderson,Southern Idaho,10,Eastern Region,3,1990,2,1,42.6046479,-113.7848598,,,0,1
+A53,HAMILTON JERRY WESSELS,211 N 1st St,Hamilton,MT,59840,Robert Ramsey,Mike Keimig,Northern Idaho/Montana,9,Eastern Region,3,1987,9,1,46.2488648,-114.1562732,A53-Hamilton.jpg,,0,0
+A55,LIBBY J B'S TIRE,32032 HWY 2,Libby,MT,59923,Robb Macdonald,Bryan Walker,Northern Idaho/Montana,9,Eastern Region,3,1982,9,1,48.3939597,-115.5664148,A55-Libby.jpg,,0,0
+903,MISSOULA MORE MILE,2800 W Broadway,Missoula,MT,59808,,,<null>,<null>,<null>,<null>,0,0,0,46.890706,-114.029592,,,1,1
+A57,ST ANTHONY NEILS & JOE'S,205 S Bridge St,Saint Anthony,ID,83445,R.J. Thueson,Ryan Hathaway,Southern Idaho,10,Eastern Region,3,1988,1,1,43.9643038,-111.6824870,A57-St-Anthonys.jpg,,0,0
+A62,SUBLIMITY STEVE WHEELER,400 SW Sublimity Blvd,Sublimity,OR,97385,Lorne Jones,Toby Pires,Western Oregon,6,Central Region,2,1974,5,1,44.8193182,-122.7982033,A62-Sublimity.jpg,,0,0
+A63,SISTERS TAYLOR TIRE CTR,600 W Hood Ave,Sisters,OR,97759,Jeff Taylor,Raymond Blevins,Eastern Oregon,8,Central Region,2,1996,9,1,44.2909591,-121.5564916,A63-Sisters.jpg,,0,0
+A65,MYRTLE CREEK LAUREN YOUNG,133 S Old Pacific Hwy,Myrtle Creek,OR,97457,Allan Twyman,Grant Schmidt,Southwestern Oregon,7,Central Region,2,1970,3,1,42.9846343,-123.3228044,,,0,1
+A66,ROSEBURG L YOUNG TRUCK,3825 N Umpqua Hwy,Roseburg,OR,97470,Danny Franco,,Southwestern Oregon,7,Central Region,2,1970,3,1,43.2133877,-123.2997063,A66-Roseburg.jpg,,0,0
+A67,OROVILLE SHAUB-ELLISON,2304 US Highway 97,Oroville,WA,98844,Ryan Smith,Jay Hurst,Central Washington,3,Northwestern Region,1,1996,5,1,48.9488435,-119.4355617,,,0,1
+A68,SUTHERLIN LAUREN YOUNG,785 E Central Ave,Sutherlin,OR,97479,Scott Cameron,Steve Crewse,Southwestern Oregon,7,Central Region,2,1997,7,1,43.3925206,-123.3024425,A68-Southerlin.jpg,,0,0
+A70,SALMON BIRD'S TIRE CENTER,71 Highway 28,Salmon,ID,83467,Kris Bird,Josh Bird,Northern Idaho/Montana,9,Eastern Region,3,1996,6,1,45.0670353,-113.6998625,A70-Salmon.jpg,,0,0
+003,LS PRODUCTION CENTER,717 NW Madras Hwy,Prineville,OR,97754,Chuck Giovanini,,<null>,<null>,<null>,<null>,0,0,0,44.3059,-120.8625,Production.jpg,,1,0
+A72,DEER PARK TIRE INC.,202 W 1st St,Deer Park,WA,99006,Nathan Green,Laddigo Scott,Eastern Washington,4,Northwestern Region,1,1998,6,1,47.9561664,-117.4809336,A72-Deer-Park.jpg,,0,0
+A73,WAPATO TIRE CENTER,403 W 1st St,Wapato,WA,98951,Phil Winterholler,Jon Cooper,Eastern Washington,4,Northwestern Region,1,1998,8,1,46.4475994,-120.4241776,A73-Wapato.jpg,,0,0
+A75,DILLON JERRY WESSELS,1035 Selway Dr,Dillon,MT,59725,Robert Cox,Adam Hooten,Northern Idaho/Montana,9,Eastern Region,3,2000,3,1,45.2313000,-112.6275830,A75-Dillon.jpg,,0,0
+A77,AUBURN,2547 Grass Valley Hwy,Auburn,CA,95603,Tom Lopiccolo,Tom Couvrette,Northeastern Calif/Nevada,13,Southern Region,4,2001,7,9,38.9377722,-121.0967067,A77-Auburn.jpg,,0,0
+A79,ROYAL CITY TIRE CENTER,430 E Acacia St,Royal City,WA,99357,Mike Miacolo,,Eastern Washington,4,Northwestern Region,1,2003,7,22,46.8988730,-119.6203520,A79-Royal-City.jpg,,0,0
+A83,BENTON CITY WINTERHOLLER,744 9th St,Benton City,WA,99320,Dan Anaya,Matthew Saldana,Eastern Washington,4,Northwestern Region,1,2005,8,4,46.2666427,-119.4871380,A83 Benton City.jpg,,0,0
+A84,GRANDVIEW BROWN'S TIRE,812 W Wine Country Rd,Grandview,WA,98930,Collin Brown,Cliff Clifton,Eastern Washington,4,Northwestern Region,1,2003,8,28,46.2595540,-119.9138539,A84 Grandview.jpg,,0,0
+A87,PRICE DINOSAUR TIRE,200 E Main St,Price,UT,84501,Brandon Axelgard,Bill Peters,Utah,11,Eastern Region,3,2004,12,6,39.5991678,-110.8069352,A87-Price.jpg,,0,0
+A89,BEND SOUTH TIRE CENTER,61085 S Highway 97,Bend,OR,97702,Joe Wheeler,Dave Teichrow,Eastern Oregon,8,Central Region,2,2006,7,1,44.0184290,-121.3180722,A89-Bend-South.jpg,,0,0
+008,LS EQUIPMENT,305 NW Madras Hwy,Prineville,OR,97754,Mike Crakes,,<null>,<null>,<null>,<null>,0,0,0,44.3031,-120.8611,LSE.jpg,,1,0
+S02,LYNDEN WALLGREN'S TIRE,210 Birch Bay Lynden Rd,Lynden,WA,98264,Rory Wallgren,Jeremy Gunderson,Northwestern Washington,1,Northwestern Region,1,1992,9,1,48.9358699,-122.4912525,S02-Lynden.jpg,,0,0
+053,LS TRANSPORT,1515 NW O'Neil Hwy,Prineville,OR,97754,John Orem,,<null>,<null>,<null>,<null>,1989,6,6,44.302920,-120.844044,,,1,1
+35,LS RANCH,138750 Paulina Hwy,Paulina,OR,97752,,,<null>,<null>,<null>,<null>,0,0,0,44.1200,-120.2345,,,1,1
+S05,EDMONDS,23110A Highway 99,Edmonds,WA,98026,Bryan Campbell,Troy Mcintosh,Northwestern Washington,1,Northwestern Region,1,2005,7,1,47.7889171,-122.3402616,S05-Edmonds.jpg,,0,0
+S06,SHORELINE,17754 15th Ave NE,Shoreline,WA,98155,Jerry Dunnagan,Nick Howes,Northwestern Washington,1,Northwestern Region,1,1979,10,1,47.7591199,-122.3129349,S06-Shoreline.jpg,,0,0
+S08,SEATTLE T J TIRE,5000 15th Ave NW,Seattle,WA,98107,Steve Jackson,Kevin Ochs,Northwestern Washington,1,Northwestern Region,1,1979,10,1,47.6652605,-122.3758274,S08 Seattle TJ.jpg,,0,0
+S09,LYNNWOOD MIKE STEPHENSON,4933 196th St SW,Lynnwood,WA,98036,Nick Wezenberg,Keith Anderson,Northwestern Washington,1,Northwestern Region,1,1980,4,1,47.8216012,-122.3005618,S09-Lynnwood.jpg,,0,0
+S10,EVERETT STEPHENSON EVRGRN,4805 Evergreen Way,Everett,WA,98203,Brian Hudson,Camron Emery,Northwestern Washington,1,Northwestern Region,1,1980,4,1,47.9540145,-122.2128174,S10 Everett.jpg,,0,0
+S12,EVERETT STEPHENSON WALNT,2701 Walnut St,Everett,WA,98206,Kurt Chambers,Harold Wilson,Northwestern Washington,1,Northwestern Region,1,1980,4,1,47.9814508,-122.1889775,S12-Everett.jpg,,0,0
+S13,EVERETT STEPHENSON 112TH,1415 112th St SE,Everett,WA,98208,Wes Ogden,Erik Torjussen,Northwestern Washington,1,Northwestern Region,1,1980,4,1,47.8972244,-122.2127244,S13-Everett.jpg,,0,0
+53O,LS TRANSPORT ONTARIO DIV,400 E. Lane,Ontario,OR,97914,,,<null>,<null>,<null>,<null>,2003,3,1,44.021965,-116.940264,,,1,1
+53R,LS TRANSPORT REDDING DIV,7211 Sands Ln.,Redding ,CA,96007,,,<null>,<null>,<null>,<null>,2001,9,1,40.580792,-122.469442,,,1,1
+53P,LS TRANSPORT PORTLAND DIV,4047 N. Suttle Rd.,Portland,OR,97211,,,<null>,<null>,<null>,<null>,1994,3,1,45.614049,-122.709065,,,1,1
+53B,LS TRANSPORT BOARDMAN DIV,301 Olson Rd.,Boardman,OR,97818,,,<null>,<null>,<null>,<null>,1997,7,1,44.3045,-120.8662,,,1,1
+S23,CHELAN SHAUB-ELLISON,1056 E Woodin Ave,Chelan,WA,98816,Dan Ewing,Jeff Shumway,Central Washington,3,Northwestern Region,1,1989,7,1,47.8391764,-119.9997014,S23-Chelan.jpg,,0,0
+S24,JUNEAU SHAUB-ELLISON,8555 Airport Blvd,Juneau,AK,99801,Dave Stearns,Joey Heit,Southwestern Washington,2,Northwestern Region,1,1990,9,1,58.3589300,-134.5725422,S24-Juneau.jpg,,0,0
+RDM,LS AIRPORT HANGER RDM,888 SE Veterans Way,Redmond,OR,97756,,,<null>,<null>,<null>,<null>,2009,1,20,44.261291,-121.159337,,,1,1
+S27,BREWSTER SHAUB-ELLISON,510 Bridge St N,Brewster,WA,98812,Brian Biggerstaff,Adolfo Cisneros,Central Washington,3,Northwestern Region,1,1991,5,1,48.1037252,-119.7804638,S27-Brewster.jpg,,0,0
+S31,CRAIG SHAUB-ELLISON CO,1507 E Craig Hwy,Craig,AK,99921,Bob Looney,,<null>,<null>,<null>,<null>,2000,7,6,55.475025,-133.150569,,,1,1
+S33,BURLINGTON PAT RIMMER,903 S Burlington Blvd,Burlington,WA,98233,Ed Perry,Rob Picklesimer,Northwestern Washington,1,Northwestern Region,1,1982,4,1,48.4679848,-122.3369585,S33-Burlington.jpg,,0,0
+806,LES SCHWAB HEADQUARTERS,20900 Cooley Road,Bend,OR,97701,,,<null>,<null>,<null>,<null>,2008,12,15,44.109010,-121.278969,806 LS Headquarters.jpg,,1,0
+PVL,LS AIRPORT HANGER PVL,4437B SW Airport Rd,Prineville,OR,97754,,,<null>,<null>,<null>,<null>,0,0,0,44.281136,-120.899851,,,1,1
+S34,STANWOOD RIMMER TIRE CTR,27001 Pioneer Hwy,Stanwood,WA,98292,Rob Dwoskin,Mark Donohue,Northwestern Washington,1,Northwestern Region,1,1988,10,1,48.2417227,-122.3452396,S34-Stanwood.jpg,,0,0
+S35,SEDRO WOOLLEY PAT RIMMER,204 W Moore St,Sedro Woolley,WA,98284,Joe Jones,Justin Ward,Northwestern Washington,1,Northwestern Region,1,1992,9,1,48.5107589,-122.2408120,S35-Sedro-Woolley.jpg,,0,0
+418,SELAH,365 N Wenas Rd,Selah,WA,98942,Jeff Ratzesberger,Dustyn Flaker,Eastern Washington,4,Northwestern Region,1,2008,12,18,46.6589335,-120.5245539,418 Selah.jpg,,0,0
+127,RATHDRUM,13500 W Highway 53,Rathdrum,ID,83858,Matt Ratchen,Jack Herron,Northern Idaho/Montana,9,Eastern Region,3,2009,3,4,47.8191750,-116.8837880,127 Rathdrum.jpg,,0,0
+677,RIPON,750 N Jack Tone Rd,Ripon,CA,95366,Jordan Gatherum,Casey Landis,Central California,14,Southern Region,4,2009,1,29,37.7483110,-121.1410140,677 Rippon.jpg,,0,0
+S40,MT VERNON WESTSIDE TIRE,1003 W Division St,Mount Vernon,WA,98273,Robert Mcadow,Sam Porret,Northwestern Washington,1,Northwestern Region,1,1980,4,1,48.4220282,-122.3476682,S40-Mt-Vernon.jpg,,0,0
+420,PASCO ROAD 68,5410 N Road 68,Pasco,WA,99301,Heath Schilz,Dave Church,Eastern Washington,4,Northwestern Region,1,2009,10,19,46.2763312,-119.1868163,420 Pasco.jpg,,0,0
+419,BELLEVUE BEL RED ROAD,12828 Bel Red Rd,Bellevue,WA,98005,Andy Jarvis,Thomas Olsen,Central Washington,3,Northwestern Region,1,2009,10,29,47.6216692,-122.1689489,419 Bellevue Bel Red Road.jpg,,0,0
+961,SPANISH SPRINGS,501 Los Altos Pkwy,Sparks,NV,89436,Cory Witters,Tyler Smith,Northeastern Calif/Nevada,13,Southern Region,4,2010,9,3,39.5847403,-119.7353900,961 Spanish Springs.jpg,,0,0
+421,VANCOUVER EAST,3200 SE 192nd Ave,Vancouver,WA,98683,Scott Nye,Alfred Schauer,Southwestern Washington,2,Northwestern Region,1,2010,10,28,45.5980228,-122.4786003,421 Vancouver East.jpg,,0,0
+101,BOISE FAIRVIEW,6017 W Fairview Ave,Boise,ID,83704,Jeff Wick,Matt Bruce,Southern Idaho,10,Eastern Region,3,1973,12,1,43.6186251,-116.2564799,101-Boise.jpg,Wick.jpg,0,0
+102,MOUNTAIN HOME,400 Airbase Rd,Mountain Home,ID,83647,Mark Draper,Nickolas Kinion,Southern Idaho,10,Eastern Region,3,1980,11,1,43.1266240,-115.6958161,102-Mt-Home.jpg,,0,0
+103,BOISE STATE ST,6520 W State St,Boise,ID,83714,Dave Black,Joseph Whelan,Southern Idaho,10,Eastern Region,3,1981,10,1,43.6632279,-116.2697920,103-Boise.jpg,,0,0
+104,EMMETT,419 N Washington Ave,Emmett,ID,83617,Matt Lustig,Travis Fisher,Southern Idaho,10,Eastern Region,3,1982,9,1,43.8787018,-116.5000747,,,0,1
+105,POST FALLS,302 E Seltice Way,Post Falls,ID,83854,Randy Christian,Aaron Stewart,Northern Idaho/Montana,9,Eastern Region,3,1982,9,1,47.7147737,-116.9443181,105-Post-Falls.jpg,,0,0
+106,PRIEST RIVER,4357 US Highway 2,Priest River,ID,83856,Rick Mcdonald,Wayne Frye,Northern Idaho/Montana,9,Eastern Region,3,1983,7,1,48.1814389,-116.9478867,106-Priest-River.jpg,,0,0
+107,CALDWELL,315 S 22nd Ave,Caldwell,ID,83605,Tony Malaspina,Randy Worch,Southern Idaho,10,Eastern Region,3,1984,7,1,43.6542343,-116.6743363,107-Caldwell.jpg,,0,0
+108,SANDPOINT,279 Bonner Mall Way,Ponderay,ID,83852,Matt Pond,Nick Badoux,Northern Idaho/Montana,9,Eastern Region,3,1985,8,1,48.3006999,-116.5451334,108-Sandpoint.jpg,,0,0
+109,POCATELLO,505 N 5th Ave,Pocatello,ID,83201,Jim Hughes,Anson Smith,Southern Idaho,10,Eastern Region,3,1986,5,1,42.8692677,-112.4478361,109-Pocatello.jpg,,0,0
+110,BLACKFOOT,990 W Bridge St,Blackfoot,ID,83221,Darrel Francke,Matthew Solander,Southern Idaho,10,Eastern Region,3,1986,6,1,43.1927060,-112.3575827,110 Blackfoot.jpg,,0,0
+112,IDAHO FALLS EAST,970 E 17th St,Idaho Falls,ID,83404,David Knutz,Craig Witters,Southern Idaho,10,Eastern Region,3,1986,7,1,43.4819566,-112.0148755,112 Idaho E.jpg,,0,0
+113,IDAHO FALLS,210 Constitution Way,Idaho Falls,ID,83402,Gary Bair,Patrick Smith,Southern Idaho,10,Eastern Region,3,1986,7,1,43.4939078,-112.0373873,113 Idaho Falls.jpg,,0,0
+114,REXBURG,407 S 5th W,Rexburg,ID,83440,Mike Bruton,Neal Waddoups,Southern Idaho,10,Eastern Region,3,1987,4,1,43.8172002,-111.7973541,114-Rexburg.jpg,,0,0
+115,POCATELLO NORTH,4020 Yellowstone Ave,Pocatello,ID,83202,Adam Trevino,Griffin Lien,Southern Idaho,10,Eastern Region,3,1988,5,1,42.9064424,-112.4642347,115 Pocatello N.jpg,,0,0
+116,BOISE BROADWAY,2085 S Broadway Ave,Boise,ID,83706,Wayne Castle,Tom Heninger,Southern Idaho,10,Eastern Region,3,1991,5,1,43.5863277,-116.1941972,116-Boise-Broadway.jpg,,0,0
+117,HAILEY,520 N River St,Hailey,ID,83333,Chad Miller,Aaron Petzoldt,Southern Idaho,10,Eastern Region,3,1991,9,1,43.5239413,-114.3197222,117-Hailey.jpg,,0,0
+118,BOISE DOWNTOWN,1324 W Jefferson St,Boise,ID,83702,Mickey Denton,Jarred Bean-Sasser,Southern Idaho,10,Eastern Region,3,1994,4,1,43.6214634,-116.2073804,118-Boise-Downtown.jpg,,0,0
+119,MERIDIAN,275 S Main St,Meridian,ID,83642,Steve Shumaker,Jared Fast,Southern Idaho,10,Eastern Region,3,1995,7,1,43.6023339,-116.3922649,119 Meridian.jpg,,0,0
+120,BUHL,1241 Burley Ave,Buhl,ID,83316,Mike Cates,Noah Potts,Southern Idaho,10,Eastern Region,3,1999,6,1,42.5931821,-114.7674986,120 Buhl.jpg,,0,0
+121,EAGLE,1467 E Iron Eagle Dr,Eagle,ID,83616,Darrin Mclean,Shawn Scroggins,Southern Idaho,10,Eastern Region,3,2000,5,15,43.6889265,-116.3357068,121-Eagle.jpg,,0,0
+123,AMERICAN FALLS,2842 Pocatello Ave,American Falls,ID,83211,Melvin Falk,Boyd Prestidge,Southern Idaho,10,Eastern Region,3,2001,1,2,42.7872062,-112.8426824,123-American-Falls.jpg,,0,0
+124,BOISE SOUTH COLE,1850 S Cole Rd,Boise,ID,83709,Mike Seely,Chris Brewer,Southern Idaho,10,Eastern Region,3,2001,10,19,43.5873541,-116.2732180,124-Boise-South-Cole.jpg,,0,0
+125,MCCALL,500 Deinhard Ln,Mccall,ID,83638,Nate Laughery,Daniel Straw,Southern Idaho,10,Eastern Region,3,2001,6,1,44.8974798,-116.0930972,125-McCall.jpg,,0,0
+126,NAMPA SOUTH,2901 12th Ave Rd,Nampa,ID,83686,Corey Miner,Jason Strain,Southern Idaho,10,Eastern Region,3,2003,7,18,43.5411031,-116.5734838,126-Nampa-S.jpg,,0,0
+201,GRESHAM,390 NE Burnside Rd,Gresham,OR,97030,Howard Magden,Pat Hammond,Northwestern Oregon,5,Central Region,2,1973,6,1,45.5072552,-122.4268711,201 Gresham.jpg,,0,0
+202,MCMINNVILLE,170 NE Highway 99W,Mcminnville,OR,97128,Jobe Nash,Raleigh Richey,Western Oregon,6,Central Region,2,1973,8,15,45.2209296,-123.1963815,202-McMinnville.jpg,,0,0
+203,ASHLAND,2308 Ashland St,Ashland,OR,97520,Jeff Robidou,Ian Mcphee,Southwestern Oregon,7,Central Region,2,1973,10,1,42.1849446,-122.6709654,203-Ahsland.jpg,,0,0
+204,WOODBURN,1140 N Pacific Hwy,Woodburn,OR,97071,Jim Bowen,Scott Mcdaniel,Western Oregon,6,Central Region,2,1973,8,15,45.1455103,-122.8357062,204 Woodburn.jpg,,0,0
+205,PORTLAND SOUTH 82ND,7304 SE 82nd Ave,Portland,OR,97266,Cory Bowers,Devin Cabato,Northwestern Oregon,5,Central Region,2,1974,10,1,45.4699596,-122.5785989,205-Portland-82nd.jpg,,0,0
+206,NYSSA,204 Thunderegg Blvd,Nyssa,OR,97913,C J Church,Brian Blackmore,Eastern Oregon,8,Central Region,2,1976,1,1,43.8788800,-117.0018258,206-Nyssa.jpg,,0,0
+207,BEAVERTON,10340 SW Canyon Rd,Beaverton,OR,97005,Darrell Stringer,Erik Nilssen,Northwestern Oregon,5,Central Region,2,1976,12,1,45.4921409,-122.7830096,207 Beaverton.jpg,,0,0
+208,HEPPNER,124 N Main St,Heppner,OR,97836,John Gould,Jeff Mccrumb,Eastern Oregon,8,Central Region,2,1977,2,14,45.3537155,-119.5530856,208-Heppner.jpg,,0,0
+209,COTTAGE GROVE,109 S Pacific Hwy,Cottage Grove,OR,97424,Jim Gipson,Alexander Johnson,Southwestern Oregon,7,Central Region,2,1977,10,1,43.7960716,-123.0603734,209-Cottage-Grove.jpg,,0,0
+210,EUGENE SANTA CLARA,52 Division Ave,Eugene,OR,97404,Jason Gale,Fernando Salas,Southwestern Oregon,7,Central Region,2,1978,11,1,44.0985285,-123.1286358,210-Eugene-Santa-Clara.jpg,,0,0
+211,SALEM SOUTH,1405 Barnes Ave SE,Salem,OR,97306,Mike Murphy,Branin Cook,Western Oregon,6,Central Region,2,1978,11,1,44.8815650,-123.0275170,211-Salem-South.jpg,,0,0
+212,SALEM NORTH,3030 River Rd N,Salem,OR,97303,Blake Williams,Jamie Miller,Western Oregon,6,Central Region,2,1978,11,1,44.9699232,-123.0310024,212-Salem-North.jpg,,0,0
+213,TIGARD,11581 SW Pacific Hwy,Tigard,OR,97223,Rod Guthrie,Jeremy Schluckebier,Northwestern Oregon,5,Central Region,2,1978,11,1,45.4396297,-122.7528950,213-Tigard.jpg,,0,0
+214,INDEPENDENCE,1710 Monmouth St,Independence,OR,97351,Mark Music,Mason Hecket,Western Oregon,6,Central Region,2,1979,9,1,44.8516640,-123.2144200,214-Independence.jpg,,0,0
+215,PORTLAND HOLLYWOOD,2952 NE Sandy Blvd,Portland,OR,97232,Pablo Meza,Jeremy Portwood,Northwestern Oregon,5,Central Region,2,1980,1,1,45.5297649,-122.6348006,215-Portland-Hollywood.jpg,,0,0
+216,DALLAS,121 Main St,Dallas,OR,97338,Dan Furrer,Michael Willer,Western Oregon,6,Central Region,2,1980,9,1,44.9290445,-123.3131576,216-Dallas.jpg,,0,0
+217,NEWBERG,110 Sitka Ave,Newberg,OR,97132,Mike Gannon,Steve Boddington,Western Oregon,6,Central Region,2,1981,3,1,45.3008346,-122.9581786,217-Newberg.jpg,,0,0
+218,LINCOLN CITY,1025 SW Highway 101,Lincoln City,OR,97367,Jeremy Hoffman,Ben Grimshaw,Western Oregon,6,Central Region,2,1981,7,1,44.9596199,-124.0143999,218-Lincoln-City.jpg,,0,0
+219,FLORENCE,4325 Highway 101,Florence,OR,97439,Luke Lyda,Lee Morgan,Southwestern Oregon,7,Central Region,2,1981,9,1,44.0042173,-124.1023710,219-Florence.jpg,,0,0
+220,OREGON CITY,1625 Beavercreek Rd,Oregon City,OR,97045,Dorian Moore,Christopher Hargrave,Western Oregon,6,Central Region,2,1982,8,1,45.3347280,-122.5864720,220 Oregon City.jpg,,0,0
+221,PORTLAND ST JOHNS,5510 N Lombard St,Portland,OR,97203,Rich Finley,Tim Combs,Northwestern Oregon,5,Central Region,2,1983,6,1,45.5830121,-122.7263486,221-Portland-St.-Johns.jpg,,0,0
+222,TILLAMOOK,1220 Main Ave,Tillamook,OR,97141,Pat Dean,Albert Willhite,Western Oregon,6,Central Region,2,1984,7,1,45.4484526,-123.8441681,222-Tillamook.jpg,,0,0
+223,ENTERPRISE,802 NW 1st St,Enterprise,OR,97828,Fred Ruetsch,Timothy Martin,Eastern Oregon,8,Central Region,2,1984,11,1,45.4321449,-117.2794148,223-Enterprise.jpg,,0,0
+224,LAKE GROVE,17171 Boones Ferry Rd,Lake Oswego,OR,97035,Joe Rector,Ken Dessert,Northwestern Oregon,5,Central Region,2,1985,11,1,45.4024728,-122.7329751,224 Lake Grove.jpg,,0,0
+225,SPRINGFIELD GATEWAY,530 Harlow Rd,Springfield,OR,97477,Mike Kinney,Pete Johnson,Southwestern Oregon,7,Central Region,2,1986,4,1,44.0713462,-123.0355059,225-Springfield-Gateway.jpg,,0,0
+226,PORTLAND NORTH 82ND,2010 NE 82nd Ave,Portland,OR,97220,Travis Vanderhoof,Matthew Marvin,Northwestern Oregon,5,Central Region,2,1986,8,1,45.5368321,-122.5785823,226-Portland-N-82nd.jpg,,0,0
+227,CLACKAMAS,10602 SE Highway 212,Clackamas,OR,97015,Steve Curtiss,Spencer Holland,Northwestern Oregon,5,Central Region,2,1986,8,1,45.4072724,-122.5532169,227-Clackamas.jpg,,0,0
+228,SANDY,37895 Highway 26,Sandy,OR,97055,Clay Henderson,Dave Rogie,Northwestern Oregon,5,Central Region,2,1986,12,1,45.3991021,-122.2733623,228-Sandy.jpg,,0,0
+229,ST. HELENS,58405 Columbia River Hwy,Saint Helens,OR,97051,Terry Mcmahon,,Northwestern Oregon,5,Central Region,2,1987,1,1,45.8432832,-122.8356341,229-St-Helens.jpg,,0,0
+230,SILVERTON,911 N 1st St,Silverton,OR,97381,Jeremy Mccart,Steven Clark,Western Oregon,6,Central Region,2,1987,9,1,45.0128187,-122.7859265,230-Silverton.jpg,,0,0
+231,MERRILL,21875 Stateline Rd,Merrill,OR,97633,Josh Phillips,Mitchell Black,Southwestern Oregon,7,Central Region,2,1988,9,1,41.9988292,-121.5211177,231-Merrill.jpg,,0,0
+232,ALOHA,19100 SW Shaw St,Aloha,OR,97078,Brian Geddes,Rob Nielsen,Northwestern Oregon,5,Central Region,2,1988,3,1,45.4938410,-122.8739670,232 Aloha.jpg,,0,0
+233,LA PINE,52596 Highway 97,La Pine,OR,97739,Leonard Dahl,Bruce Wolf,Eastern Oregon,8,Central Region,2,1989,8,1,43.7104067,-121.4739162,233 LaPine.jpg,,0,0
+234,PORTLAND COLUMBIA BLVD.,2140 NE Columbia Blvd,Portland,OR,97211,Bud Ruebesam,Jason Darling,Northwestern Oregon,5,Central Region,2,1990,6,1,45.5760707,-122.6435205,234-Portland-Columbia.jpg,,0,0
+235,ESTACADA,140 SW Frontage Rd,Estacada,OR,97023,Tracy White,Scott Schmid,Northwestern Oregon,5,Central Region,2,1990,6,1,45.2896102,-122.3403687,235 Estacada.jpg,,0,0
+237,PORTLAND 167TH,16650 SE Division St,Portland,OR,97236,Jared Thueson,Paul Davis,Northwestern Oregon,5,Central Region,2,1991,10,1,45.5041766,-122.4916156,237 Portland 167.jpg,,0,0
+238,CANBY,333 SW 1st Ave,Canby,OR,97013,Brian Britt,Irving Nieves,Northwestern Oregon,5,Central Region,2,1991,11,1,45.2608011,-122.6950522,238 Canby.jpg,,0,0
+239,PORTLAND 122ND,12110 NE Erin Way,Portland,OR,97220,Ross Dunlap,Aaron Lisenbee,Northwestern Oregon,5,Central Region,2,1992,11,1,45.5587012,-122.5400233,239 Portland.jpg,,0,0
+240,WILSONVILLE,29175 SW Town Center Loop,Wilsonville,OR,97070,Kevin Leasure,Jeff Kincaid,Western Oregon,6,Central Region,2,1992,9,1,45.3092294,-122.7683513,240-Wilsonville.jpg,,0,0
+241,BEAVERTON WALKER RD,15825 SW Walker Rd,Beaverton,OR,97006,Rich Smith,Kyle Moore,Northwestern Oregon,5,Central Region,2,1994,2,1,45.5175088,-122.8403719,241-Beaverton-Walker.jpg,,0,0
+242,PORTLAND POWELL BLVD,4105 SE Powell Blvd,Portland,OR,97202,Aaron Smithers,Jeramy Pewitt,Northwestern Oregon,5,Central Region,2,1993,11,1,45.4979544,-122.6202073,242-Portland-Powell-Blvd.jpg,,0,0
+243,PORTLAND NW 19TH,1210 NW 19th Ave,Portland,OR,97209,Cliff Pruner,Brian Paulsen,Northwestern Oregon,5,Central Region,2,1994,1,1,45.5316625,-122.6902077,243-Portland-NW-19th.jpg,,0,0
+244,CORVALLIS SOUTH,2220 SW 3rd St,Corvallis,OR,97333,Will Outland,Jordan Johnson,Western Oregon,6,Central Region,2,1994,10,1,44.5441956,-123.2666988,244-Corvallis.jpg,,0,0
+245,VALE,225 Main St N,Vale,OR,97918,Shad Harrison,Ryan Carpenter,Eastern Oregon,8,Central Region,2,1995,1,1,43.9828717,-117.2405418,245-Vale.jpg,,0,0
+246,KING CITY,15348 SW Pacific Hwy,Tigard,OR,97224,John Mcginnis,Justin Brunson,Northwestern Oregon,5,Central Region,2,1997,4,1,45.4086718,-122.7938130,246-King-City.jpg,,0,0
+247,SALEM WEST,530 Wallace Rd NW,Salem,OR,97304,Lyle Mordhorst,Matthew Johnson,Western Oregon,6,Central Region,2,1998,4,1,44.9468725,-123.0484323,247-Salem-West.jpg,,0,0
+248,BROOKINGS,801 Chetco Ave,Brookings,OR,97415,Bruce Ward,Ryan Reneau,Southwestern Oregon,7,Central Region,2,1999,1,1,42.0530047,-124.2864557,248-Brookings.jpg,,0,0
+249,COQUILLE,484 N Central Blvd,Coquille,OR,97423,John Felsheim,Tim Ford,Southwestern Oregon,7,Central Region,2,1999,1,1,43.1788809,-124.1889310,249-Coquille.jpg,,0,0
+250,REEDSPORT,174 N 16th St,Reedsport,OR,97467,Ed Branson,Chris Hutcheson,Southwestern Oregon,7,Central Region,2,1999,1,1,43.6978965,-124.1134336,250-Reedsport.jpg,,0,0
+251,NORTH BEND,3025 Broadway Ave,North Bend,OR,97459,Brandon Crompton,Chris Aldrich,Southwestern Oregon,7,Central Region,2,1999,1,1,43.3943191,-124.2394938,251-N-Bend.jpg,,0,0
+252,COOS BAY,579 S Broadway,Coos Bay,OR,97420,Tracey Easton,Dan Jones,Southwestern Oregon,7,Central Region,2,1999,1,1,43.3630917,-124.2136444,252-Coos-Bay.jpg,,0,0
+253,MEDFORD NORTH,2095 Commerce Dr,Medford,OR,97504,Troy Leeper,Nick Kappell,Southwestern Oregon,7,Central Region,2,1999,9,27,42.3715252,-122.8568225,253 Medford N.jpg,,0,0
+254,EUGENE EAST,95 E 18th Ave,Eugene,OR,97401,Aric Larson,Richard Edie,Southwestern Oregon,7,Central Region,2,1999,11,15,44.0404275,-123.0917238,254-Eugene-E.jpg,,0,0
+255,SALEM MISSION ST,2350 Mission St SE,Salem,OR,97302,Don O'sullivan,Ryan Rolf,Western Oregon,6,Central Region,2,2000,8,8,44.9233963,-123.0135723,255-Salem-Mission.jpg,,0,0
+256,PORTLAND DIVISION,2410 SE 122nd Ave,Portland,OR,97233,Kelly Murphy,Chad Walker,Northwestern Oregon,5,Central Region,2,2001,9,7,45.5047985,-122.5369205,256-Portland.jpg,,0,0
+257,TIGARD WASHINGTON SQUARE,9385 SW Greenburg Rd,Tigard,OR,97223,Tim Aaron,Paul Mueller,Northwestern Oregon,5,Central Region,2,2001,6,8,45.4520685,-122.7753417,257-Tigard-Washington-Soq.jpg,,0,0
+258,WEST LINN,1990 8th Ave,West Linn,OR,97068,Tony Tautfest,Seth Schell,Northwestern Oregon,5,Central Region,2,2001,7,18,45.3466709,-122.6542480,258-West-Linn.jpg,,0,0
+259,SHERWOOD,15905 SW Tualatin Shwd Rd,Sherwood,OR,97140,Cam Durrell,Chris Stidd,Northwestern Oregon,5,Central Region,2,2001,8,20,45.3686587,-122.8394662,259-Sherwood.jpg,,0,0
+260,PORTLAND BARBUR BLVD,8910 SW Barbur Blvd,Portland,OR,97219,Steve Zinn,Matthew Neal,Northwestern Oregon,5,Central Region,2,2002,3,25,45.4602485,-122.7063341,260-Portland-Barbur-Blvd.jpg,,0,0
+261,HILLSBORO NORTH,22235 NW Imbrie Dr,Hillsboro,OR,97124,Tory Keep,Steve Jones,Northwestern Oregon,5,Central Region,2,2002,7,1,45.5504560,-122.9058822,261 Hillsboro N.jpg,,0,0
+262,MOLALLA,31291 S Highway 213,Molalla,OR,97038,Keith Herbison,Jason Wetherell,Western Oregon,6,Central Region,2,2003,6,2,45.1534521,-122.6056605,262-Molalla.jpg,,0,0
+263,GRANTS PASS SOUTH,320 Union Ave,Grants Pass,OR,97527,John Stoffel,Travis Palmerton,Southwestern Oregon,7,Central Region,2,2004,10,5,42.4231798,-123.3366700,263-Grants-Pass-South.jpg,,0,0
+264,BEND COOLEY ROAD,63590 Hunnell Rd,Bend,OR,97701,Jeremy Neet,Nick Hadley,Eastern Oregon,8,Central Region,2,2006,1,3,44.1128623,-121.2987234,264 Bend Cooley.jpg,,0,0
+301,TACOMA 6TH AVENUE,5131 6th Ave,Tacoma,WA,98406,Don Kerby,Heath Melville,Southwestern Washington,2,Northwestern Region,1,1989,10,1,47.2556783,-122.5075328,301 Tacoma 6th Ave.jpg,,0,0
+302,KENMORE,6330 NE Bothell Way,Kenmore,WA,98028,Seth Worley,Jason Allcock,Central Washington,3,Northwestern Region,1,1989,1,1,47.7588938,-122.2567128,302-Kenmore.jpg,,0,0
+303,SPOKANE DOWNTOWN,101 W 2nd Ave,Spokane,WA,99201,Rick Woods,Dale Davis,Eastern Washington,4,Northwestern Region,1,1989,2,1,47.6542462,-117.4137904,303-Spokane.jpg,,0,0
+304,BOTHELL MILL CREEK,19401 Bothell Everett Hwy,Bothell,WA,98012,Ron Baker,Russell Lane,Central Washington,3,Northwestern Region,1,1989,3,1,47.8220780,-122.2069217,304-Bothell-Mill-Creek.jpg,,0,0
+305,LAKEWOOD,3809 Steilacoom Blvd SW,Lakewood,WA,98499,Mike Wall,Dustin Turner,Southwestern Washington,2,Northwestern Region,1,1989,1,1,47.1771122,-122.4868998,305 Lakewood.jpg,,0,0
+306,CENTRALIA,1211 Harrison Ave,Centralia,WA,98531,Mark Witham,Ian O Crotty,Southwestern Washington,2,Northwestern Region,1,1988,12,1,46.7292540,-122.9828992,306-Centralia.jpg,,0,0
+307,GRAND COULEE,211 Spokane Way,Grand Coulee,WA,99133,Bryan Hansen,Mike Shoemaker,Central Washington,3,Northwestern Region,1,1988,8,1,47.9389880,-119.0035442,307-Grand-Coulee.jpg,,0,0
+308,YAKIMA DOWNTOWN,702 E Yakima Ave,Yakima,WA,98901,Tristan Parke,Jake Johnson,Eastern Washington,4,Northwestern Region,1,1988,8,1,46.6040693,-120.4963486,308-Yakima-DT.jpg,,0,0
+309,SPOKANE VERADALE,15915 E Sprague Ave,Spokane Valley,WA,99037,Eric Skoien,Jacob Schreiber,Eastern Washington,4,Northwestern Region,1,1987,11,1,47.6574548,-117.1900230,309-Spokane-Veradale.jpg,,0,0
+310,TUMWATER,6328 Capitol Blvd SE,Tumwater,WA,98501,Darieux Archambeault,Mitch Mcmanus,Southwestern Washington,2,Northwestern Region,1,1988,5,1,46.9920133,-122.9072632,310-Tumwater.jpg,,0,0
+311,ABERDEEN,2601 Simpson Ave,Aberdeen,WA,98520,Don Denning,David Morrison,Southwestern Washington,2,Northwestern Region,1,1988,10,1,46.9748573,-123.8492127,311 Aberdeen.jpg,,0,0
+312,BELLEVUE OVERLAKE,2355 Bel Red Rd,Redmond,WA,98052,Oscar Ortiz,Kevin Brown,Central Washington,3,Northwestern Region,1,1987,7,1,47.6312981,-122.1349066,312-Bellevue.jpg,,0,0
+313,TACOMA PACIFIC,7424 Pacific Ave,Tacoma,WA,98408,David Smith,Jordan Barnes,Southwestern Washington,2,Northwestern Region,1,1987,7,1,47.1893717,-122.4345224,313-Tacoma-Pacific.jpg,,0,0
+314,RENTON,354 Union Ave NE,Renton,WA,98059,Matt Cyr,David Storms,Central Washington,3,Northwestern Region,1,1987,6,1,47.4876931,-122.1636088,314-Renton.jpg,,0,0
+315,BURIEN,13609 1st Ave S,Burien,WA,98168,Lon Bennett,Jarrod Bryant,Northwestern Washington,1,Northwestern Region,1,1987,5,1,47.4809213,-122.3344380,315-Burien.jpg,,0,0
+316,AUBURN WAY SOUTH,903 Auburn Way S,Auburn,WA,98002,Jeff Goyins,Luke Sundvall,Central Washington,3,Northwestern Region,1,1986,12,1,47.2996940,-122.2222406,316-Auburn-Way-S.jpg,,0,0
+317,PULLMAN,160 SE Bishop Blvd,Pullman,WA,99163,Alex Cooper,Cesar Reyes,Eastern Washington,4,Northwestern Region,1,1987,2,1,46.7153502,-117.1817062,317-Pullman.jpg,,0,0
+318,COLFAX,215 W Walla Walla Hwy,Colfax,WA,99111,Cliff Miller,Ryan Gergen,Eastern Washington,4,Northwestern Region,1,1986,10,1,46.8901594,-117.3668507,318-Colfax.jpg,,0,0
+320,PASCO,1019 W Court St,Pasco,WA,99301,Todd Leeper,Robert Evans,Eastern Washington,4,Northwestern Region,1,1986,6,1,46.2418508,-119.1026976,320-Pacso.jpg,,0,0
+321,MOSES LAKE,418 E Broadway Ave,Moses Lake,WA,98837,Randy Mcphetridge,Dennis Polumsky,Central Washington,3,Northwestern Region,1,1985,12,1,47.1336080,-119.2748486,321-Moses-Lake.jpg,,0,0
+322,SPANAWAY,16819 Pacific Ave S,Spanaway,WA,98387,Thomas C Campbell,Blake Rothrock,Southwestern Washington,2,Northwestern Region,1,1985,11,1,47.1037713,-122.4339863,322-Spanaway.jpg,,0,0
+323,MARYSVILLE,8405 State Ave,Marysville,WA,98270,Aaron Knutz,Chris Ackland,Northwestern Washington,1,Northwestern Region,1,1985,8,1,48.0722138,-122.1758147,323 Marysville.jpg,,0,0
+324,OMAK,712 Okoma Dr,Omak,WA,98841,Mike Carter,Robert Engelen,Central Washington,3,Northwestern Region,1,1984,11,1,48.3988113,-119.5424148,324-Omak.jpg,,0,0
+325,MONROE,19134 Highway 2,Monroe,WA,98272,Rich Baalman,Ron Reddick,Northwestern Washington,1,Northwestern Region,1,1984,1,19,47.8594980,-121.9731326,325-Monroe.jpg,Baalman.jpg,0,0
+326,OTHELLO,315 S Broadway Ave,Othello,WA,99344,Tracy Ferguson,Jerame Arnold,Eastern Washington,4,Northwestern Region,1,1984,2,1,46.8227966,-119.1752964,326-Othello.jpg,,0,0
+327,COLVILLE,434 S Main St,Colville,WA,99114,Kevin Scheib,Jason Aldridge,Eastern Washington,4,Northwestern Region,1,1984,7,1,48.5408645,-117.9057248,327-Colville.jpg,,0,0
+328,VANCOUVER CASCADE PK,216 SE 118th Ave,Vancouver,WA,98684,David Foster,Curt Davis,Southwestern Washington,2,Northwestern Region,1,1983,11,1,45.6196792,-122.5516051,328-Vancouver-Cascade-Park.jpg,,0,0
+329,SEATAC,25101 Pacific Hwy S,Kent,WA,98032,Doug Mowbray,Chris Merritt,Northwestern Washington,1,Northwestern Region,1,1983,1,1,47.3766703,-122.3002214,329-Seatac.jpg,,0,0
+330,CHENEY,7 Spokane St,Cheney,WA,99004,Sparky Kaminski,Dan Tussey,Eastern Washington,4,Northwestern Region,1,1982,11,1,47.4922668,-117.5684370,330-Cheney.jpg,,0,0
+331,QUINCY,211 F St SW,Quincy,WA,98848,Jason Mills,Robert Bender,Central Washington,3,Northwestern Region,1,1982,9,1,47.2337250,-119.8587985,331-Quincy.jpg,,0,0
+332,SPOKANE DIVISION,8103 N Division St,Spokane,WA,99208,Frank Burns,Keith Cannon,Eastern Washington,4,Northwestern Region,1,1982,3,1,47.7314853,-117.4122000,332-Spokane-Division.jpg,,0,0
+333,RICHLAND,837 Stevens Dr,Richland,WA,99352,Marcus Romero,Shane Findley,Eastern Washington,4,Northwestern Region,1,1981,12,1,46.2771081,-119.2821899,333-Richland.jpg,,0,0
+334,LONGVIEW IND WAY,1420 Industrial Way,Longview,WA,98632,Tim White,R.D. Gamble,Southwestern Washington,2,Northwestern Region,1,1981,8,1,46.1167873,-122.9460754,334-Longview-Ind-Way.jpg,,0,0
+335,VANCOUVER,917 NE Minnehaha St,Vancouver,WA,98665,Spencer Enquist,,Southwestern Washington,2,Northwestern Region,1,1981,2,1,45.6665773,-122.6622236,335-Vancouver.jpg,,0,0
+336,KENNEWICK,4110 W Clearwater Ave,Kennewick,WA,99336,Brian Broadie,Andy Walker,Eastern Washington,4,Northwestern Region,1,1981,2,1,46.2128302,-119.1763959,336-Kennewick.jpg,,0,0
+337,CHEHALIS,36 N Market Blvd,Chehalis,WA,98532,Tony Lyon,Chris Hampton,Southwestern Washington,2,Northwestern Region,1,1980,9,1,46.6618801,-122.9638660,337-Chehalis.jpg,,0,0
+338,KENT,758 Central Ave N,Kent,WA,98032,Chris Wilmar,Randy Eggen,Central Washington,3,Northwestern Region,1,1980,7,1,47.3880895,-122.2305259,338-Kent.jpg,,0,0
+339,ELLENSBURG,1206 S Canyon Rd,Ellensburg,WA,98926,Mark Mccracken,Kevin Hannahs,Central Washington,3,Northwestern Region,1,1980,1,1,46.9813273,-120.5450943,339-Ellensburg.jpg,,0,0
+340,SPOKANE NW BLVD,2528 W Northwest Blvd,Spokane,WA,99205,Jeff Hooper,Bob Caulfield,Eastern Washington,4,Northwestern Region,1,1979,3,1,47.6855839,-117.4489838,340-Spokane-NW-Blvd.jpg,,0,0
+341,LONGVIEW,3186 Ocean Beach Hwy,Longview,WA,98632,Wade Hadden,David Hoffman,Southwestern Washington,2,Northwestern Region,1,1978,11,1,46.1483424,-122.9661521,341-Longview.jpg,,0,0
+342,EPHRATA,160 Basin St SW,Ephrata,WA,98823,Lester Mather,Mike Powell,Central Washington,3,Northwestern Region,1,1977,12,1,47.3187961,-119.5523978,342-Ephrata.jpg,,0,0
+343,WENATCHEE EAST,301 Grant Rd,East Wenatchee,WA,98802,Kirk Moser,Keith Hayes,Central Washington,3,Northwestern Region,1,1976,3,1,47.4064545,-120.2840732,343-Wenatchee E.jpg,Madsen.jpg,0,0
+344,YAKIMA,2002 S 1st St,Yakima,WA,98909,Casey Fewkes,Paul Harris,Eastern Washington,4,Northwestern Region,1,1975,10,15,46.5735124,-120.4903191,344-Yakima.jpg,,0,0
+346,TOPPENISH,105 Asotin Ave,Toppenish,WA,98948,Bob Tuning,Justin Houk,Eastern Washington,4,Northwestern Region,1,1976,1,1,46.3785070,-120.3104404,346-Toppenish.jpg,,0,0
+347,SUNNYSIDE,1537 E Lincoln Ave,Sunnyside,WA,98944,Brandon Swift,Mike Cerna,Eastern Washington,4,Northwestern Region,1,1976,6,15,46.3158915,-119.9995928,347-Sunnyside.jpg,,0,0
+348,GOLDENDALE,606 E Broadway St,Goldendale,WA,98620,Brent Riggs,Martin Garcia,Eastern Washington,4,Northwestern Region,1,1973,4,15,45.8225348,-120.8136609,348 Goldendale.jpg,,0,0
+350,WALLA WALLA,2150 E Isaacs Ave,Walla Walla,WA,99362,Andy Richmond,David Sheeley,Eastern Washington,4,Northwestern Region,1,1968,5,15,46.0754298,-118.3024361,350 Walla Walla.jpg,,0,0
+361,SPOKANE ALKI,6320 E Alki Ave,Spokane Valley,WA,99213,Brad Horst,Jeff Klein,Eastern Washington,4,Northwestern Region,1,1968,6,29,47.6619332,-117.3188803,361-Spokane-Alki.jpg,,0,0
+362,VANCOUVER ANDRESEN,2420 NE Andresen Rd,Vancouver,WA,98661,Steve Wold,Keith Gadman,Southwestern Washington,2,Northwestern Region,1,1991,4,1,45.6398479,-122.6008654,362-Van-Andersen.jpg,,0,0
+363,NORTH BEND,610 E North Bend Way,North Bend,WA,98045,Kevin Schallhorn,Arthur Garland,Central Washington,3,Northwestern Region,1,1991,7,1,47.4914630,-121.7782613,363-North-Bend.jpg,,0,0
+364,ELMA,410 N 3rd St,Elma,WA,98541,Kres Brown,Dennis Goldsmith,Southwestern Washington,2,Northwestern Region,1,1991,7,1,47.0075729,-123.4039242,364 Elma.jpg,,0,0
+365,LACEY,150 Marvin Rd SE,Lacey,WA,98503,George Duncan,Thaddaeus Rinesmith,Southwestern Washington,2,Northwestern Region,1,1992,3,1,47.0548860,-122.7639160,365-Lacey.jpg,,0,0
+367,ABERDEEN EAST,420 E Heron St,Aberdeen,WA,98520,Nick Saddler,Eric Johnson,Southwestern Washington,2,Northwestern Region,1,1992,3,1,46.9759857,-123.8129990,367-Aberdeen-E.jpg,,0,0
+368,SNOHOMISH,711 Avenue D,Snohomish,WA,98290,Terry Strawn,Rafael Rodriguez,Northwestern Washington,1,Northwestern Region,1,1993,3,1,47.9210130,-122.0974836,368 Snohomish.jpg,,0,0
+369,BATTLE GROUND,1719 W Main St,Battle Ground,WA,98604,Jeff Mccrary,Cody Agee,Southwestern Washington,2,Northwestern Region,1,1993,3,1,45.7802079,-122.5562891,369-Battleground.jpg,,0,0
+370,WENATCHEE NORTH,1643 N Wenatchee Ave,Wenatchee,WA,98801,Pat Kirby,Scott Gleave,Central Washington,3,Northwestern Region,1,1992,10,1,47.4479092,-120.3298996,370-Wenatchee.jpg,,0,0
+371,ARLINGTON,233 Lebanon St,Arlington,WA,98223,Jeff Robinson,Rick Holcomb,Northwestern Washington,1,Northwestern Region,1,1993,4,1,48.1907288,-122.1275468,371-Arlington.jpg,,0,0
+372,TOTEM LAKE,12410 128th Ln NE,Kirkland,WA,98034,David Mcallister,Jon Carr,Central Washington,3,Northwestern Region,1,1994,7,1,47.7112727,-122.1693111,372-Totem-Lake.jpg,Lhommedieu.jpg,0,0
+373,SEATTLE SOUTH,6111 4th Ave S,Seattle,WA,98108,Sean Welsh,Brandon Mccartney,Northwestern Washington,1,Northwestern Region,1,1994,10,1,47.5472792,-122.3302456,373-Seattle-S.jpg,,0,0
+374,KEELER'S CORNER,17117 Highway 99,Lynnwood,WA,98037,Travis Bullock,Rob Ray,Northwestern Washington,1,Northwestern Region,1,1995,7,1,47.8431986,-122.2953049,374-Keelers-Corner.jpg,,0,0
+375,OLYMPIA WEST,2825 Captial Mall Dr SW,Olympia,WA,98502,Matt Bell,Ben Lovejoy,Southwestern Washington,2,Northwestern Region,1,1995,6,1,47.0395028,-122.9372166,375-Olympia-West.jpg,,0,0
+376,RENTON DOWNTOWN,710 Rainier Ave S,Renton,WA,98057,Jerrica Griffith,Thomas Pratt,Central Washington,3,Northwestern Region,1,1995,2,1,47.4731115,-122.2162521,376-Renton-DT.jpg,,0,0
+377,SPOKANE SOUTH HILL,3105 S Regal St,Spokane,WA,99223,Darrell Herron,Cody Foster,Eastern Washington,4,Northwestern Region,1,1995,7,1,47.6261404,-117.3677785,377 Spokane S Hill.jpg,,0,0
+378,FEDERAL WAY,34415 16th Ave S,Federal Way,WA,98063,Joe Unrein,Doug Harper,Northwestern Washington,1,Northwestern Region,1,1996,3,1,47.2924841,-122.3141755,378-Federal-Way.jpg,,0,0
+379,PORT TOWNSEND,2355 W Sims Way,Port Townsend,WA,98368,Lee Barlow,Travis Beck,Northwestern Washington,1,Northwestern Region,1,1995,11,1,48.1021571,-122.8034920,379 Port Townsend.jpg,,0,0
+380,PORT ANGELES,2527 E Highway 101,Port Angeles,WA,98362,Randy Schroeder,Robert Evans,Northwestern Washington,1,Northwestern Region,1,1995,11,1,48.1051908,-123.3846946,380-Port-Angeles.jpg,,0,0
+381,SEQUIM,802 E Washington St,Sequim,WA,98382,Ron Jones,Matt Shackelford,Northwestern Washington,1,Northwestern Region,1,1995,11,1,48.0790171,-123.0904595,381-Sequim.jpg,,0,0
+382,CLARKSTON,1468 Bridge St,Clarkston,WA,99403,Gary Powell,Cory Walter,Eastern Washington,4,Northwestern Region,1,1996,7,1,46.4203318,-117.0660075,382-Clarkston.jpg,,0,0
+383,SOUTHCENTER,6804 S 180th St,Tukwila,WA,98188,Dustin Stevens,William Sukert,Central Washington,3,Northwestern Region,1,1997,4,1,47.4418053,-122.2493980,383-Southcenter.jpg,,0,0
+384,ENUMCLAW,649 Griffin Ave,Enumclaw,WA,98022,Dan Hall,Joshua Gannon,Central Washington,3,Northwestern Region,1,1996,9,1,47.2015695,-121.9845442,384-Enumclaw.jpg,,0,0
+385,EVERETT,9736 Evergreen Way,Everett,WA,98204,Brian Paslay,Jon Strande,Northwestern Washington,1,Northwestern Region,1,1997,7,1,47.9095539,-122.2410204,385-Everett.jpg,,0,0
+386,COVINGTON,17235 SE 272nd St,Covington,WA,98042,Don Rogers,Kenny Armstrong,Central Washington,3,Northwestern Region,1,1996,6,1,47.3574744,-122.1114483,386-Covington.jpg,,0,0
+387,SPOKANE U-CITY,10312 E Sprague Ave,Spokane,WA,99206,Shane Anderson,Josh Gaylor,Eastern Washington,4,Northwestern Region,1,1997,5,1,47.6570470,-117.2664280,387 Spokane U-City.jpg,,0,0
+388,SPOKANE FRANCIS,1120 W Francis Ave,Spokane,WA,99205,Curtis Graham,Kraig King,Eastern Washington,4,Northwestern Region,1,1997,9,1,47.7156914,-117.4279364,388-Spokane-Francis.jpg,,0,0
+389,RICHLAND COLUMBIA CT,1550 Tapteal Dr,Richland,WA,99352,Bart Hill,Tyler Evans,Eastern Washington,4,Northwestern Region,1,1999,1,1,46.2308544,-119.2253172,389-Richland-Columbia-Ct.jpg,,0,0
+390,AURORA NORTH 125TH,12215 Aurora Ave N,Seattle,WA,98133,Brad Miller,Brian Downing,Northwestern Washington,1,Northwestern Region,1,1999,2,1,47.7183924,-122.3455428,390 Aurora N.jpg,,0,0
+391,BONNEY LAKE,9911 214th Ave E,Bonney Lake,WA,98391,James Greenfield,David Biggs,Central Washington,3,Northwestern Region,1,1999,2,1,47.1665048,-122.1434934,391-Bioney-Lake.jpg,,0,0
+392,FERNDALE,1731 Labounty Dr,Ferndale,WA,98248,Les Pilon,Justin Plowman,Northwestern Washington,1,Northwestern Region,1,1999,6,22,48.8440517,-122.5752488,392 Ferndale.jpg,,0,0
+393,ORCHARDS,11804 NE 78th Way,Vancouver,WA,98682,Kelly Porter,Seth Berman,Southwestern Washington,2,Northwestern Region,1,1999,8,23,45.6794269,-122.5517450,393-Orchards.jpg,,0,0
+394,REDMOND,6651 E Lake Sammamish Pkw,Redmond,WA,98052,Jim Simon,Joe Sanino,Central Washington,3,Northwestern Region,1,2000,10,25,47.6653730,-122.1007928,394-Redmond.jpg,,0,0
+395,MURPHY'S CORNER,13223 Bothell Everett Hwy,Mill Creek,WA,98012,Gary Foglesong,Rob Geenen,Central Washington,3,Northwestern Region,1,2000,12,27,47.8771131,-122.2085067,395-Murphys Corner.jpg,,0,0
+396,LAKE CITY WAY,9801 Lake City Way NE,Seattle,WA,98115,Randy Friedemann,John Bridges,Central Washington,3,Northwestern Region,1,2001,3,2,47.7005843,-122.3037662,396-Lake-City-Way.jpg,,0,0
+397,AUBURN WAY NORTH,2604 Auburn Way N,Auburn,WA,98002,Joe Tanner,Will Rogers,Central Washington,3,Northwestern Region,1,2001,9,20,47.3305943,-122.2208372,397-Auburn-Way-N.jpg,,0,0
+398,MAPLE VALLEY,27215 Black Diamond Rd SE,Maple Valley,WA,98038,James Smith,Mike Marler,Central Washington,3,Northwestern Region,1,2002,2,20,47.3575819,-122.0207180,398-Maple-Valley.jpg,,0,0
+399,GIG HARBOR,5353 33rd Ave NW,Gig Harbor,WA,98335,Brett Miller,Jay Rentie,Southwestern Washington,2,Northwestern Region,1,2001,11,1,47.3070279,-122.5827338,399-Gig-Harbor.jpg,,0,0
+128,KUNA,975 E Avalon St,Kuna,ID,83634,Steve Lovelace,Valentino Laniohan,Southern Idaho,10,Eastern Region,3,2010,10,21,43.4878195,-116.4020574,128 Kuna.jpg,,0,0
+423,YELM,811 E Yelm Ave,Yelm,WA,98597,Dave Sias,David Andrade,Southwestern Washington,2,Northwestern Region,1,2010,11,11,46.9360593,-122.5968699,423 Yelm.jpg,,0,0
+678,DIXON,1920 N 1st St,Dixon,CA,95620,Tim Rowland,Josh Pacheco,Northwestern California,12,Southern Region,4,2010,11,8,38.4650174,-121.8214639,678 Dixon.jpg,,0,0
+096,LEWISTON ORCHARDS,251 Thain Rd,Lewiston,ID,83501,Randy Tipton,Nick Mason,Northern Idaho/Montana,9,Eastern Region,3,2010,12,22,46.3847624,-116.9811979,096 Lewiston.jpg,,0,0
+422,MUKILTEO,11500 Mukilteo Speedway,Mukilteo,WA,98275,Jeff Coville,Cody Robertson,Northwestern Washington,1,Northwestern Region,1,2011,1,5,47.8939138,-122.2884990,422 Mukilteo.jpg,,0,0
+424,COLLEGE PLACE,1735 SE Meadowbrook Blvd,College Place,WA,99324,Matt Harris,Brandon Kaup,Eastern Washington,4,Northwestern Region,1,2010,12,1,46.0333165,-118.3790105,424 College Place.jpg,,0,0
+425,WEST SEATTLE,3801 SW Alaska St,Seattle,WA,98126,Paul Howell,Mike Nestor,Northwestern Washington,1,Northwestern Region,1,2011,10,18,47.5608241,-122.3804943,425 West Seattle.jpg,,0,0
+9,REDMOND,845 NW 6th St,Redmond,OR,97756,Andy Spencer,Ty Sears,Eastern Oregon,8,Central Region,2,1953,10,1,44.2841219,-121.1748423,009 Redmond.jpg,,0,0
+11,PRINEVILLE,1250 NE 3rd St,Prineville,OR,97754,Spencer Brown,Jerry Ramos,Eastern Oregon,8,Central Region,2,1952,1,1,44.3024079,-120.8327532,011 Prineville.jpg,,0,0
+12,BEND,105 NE Franklin Ave,Bend,OR,97701,Bruce Soderlund,Jason Sparks,Eastern Oregon,8,Central Region,2,1955,5,1,44.0554081,-121.3055505,012-Bend.jpg,,0,0
+13,MADRAS,28 NE Plum St,Madras,OR,97741,Ron Hollingshead,Patrick Gibson,Eastern Oregon,8,Central Region,2,1956,10,1,44.6428273,-121.1286862,013-Madras.jpg,,0,0
+14,JOHN DAY,551 W Main St,John Day,OR,97845,Cork Humphrey,Clint Benge,Eastern Oregon,8,Central Region,2,1957,5,1,44.4199581,-118.9591880,014 John Day.jpg,,0,0
+15,HOOD RIVER,3140 Cascade Ave,Hood River,OR,97031,Mark Russell,Kean Dayley,Eastern Oregon,8,Central Region,2,1960,4,1,45.7112778,-121.5437372,015 Hood River.jpg,,0,0
+16,THE DALLES,2645 E 2nd St,The Dalles,OR,97058,Chaylan Maxwell,Marshall Thompson,Eastern Oregon,8,Central Region,2,1960,10,1,45.5970853,-121.1496175,,,0,1
+17,KLAMATH FALLS,5757 S 6th St,Klamath Falls,OR,97603,Paul Joyner,Gabe Groves,Southwestern Oregon,7,Central Region,2,1963,11,1,42.2071921,-121.7181938,017-K-Falls.jpg,,0,0
+18,HERMISTON,830 N 1st St,Hermiston,OR,97838,Gary Kennedy,David Shockman,Eastern Oregon,8,Central Region,2,1964,7,1,45.8462591,-119.2892674,018-Hermiston.jpg,,0,0
+19,LEBANON,2275 S Santiam Hwy,Lebanon,OR,97355,Jeremy Hansen,Brandon Collins,Western Oregon,6,Central Region,2,1966,3,1,44.5240740,-122.9070500,019 Lebanon_new store.jpg,,0,0
+20,BURNS,179 Hines Blvd,Burns,OR,97720,Scott Tiller,Solomon Till,Eastern Oregon,8,Central Region,2,1996,2,1,43.5848627,-119.0630803,020-Burns.jpg,,0,0
+21,SWEET HOME,1707 Main St,Sweet Home,OR,97386,Adam Sherry,Eric Mauer,Western Oregon,6,Central Region,2,1967,1,1,44.3985686,-122.7237683,021 Sweet Home.jpg,,0,0
+23,ALBANY,2875 Santiam Hwy SE,Albany,OR,97322,Joe Leblanc,Alan Bakkala,Western Oregon,6,Central Region,2,1968,6,1,44.6311435,-123.0693957,023-Albany.jpg,LeBlanc.jpg,0,0
+24,MILTON-FREEWATER,609 E Broadway Ave,Milton Freewater,OR,97862,Aaron Moore,Anastacio Delacruz,Eastern Oregon,8,Central Region,2,1968,12,1,45.9374026,-118.3900072,024 Milton Freewater.jpg,,0,0
+25,ONTARIO,511 E Idaho Ave,Ontario,OR,97914,Dave Jensen,Chad Tillett,Eastern Oregon,8,Central Region,2,1969,1,1,44.0258675,-116.9549737,025-Ontario.jpg,,0,0
+26,LAKEVIEW,422 N F St,Lakeview,OR,97630,Kerry Rucker,Vince Stanton,Southwestern Oregon,7,Central Region,2,1969,1,3,42.1931074,-120.3455280,026 Lakeview.jpg,,0,0
+27,SPRINGFIELD,3294 Main St,Springfield,OR,97478,Kory Stribling,Arik Moore,Southwestern Oregon,7,Central Region,2,1969,6,30,44.0463371,-122.9802885,027 Springfield.jpg,,0,0
+28,PENDLETON,1550 Southgate Pl,Pendleton,OR,97801,Loren Finifrock,Steve Mccambridge,Eastern Oregon,8,Central Region,2,1970,4,1,45.6507468,-118.8150921,028 Pendleton_Retake.jpg,,0,0
+29,CORVALLIS,2119 NW 9th St,Corvallis,OR,97330,Craig Hendrickson,Travis (T.J.) Bowers,Western Oregon,6,Central Region,2,1970,6,26,44.5895918,-123.2537046,029 Corvallis.jpg,,0,0
+30,EUGENE,2295 W 11th Ave,Eugene,OR,97402,Steve Smith,Cody Lewellen,Southwestern Oregon,7,Central Region,2,1970,1,26,44.0484431,-123.1269568,030 Eugene.jpg,Smith.jpg,0,0
+31,MEDFORD,500 Matt Loop,Medford,OR,97501,Trent Miller,Dustin Conrad,Southwestern Oregon,7,Central Region,2,1971,1,24,42.2977137,-122.8441697,031 Medford.jpg,,0,0
+32,LA GRANDE,2306 Adams Ave,La Grande,OR,97850,Jake Tussey,Arnie Peasley,Eastern Oregon,8,Central Region,2,1971,4,1,45.3184527,-118.0758845,032 La Grande.jpg,,0,0
+33,GRANTS PASS,1694 NW 6th St,Grants Pass,OR,97526,Matt Thurman,Daniel Blanco,Southwestern Oregon,7,Central Region,2,1972,8,1,42.4578231,-123.3232127,033-Grants-Pass.jpg,,0,0
+34,SALEM,1710 Lancaster Dr NE,Salem,OR,97305,Brian Burnside,Nolan Mydske,Western Oregon,6,Central Region,2,1972,3,1,44.9505030,-122.9829870,034-Salem.jpg,,0,0
+426,WOODLAND,1495 Dike Access Rd,Woodland,WA,98674,Brien Rose,Eric Navarro,Southwestern Washington,2,Northwestern Region,1,2011,11,8,45.9265966,-122.7618097,426 Woodland.jpg,,0,0
+37,MILWAUKIE,16685 SE McLoughlin Blvd,Milwaukie,OR,97267,George Thomas,Jeff Lowen,Northwestern Oregon,5,Central Region,2,1982,5,1,45.4026400,-122.6224130,037 Milwaukie.jpg,,0,0
+38,MEDFORD CENTRAL,701 N Central Ave,Medford,OR,97501,Jake Nash,Eric Burkinshaw,Southwestern Oregon,7,Central Region,2,1986,8,1,42.3319129,-122.8777590,038 Medford Central.jpg,,0,0
+400,SMOKEY POINT,16607 Smokey Point Blvd,Arlington,WA,98223,Jeff Clark,William Benner,Northwestern Washington,1,Northwestern Region,1,2001,10,1,48.1477352,-122.1824792,400-Smokey-Point.jpg,,0,0
+401,PUYALLUP SOUTH HILL MALL,213 43rd Ave SE,Puyallup,WA,98374,Randy Murray,Jonathan Hays,Southwestern Washington,2,Northwestern Region,1,2003,1,2,47.1514640,-122.2913180,401-Puyallup-S-Hiill-Mall.jpg,,0,0
+402,LAKE STEVENS,923 Vernon Rd,Lake Stevens,WA,98258,Andy Winters,Steven Jenkins,Northwestern Washington,1,Northwestern Region,1,2002,11,4,48.0054117,-122.1055357,402-Lake Stevens.jpg,,0,0
+403,PUYALLUP 176TH,10115 171st Street Ct E,Puyallup,WA,98375,Matt Dowdy,Jason Hale,Southwestern Washington,2,Northwestern Region,1,2003,9,16,47.1015116,-122.2943389,403-Puyallup.jpg,,0,0
+404,KENT NORTH,22101 84th Ave S,Kent,WA,98032,Randy Schoeneman,David Pruett,Central Washington,3,Northwestern Region,1,2003,8,5,47.4036475,-122.2291729,404 Kent North.jpg,,0,0
+405,BREMERTON AUTO CENTER WAY,240 Bruenn Ave,Bremerton,WA,98312,Zack Zacharias,Jerome Lang,Northwestern Washington,1,Northwestern Region,1,2007,1,2,47.5653002,-122.6836271,405-Bremerton.jpg,,0,0
+406,POULSBO,424 NW Edvard St,Poulsbo,WA,98370,Brett Clark,Jim Rosebrook,Northwestern Washington,1,Northwestern Region,1,2007,1,2,47.7441514,-122.6550894,406-Poulsbo.jpg,,0,0
+407,PORT ORCHARD,1891 SE Sedgwick Rd,Port Orchard,WA,98366,Scott Kelly,Tyler Stiltner,Northwestern Washington,1,Northwestern Region,1,2007,1,2,47.5049199,-122.6306858,407 Port Orchard.jpg,,0,0
+408,BREMERTON EAST SIDE,7194 State Highway 303 NE,Bremerton,WA,98311,Randy Hartmann,John Tarble,Northwestern Washington,1,Northwestern Region,1,2007,1,2,47.6281840,-122.6281055,408-Bremerton-East.jpg,,0,0
+409,BELFAIR,23090 NE State Route 3,Belfair,WA,98528,Dan Freeman,Matt Simonson,Northwestern Washington,1,Northwestern Region,1,2007,1,2,47.4415438,-122.8327205,409 Belfair.jpg,,0,0
+265,SCAPPOOSE,51531 SE 2nd St,Scappoose,OR,97056,Justin Bush,Jason Tharp,Northwestern Oregon,5,Central Region,2,2011,11,15,45.7425720,-122.8758897,265 Scappoose.jpg,,0,0
+501,CENTERVILLE,285 S Frontage Rd,Centerville,UT,84014,Jason Johnson,Jeremy Higgins,Utah,11,Eastern Region,3,2001,11,2,40.9143842,-111.8898595,501 Centerville.jpg,,0,0
+502,BOUNTIFUL,2651 S Main St,Woods Cross,UT,84010,Jered Sweeter,Josiah Erdmanczyk,Utah,11,Eastern Region,3,2002,3,1,40.8613244,-111.8965248,502 Bountiful.jpg,,0,0
+503,SALT LAKE CITY,2105 S Redwood Rd,Salt Lake City,UT,84119,Steve Boekholder,Nicholas Demas,Utah,11,Eastern Region,3,2002,10,4,40.7253390,-111.9381350,503-Salt-Lake.jpg,,0,0
+504,OGDEN,268 W 12th St,Ogden,UT,84404,Mike Mccarty,James Plows,Utah,11,Eastern Region,3,2002,10,17,41.2451217,-111.9822378,504-Ogden.jpg,,0,0
+505,MIDVALE,144 W 7200 S,Midvale,UT,84047,Juergen Trinkaus,Michael Harlan,Utah,11,Eastern Region,3,2003,4,25,40.620730,-111.895627,505-Midvale.jpg,,0,0
+506,MURRAY,4355 S State St,Murray,UT,84107,Matt Laduke,Kyle Good,Utah,11,Eastern Region,3,2003,7,9,40.6767487,-111.8874316,506 Murray.jpg,,0,0
+507,PROVO,965 S University Ave,Provo,UT,84601,John Freeman,Jason Mcclure,Utah,11,Eastern Region,3,2003,7,23,40.2212942,-111.6571639,507-Provo.jpg,,0,0
+508,LINDON,589 Lindon Park Dr,Lindon,UT,84042,Garth Phillips,Caleb Greenwood,Utah,11,Eastern Region,3,2003,8,26,40.3268853,-111.7288660,508-Lindon.jpg,,0,0
+509,LOGAN NORTH,1986 N Main St,North Logan,UT,84341,Bryan Johnson,,Utah,11,Eastern Region,3,2003,9,18,41.7684607,-111.8335973,509-Logan.jpg,,0,0
+510,WEST VALLEY CITY,3751 W 3500 S,West Valley City,UT,84120,Darren Holcomb,Casey Stuck,Utah,11,Eastern Region,3,2003,11,1,40.696453,-111.982282,510-West-Valley-City.jpg,,0,0
+511,TAYLORSVILLE,3235 W 5400 S,Taylorsville,UT,84129,Jared Willingham,David Gonzalez,Utah,11,Eastern Region,3,2003,12,22,40.652953,-111.968560,511 Taylorsville.jpg,,0,0
+512,BRIGHAM CITY,885 S Main St,Brigham City,UT,84302,Kevin Blaylock,Cameron Widner,Utah,11,Eastern Region,3,2003,11,12,41.4930023,-112.0152052,512-Brigham.jpg,,0,0
+513,HOLLADAY,4011 S Highland Dr,Holladay,UT,84124,Juan Ramirez,Andrew Zinn,Utah,11,Eastern Region,3,2004,5,6,40.6847190,-111.8437800,513-Holladay.jpg,,0,0
+514,TOOELE,1162 N Main St,Tooele,UT,84074,Wade Gipson,Justin Lewis,Utah,11,Eastern Region,3,2004,5,26,40.5541560,-112.2970263,514-Tooele.jpg,,0,0
+515,JORDAN SOUTH,10532 S Redwood Rd,South Jordan,UT,84095,Matt Campbell,Sean Gow,Utah,11,Eastern Region,3,2004,9,2,40.5600663,-111.9395039,515-Jordan-South.jpg,,0,0
+516,HEBER CITY,1160 S Main St,Heber City,UT,84032,Jeremy Kaufman,Scott Hays,Utah,11,Eastern Region,3,2004,11,3,40.4930053,-111.4143641,516-Heber-City.jpg,,0,0
+427,EDGEWOOD,1283 Meridian Ave E,Edgewood,WA,98371,Zak Knight,Chris Hague,Southwestern Washington,2,Northwestern Region,1,2011,12,19,47.2457199,-122.2935110,427 Edgewood.jpg,,0,0
+518,DRAPER,653 E 12300 S,Draper,UT,84020,Dave Lambert,Adam Garton,Utah,11,Eastern Region,3,2005,2,7,40.527088,-111.872934,518 Draper.jpg,,0,0
+519,LAYTON,1270 N Main St,Layton,UT,84041,Shane Doughten,Kent Bird,Utah,11,Eastern Region,3,2005,7,21,41.0785580,-111.9854486,519-Layton.jpg,,0,0
+520,OGDEN SOUTH,5985 Fashion Point Dr,South Ogden,UT,84403,Chuck Paxton,Ryan Sorenson,Utah,11,Eastern Region,3,2005,7,7,41.1540102,-111.9376055,520 Ogden.jpg,,0,0
+521,RIVERDALE,627 W Riverdale Rd,Riverdale,UT,84405,Stu Amrhein,Jeffrey Johnson,Utah,11,Eastern Region,3,2005,11,15,41.1795359,-111.9947080,521-Riverside.jpg,,0,0
+522,AMERICAN FORK,485 N 900 W,American Fork,UT,84003,Nathan Martin,Dustin Stearns,Utah,11,Eastern Region,3,2006,4,13,40.386601,-111.822121,522-American-Fork.jpg,,0,0
+524,ROY,5832 S 1900 W,Roy,UT,84067,Bill Russell,Jay Bowcutt,Utah,11,Eastern Region,3,2006,5,8,41.157390,-112.025846,524-Roy.jpg,,0,0
+525,KAYSVILLE,251 N 400 W,Kaysville,UT,84037,Josh Castor,Macario Estrada,Utah,11,Eastern Region,3,2006,3,15,41.038760,-111.946320,525-Kaysville.jpg,,0,0
+601,ANDERSON,2630 Balls Ferry Rd,Anderson,CA,96007,J.B. O'neal,Mike Fabela,Northwestern California,12,Southern Region,4,1989,10,1,40.4545992,-122.2890449,601-Anderson.jpg,,0,0
+602,REDDING,1201 Hilltop Dr,Redding,CA,96003,Josh Corona,Brady Cox,Northwestern California,12,Southern Region,4,1989,10,1,40.5905018,-122.3575400,602-Redding.jpg,,0,0
+603,RED BLUFF,522 Antelope Blvd,Red Bluff,CA,96080,Chris Dowdy,Jason Peel,Northwestern California,12,Southern Region,4,1990,5,1,40.1865049,-122.2082953,603 Red Bluff.jpg,,0,0
+604,SUSANVILLE,2385 Main St,Susanville,CA,96130,Scott Purdy,Darell Schwartz,Northeastern Calif/Nevada,13,Southern Region,4,1990,11,1,40.4138060,-120.6408980,604 Susanville.jpg,,0,0
+605,ALTURAS,1201 Spruce St,Alturas,CA,96101,Randy Guyer,David Wheeler,Northeastern Calif/Nevada,13,Southern Region,4,1991,11,1,41.4950957,-120.5471677,605-Alturas.jpg,,0,0
+606,CHICO,2420 Notre Dame Blvd,Chico,CA,95928,Rick Dollarhide,Monte Brown,Northwestern California,12,Southern Region,4,1992,5,1,39.7175034,-121.7958359,606 Chico.jpg,,0,0
+607,PARADISE,6308 Skyway,Paradise,CA,95969,Dave Colwell,Mike Raker,Northwestern California,12,Southern Region,4,1992,10,1,39.7570902,-121.6249378,607-Paradise.jpg,,0,0
+608,OROVILLE,2103 Lincoln St,Oroville,CA,95966,Joey Conway,Josh Hogue,Northeastern Calif/Nevada,13,Southern Region,4,1993,7,1,39.5073619,-121.5529531,608-Oroville.jpg,,0,0
+609,EUREKA,2440 Broadway,Eureka,CA,95501,Marty Wilder,Adam Gray,Northwestern California,12,Southern Region,4,1993,9,1,40.7856083,-124.1824130,609-Eureka.jpg,,0,0
+610,BURNEY,37462 Main St,Burney,CA,96013,David Barry,Daryl Aberle,Northwestern California,12,Southern Region,4,1993,5,1,40.8897233,-121.6535463,610 Burney.jpg,,0,0
+611,CORNING,1436 Solano St,Corning,CA,96021,Seth Carter,Chris Hoag,Northwestern California,12,Southern Region,4,1993,8,1,39.9282199,-122.1848797,611-Corning.jpg,,0,0
+612,ORLAND,1306 6th St,Orland,CA,95963,Darin Burks,Kelcey Derrick,Northwestern California,12,Southern Region,4,1993,8,1,39.7398968,-122.1976166,612-Orland.jpg,,0,0
+613,REDDING SOUTH,3161 S Market St,Redding,CA,96001,Nathan Wright,Korey Knable,Northwestern California,12,Southern Region,4,1995,3,1,40.5670777,-122.3871647,613-Redding-S.jpg,Lee.jpg,0,0
+614,YUBA CITY,1481 Bridge St,Yuba City,CA,95993,"Tim Rowland, Jr.",Jason Totten,Northeastern Calif/Nevada,13,Southern Region,4,1996,2,1,39.1330902,-121.6383444,614-Yuba-City.jpg,,0,0
+615,FORTUNA,275 N Fortuna Blvd,Fortuna,CA,95540,Bart Edwards,Tanner Martin,Northwestern California,12,Southern Region,4,1996,1,1,40.5936836,-124.1460778,615-Fortuna.jpg,,0,0
+616,MCKINLEYVILLE,2210 Central Ave,Mckinleyville,CA,95519,Pat Sheehy,Bill Page,Northwestern California,12,Southern Region,4,1996,8,1,40.9456293,-124.1017114,616-McKinleyville.jpg,,0,0
+617,GRIDLEY,1742 State Highway 99,Gridley,CA,95948,Shon Cook,Christopher Lumsden,Northeastern Calif/Nevada,13,Southern Region,4,1997,9,1,39.3685506,-121.6873480,617-Gridley.jpg,,0,0
+618,LINDA,5998 Lindhurst Ave,Marysville,CA,95901,Tom Altorfer,Ryan Foster,Northeastern Calif/Nevada,13,Southern Region,4,1997,10,1,39.1237039,-121.5700282,618-Linda.jpg,,0,0
+619,CHICO EAST AVE,201 W East Ave,Chico,CA,95926,Rob Robertson,Jason Mixer,Northwestern California,12,Southern Region,4,1998,6,1,39.7557869,-121.8619762,619 Chico East.jpg,,0,0
+620,WOODLAND,65 W Main St,Woodland,CA,95695,Scott Lawrence,Clint Liddicote,Northwestern California,12,Southern Region,4,1998,10,1,38.6769597,-121.7867673,620-Woodland.jpg,,0,0
+621,COLUSA,1108 Market St,Colusa,CA,95932,Chris Kiever,Justin Havens,Northeastern Calif/Nevada,13,Southern Region,4,1998,6,1,39.2163738,-122.0166190,621-Colusa.jpg,,0,0
+622,CRESCENT CITY,1105 Northcrest Dr,Crescent City,CA,95531,Jeremiah Covington,Chase Guerlain,Northwestern California,12,Southern Region,4,1999,1,1,41.7666315,-124.1978304,622-Crescent-City.jpg,,0,0
+623,FAIRFIELD,2160 N Texas St,Fairfield,CA,94533,Steve Liebentritt,Michael Nation,Northwestern California,12,Southern Region,4,1999,11,1,38.2678579,-122.0334331,623-Fairfield.jpg,,0,0
+624,ROHNERT PARK,5353 Redwood Dr,Rohnert Park,CA,94928,Manny Castrellon,Shawn Miller,Northwestern California,12,Southern Region,4,2000,4,1,38.3583420,-122.7141330,624-Sacramento-Madison.jpg,,0,0
+625,SACRAMENTO MADISON AVE,4746 Madison Ave,Sacramento,CA,95841,Nicholas Kilwien,David Goodwin,Northeastern Calif/Nevada,13,Southern Region,4,2000,5,15,38.6602555,-121.3531486,625 Sacramento Madison.jpg,,0,0
+626,SACRAMENTO BRADSHAW,3606 Bradshaw Rd,Sacramento,CA,95827,Bill Tester,Michael Smith,Central California,14,Southern Region,4,2000,12,18,38.5559443,-121.3369546,626 Sac Bradshaw.jpg,,0,0
+627,SACRAMENTO CITRUS HEIGHTS,8124 Auburn Blvd,Citrus Heights,CA,95610,Scott Martin,Chad Grigsby,Northeastern Calif/Nevada,13,Southern Region,4,2000,8,9,38.7137093,-121.2898576,627-Citrus-Heights.jpg,,0,0
+628,GRASS VALLEY,570 Freeman Ln,Grass Valley,CA,95949,Bryan Weast,Luis Trejo,Northeastern Calif/Nevada,13,Southern Region,4,2001,3,5,39.2050407,-121.0665520,628 Grass Valley.jpg,,0,0
+629,FOLSOM,750 E Bidwell St,Folsom,CA,95630,Neal Koepke,Brian Padilla,Central California,14,Southern Region,4,2001,2,14,38.6715474,-121.1585857,629-Folsom.jpg,Koepke.jpg,0,0
+630,ELK GROVE,8410 Elk Grove Blvd,Elk Grove,CA,95758,Mike Busse,Steven Rayburn,Central California,14,Southern Region,4,2001,5,1,38.4084427,-121.3941758,630 Elk Grove.jpg,,0,0
+631,VACAVILLE,801 Mason St,Vacaville,CA,95688,James Dempsay,Brandon Green,Northwestern California,12,Southern Region,4,2001,4,2,38.3556117,-121.9823239,631-Vacaville.jpg,,0,0
+632,RANCHO CORDOVA,2838 Sunrise Blvd,Rancho Cordova,CA,95742,Mitch Harrison,Eric Lustig,Central California,14,Southern Region,4,2001,4,10,38.6000434,-121.2666036,632-Rancho-Cordova.jpg,,0,0
+633,SACRAMENTO ORANGEVALE,9465 Madison Ave,Orangevale,CA,95662,Douglas Nunn,Chris Munoz,Central California,14,Southern Region,4,2001,6,22,38.6750498,-121.2003584,633-Sacramento.jpg,,0,0
+634,SACRAMENTO FULTON AVE,2625 Fulton Ave,Sacramento,CA,95821,Tony Lorenzi,Chris Vessar,Central California,14,Southern Region,4,2001,1,9,38.6136476,-121.4017586,634 Sac Fulton.jpg,,0,0
+635,WINDSOR,6700 Hembree Ln,Windsor,CA,95492,Rob Paulson,Kyle Dalbey,Northwestern California,12,Southern Region,4,2002,2,15,38.5291353,-122.7919000,635-Windsor.jpg,,0,0
+636,ROSEVILLE,9095 Fairway Dr,Roseville,CA,95678,Travis Gurney,Ryan Muller,Northeastern Calif/Nevada,13,Southern Region,4,2002,6,10,38.7831204,-121.2702591,636 Roseville.jpg,,0,0
+637,WILLITS,1565 S Main St,Willits,CA,95490,Ken Kirby,Brandon Lindberg,Northwestern California,12,Southern Region,4,2002,3,11,39.3939128,-123.3477118,637-Willits.jpg,,0,0
+639,SACRAMENTO FLORIN,5501 Florin Rd,Sacramento,CA,95823,Paul Sparman,Joshua Richardson,Central California,14,Southern Region,4,2002,12,2,38.4967181,-121.4410330,639-Sacramento-Way.jpg,,0,0
+640,UKIAH,1250 Airport Park Blvd,Ukiah,CA,95482,Ron Moon,Steven Gaylord,Northwestern California,12,Southern Region,4,2003,2,3,39.1289826,-123.1984124,640-Ukiah.jpg,,0,0
+641,ROCKLIN,5610 Pacific St,Rocklin,CA,95677,Tony Hugley,Brandon Rodriguez,Northeastern Calif/Nevada,13,Southern Region,4,2003,4,2,38.7834709,-121.2418005,641 Rocklin.jpg,,0,0
+642,LODI,615 E Lodi Ave,Lodi,CA,95240,Gary Holm,Chris Anderson,Central California,14,Southern Region,4,2002,11,1,38.1313964,-121.2593087,642-Lodi.jpg,,0,0
+643,ANTELOPE,7880 Walerga Rd,Antelope,CA,95843,Steve Amstutz,Rhett Stenback,Northeastern Calif/Nevada,13,Southern Region,4,2003,9,5,38.7116447,-121.3629470,643-Antelope.jpg,,0,0
+644,SACRAMENTO NATOMAS,3554 Northgate Blvd,Sacramento,CA,95834,Chris Zimmerman,David Laymon,Central California,14,Southern Region,4,2003,10,22,38.6326378,-121.4747882,644 Sac Natomas.jpg,,0,0
+645,SACRAMENTO WEST,631 Harbor Blvd,West Sacramento,CA,95691,Robert Herbel,Ryan Steward,Central California,14,Southern Region,4,2003,9,25,38.5818206,-121.5474133,645 Sacramento West.jpg,,0,0
+646,SANTA ROSA,1600 Santa Rosa Ave,Santa Rosa,CA,95404,Jessy Usher,Jason Smith,Northwestern California,12,Southern Region,4,2003,10,22,38.4224106,-122.7128650,646-Santa-Rosa.jpg,,0,0
+647,LIVERMORE,2650 Las Positas Rd,Livermore,CA,94551,Tom Johnson,David Goodwin,Central California,14,Southern Region,4,2004,3,9,37.7002076,-121.7696408,647-Livermore.jpg,,0,0
+648,MANTECA,1240 W Yosemite Ave,Manteca,CA,95337,Ryan Dickson,Lucas Schleef,Central California,14,Southern Region,4,2004,6,17,37.7966716,-121.2366597,648-Manteca.jpg,,0,0
+649,NAPA,830 W Imola Ave,Napa,CA,94559,Jeff Burns,Jose Palacio Lopez,Northwestern California,12,Southern Region,4,2004,1,14,38.2812221,-122.2774388,649-Napa.jpg,,0,0
+650,BRENTWOOD,6361 Lone Tree Way,Brentwood,CA,94513,Matt Onstott,Connor Inman,Central California,14,Southern Region,4,2004,11,23,37.9608296,-121.7353654,650-Brentwood.jpg,,0,0
+652,ESCALON,1980 McHenry Ave,Escalon,CA,95320,Tony Chadwick,Matthew Bowen,Central California,14,Southern Region,4,2004,10,1,37.7891599,-120.9957493,652-Escalon.jpg,,0,0
+653,PLACERVILLE,1415 Broadway,Placerville,CA,95667,Jeff Richards,Jeremy Benamati,Northeastern Calif/Nevada,13,Southern Region,4,2004,11,5,38.7325761,-120.7785498,653-Placerville.jpg,,0,0
+654,GALT,450 Fairway Dr,Galt,CA,95632,Alex Judd,Gerrit Dickson,Central California,14,Southern Region,4,2005,6,22,38.2515327,-121.2928966,654-Galt.jpg,,0,0
+129,MERIDIAN EAST,3595 E Ustick Rd,Meridian,ID,83646,Eric Twiss,Justin Gentner,Southern Idaho,10,Eastern Region,3,2012,1,10,43.6334391,-116.3504743,129 Meridian East.jpg,,0,0
+656,OAKLEY,89 Carol Ln,Oakley,CA,94561,Mat Bixel,Brian Foster,Central California,14,Southern Region,4,2005,12,21,38.0016718,-121.7330138,656-Oakley.jpg,,0,0
+659,SANTA ROSA MONTGOMERY,4341 Montgomery Dr,Santa Rosa,CA,95405,David Lindsey,Paul Montgomery,Northwestern California,12,Southern Region,4,2005,6,1,38.4567807,-122.6721597,659-Santa-Rosa-Montgomery.jpg,,0,0
+661,SOUTH LAKE TAHOE,1901 Lake Tahoe Blvd,South Lake Tahoe,CA,96150,Duane Carter,Jesse Starkey,Northeastern Calif/Nevada,13,Southern Region,4,2005,11,1,38.9119620,-120.0088980,661 South Lake Tahoe.jpg,,0,0
+662,JACKSON,10861 State Highway 49-88,Jackson,CA,95642,Jerime Zimmerman,Cameron Fahl,Northeastern Calif/Nevada,13,Southern Region,4,2005,12,19,38.3665654,-120.7954169,662-Jackson.jpg,,0,0
+663,MARTINEZ,3800 Alhambra Ave,Martinez,CA,94553,Nicholas Runnels,Benjamin Olteanu,Northwestern California,12,Southern Region,4,2006,4,19,37.9963023,-122.1329831,663-Martinez.jpg,,0,0
+664,RIVERBANK,2560 Patterson Rd,Riverbank,CA,95367,Tony Womack,Miguel Garcia Medina,Central California,14,Southern Region,4,2006,9,25,37.7321981,-120.9505724,664 Riverbank.jpg,,0,0
+665,TRACY,3260 W Grant Line Rd,Tracy,CA,95304,Mike Halverson,Julio-Cesar Rojas,Central California,14,Southern Region,4,2007,1,3,37.7523272,-121.4761024,665_Tracy.jpg,,0,1
+901,MISSOULA NORTH,2800 W Broadway St,Missoula,MT,59808,Jim Chandler,Javier Rivas,Northern Idaho/Montana,9,Eastern Region,3,1987,5,1,46.8912678,-114.0290395,901-Missoula.jpg,Sherry.jpg,0,0
+902,MISSOULA SOUTH,2605 Brooks St,Missoula,MT,59801,Todd Harrison,Alex Nochebuena,Northern Idaho/Montana,9,Eastern Region,3,1987,5,1,46.8468151,-114.0215953,902-Missoula-S.jpg,,0,0
+904,KALISPELL,1015 W Center St,Kalispell,MT,59901,Todd Howe,Todd Tolbert,Northern Idaho/Montana,9,Eastern Region,3,1999,1,1,48.1968119,-114.3283548,904-Kalispell.jpg,,0,0
+905,COLUMBIA FALLS,1737 9th St W,Columbia Falls,MT,59912,Trent Walls,Kyle Davis,Northern Idaho/Montana,9,Eastern Region,3,1999,1,1,48.3713903,-114.2053882,905 Columbia Falls.jpg,,0,0
+906,KALISPELL EAST,2335 US Highway 2 E,Kalispell,MT,59901,Jeremiah Maiden,Dave Ogren,Northern Idaho/Montana,9,Eastern Region,3,1999,1,1,48.2318721,-114.2750881,906 Kalispell East.jpg,,0,0
+907,WHITEFISH,6355 US Highway 93 S,Whitefish,MT,59937,Sam Burt,Manny Melendez,Northern Idaho/Montana,9,Eastern Region,3,2001,10,1,48.5046029,-114.5380654,907-Whitefish.jpg,,0,0
+908,HELENA,2970 Prospect Ave,Helena,MT,59601,Tim Phillips,Shim Baxter,Northern Idaho/Montana,9,Eastern Region,3,2001,12,1,46.5934152,-111.9871131,908-Helena.jpg,,0,0
+909,BUTTE,290 Holland St,Butte,MT,59701,Dane Lawrence,Zachary Carlos,Northern Idaho/Montana,9,Eastern Region,3,2005,5,2,45.9970718,-112.5386077,909-Butte.jpg,,0,0
+951,RENO KIETZKE,1290 Kietzke Ln,Reno,NV,89502,Jesse Forgette,Adam Shirk,Northeastern Calif/Nevada,13,Southern Region,4,1997,12,1,39.5117266,-119.7885072,951 Reno Kietzke.jpg,,0,0
+952,RENO VIRGINIA,4175 S Virginia St,Reno,NV,89502,Rick Sprouse,Jeff Beyer,Northeastern Calif/Nevada,13,Southern Region,4,1998,3,1,39.4847514,-119.7936402,952-Reno-Virginia.jpg,,0,0
+953,CARSON CITY,3020 S Carson St,Carson City,NV,89701,Royce Buckley,Guy Dominguez,Northeastern Calif/Nevada,13,Southern Region,4,1998,7,1,39.1395654,-119.7696785,953-Carson-City.jpg,Moser.jpg,0,0
+954,FALLON,2555 Reno Hwy,Fallon,NV,89406,Ray Duke,Thomas De La Garza,Northeastern Calif/Nevada,13,Southern Region,4,1999,4,1,39.4782888,-118.8112662,954-Fallon.jpg,,0,0
+955,WINNEMUCCA,3290 Fountain Way,Winnemucca,NV,89445,Cory Willis,David Plumel,Northeastern Calif/Nevada,13,Southern Region,4,2000,2,14,40.9594481,-117.7429398,955-Winnemmucca.jpg,,0,0
+956,ELKO,650 W Silver St,Elko,NV,89801,Gabe Young,Doug Comeau,Northeastern Calif/Nevada,13,Southern Region,4,2000,7,1,40.8261022,-115.7707403,956-Elko.jpg,,0,0
+957,SPARKS,1405 E Prater Way,Sparks,NV,89434,Dwayne Yancey,Nicholas Fink,Northeastern Calif/Nevada,13,Southern Region,4,2001,11,14,39.5414118,-119.7176590,957-Sparks.jpg,,0,0
+958,RENO ODDIE BLVD,1900 Silverada Blvd,Reno,NV,89512,Dave Carlson,Rolando Madera,Northeastern Calif/Nevada,13,Southern Region,4,2003,10,8,39.5460687,-119.7822186,958 Reno Oddie Blvd.jpg,,0,0
+959,CARSON CITY NORTH,3219 N Carson St,Carson City,NV,89706,Mike Asby,Jason Brumbaugh,Northeastern Calif/Nevada,13,Southern Region,4,2006,2,22,39.1881662,-119.7708950,959-Carson-City.jpg,,0,0
+960,RENO SOUTH,9500 S Virginia St,Reno,NV,89511,Brett Shore,Rick Clark,Northeastern Calif/Nevada,13,Southern Region,4,2007,3,26,39.4437803,-119.7720998,960-Reno-South.jpg,,0,0
+668,TURLOCK,2602 Geer Rd,Turlock,CA,95382,Shawn Allen,Justin Goin,Central California,14,Southern Region,4,2007,3,29,37.5168808,-120.8476959,668 Turlock.jpg,,0,0
+671,OAKDALE,1300 E F St,Oakdale,CA,95361,Brandon Lamb,Jesse Pollock,Central California,14,Southern Region,4,2007,8,1,37.7710048,-120.8363647,671-Oakdale.jpg,,0,0
+910,POLSON,36030 Memory Ln,Polson,MT,59860,Jason Sherry,Trent Goslin,Northern Idaho/Montana,9,Eastern Region,3,2007,11,1,47.6800565,-114.1145238,910-Polson.jpg,,0,0
+912,RONAN,63360 US Highway 93,Ronan,MT,59864,Marty Stewart,Dennis Baughman,Northern Idaho/Montana,9,Eastern Region,3,2007,11,1,47.5263290,-114.0967343,912-Ronan.jpg,,0,0
+669,SAN CARLOS,260 El Camino Real,San Carlos,CA,94070,Mike Holcomb,Roberto Macias,Central California,14,Southern Region,4,2007,12,21,37.5106165,-122.2652297,669-San-Carlos.jpg,,0,0
+670,CERES MODESTO,1830 E Hatch Rd,Modesto,CA,95351,Randy Looney,Larry Mcadams,Central California,14,Southern Region,4,2007,10,19,37.6087272,-120.9625249,670-Ceres.jpg,,0,0
+672,FREMONT,36761 Fremont Blvd,Fremont,CA,94536,Jason Greene,Zeric Cage,Central California,14,Southern Region,4,2008,2,15,37.5614438,-122.0143435,672 Fremont.jpg,,0,0
+412,BELLINGHAM,4020 Meridian St,Bellingham,WA,98226,Eric Oman,Brian Maynard,Northwestern Washington,1,Northwestern Region,1,2008,1,2,48.7877331,-122.4854175,412 Bellingham.jpg,,0,0
+413,CLINTON,11038 State Route 525 # 8,Clinton,WA,98236,Will Woodworth,Troy Hurlburt,Northwestern Washington,1,Northwestern Region,1,2008,1,2,47.9900509,-122.3943257,413 Clinton.jpg,,0,0
+414,OAK HARBOR,31720 State Route 20,Oak Harbor,WA,98277,Kenny Mcguire,Mike Brighton,Northwestern Washington,1,Northwestern Region,1,2008,1,2,48.2925792,-122.6577236,414 Oak Harbor.jpg,,0,0
+415,BELLINGHAM JAMES ST,2121 James St,Bellingham,WA,98225,Mike Gadman,Joshua Brummel,Northwestern Washington,1,Northwestern Region,1,2008,1,2,48.7584425,-122.4653441,415-Bellingham.jpg,,0,0
+416,ANACORTES,2311 Commercial Ave,Anacortes,WA,98221,Jerel Colorado,Sam Bailey,Northwestern Washington,1,Northwestern Region,1,2008,1,2,48.5031933,-122.6121579,416-Anacortes.jpg,,0,0
+417,BELLINGHAM IRONGATE,3805 Irongate Rd,Bellingham,WA,98226,Jon Lamb,Andrew Melton,Northwestern Washington,1,Northwestern Region,1,2008,1,2,48.7825872,-122.4539558,417-Irongate.jpg,,0,0
+411,AIRWAY HEIGHTS,11003 W Sunset Hwy # 2,Airway Heights,WA,99001,Richie Rollins,Tyler Burnett,Eastern Washington,4,Northwestern Region,1,2008,1,24,47.6423523,-117.5642093,411-Airway-Heights.jpg,,0,0
+410,PUYALLUP CANYON RD,14009 Canyon Rd E,Puyallup,WA,98373,Matt Hawkins,Chris Yates,Southwestern Washington,2,Northwestern Region,1,2008,3,11,47.1287345,-122.3566178,410-Puyallup-Canyon-Rd.jpg,,0,0
+674,VALLEJO,3301 Sonoma Blvd,Vallejo,CA,94590,Josh Brown,Jonathan Anderson,Northwestern California,12,Southern Region,4,2008,3,19,38.1201494,-122.2555409,674-Vallejo.jpg,,0,0
+673,STOCKTON CHARTER WAY,1717 W Charter Way,Stockton,CA,95206,Matt Buchmann,Lucas Buckley,Central California,14,Southern Region,4,2008,3,15,37.9339248,-121.3108369,673-Stockton-Charter-Way.jpg,,0,0
+676,YREKA,1508 Fairlane Rd,Yreka,CA,96097,Preston Richardson,Kyle Pitkin,Northwestern California,12,Southern Region,4,2008,5,1,41.7107022,-122.6408705,676 Yreka.jpg,,0,0
+527,CLINTON,1329 N 2000 W,Clinton,UT,84015,Jimmy Samdal,Kevin Morgan,Utah,11,Eastern Region,3,2008,7,11,41.133281,-112.064634,527-Clinton.jpg,,0,0
+675,CONCORD,625 Contra Costa Blvd,Concord,CA,94523,Gabe Williams,Benson Caldwell,Northwestern California,12,Southern Region,4,2008,6,12,37.9741430,-122.0636530,675-Concord.jpg,,0,0
+001,LS DISTRIBUTION CENTER,2888 SW George Millican Rd ,Prineville,OR,97754,Monty Severance,,<null>,<null>,<null>,<null>,2000,10,13,44.280870,-120.891789,LS Warehouse.jpg,,1,0
+A52,BURLEY T-W DBA TIRES WEST,2555 S Overland Ave,Burley,ID,83318,Randy Winn,Steve Durfee,Southern Idaho,10,Eastern Region,3,1987,2,1,42.5204432,-113.7927755,A52 Burley.jpg,,0,0
+528,LOGAN SOUTH,36 W 1200 S,Logan,UT,84321,Nathan Thies,,Utah,11,Eastern Region,3,2010,10,28,41.7097603,-111.8359548,528 Logan South.jpg,,0,0
+S20,OLYMPIA SHAUB-ELLISON,1100 Plum St SE,Olympia,WA,98501,Irl Rhodes,Brian Brush,Southwestern Washington,2,Northwestern Region,1,1980,12,1,47.0389450,-122.8898590,S20-Olympia.jpg,,0,0
+S22,PUYALLUP SHAUB-ELLISON,403 N Meridian,Puyallup,WA,98371,Mike Eldridge,Steve Villegas,Southwestern Washington,2,Northwestern Region,1,1980,12,1,47.1942178,-122.2933371,S22 Puyallup.jpg,,0,0
+S29,TWISP SHAUB-ELLISON,216 Methow Valley Hwy,Twisp,WA,98856,Ed Ahrens,Brian Gustafson,Central Washington,3,Northwestern Region,1,2008,9,2,48.3637283,-120.1220988,S29 Twisp.jpg,,0,0
+S30,FIFE SHAUB-ELLISON,1334 54th Ave E,Fife,WA,98424,Jason Vanrensum,Dion Palomino,Southwestern Washington,2,Northwestern Region,1,1994,2,1,47.2454812,-122.3577452,S30 Fife.jpg,,0,0
+S32,SHELTON SHAUB-ELLISON,2505 Olympic Hwy N Ste300,Shelton,WA,98584,Jason Pooler,Joel Bullington,Southwestern Washington,2,Northwestern Region,1,1980,12,1,47.2250844,-123.1261382,S32 Shelton.jpg,,0,0
+161,LOVELAND 64TH STREET,184 W 64th St,Loveland,CO,80538,Bob Graddy,Bradley Taylor,Central Colorado,16,Eastern Region,3,2015,2,25,40.4535771,-105.0781912,161-Loveland 64th St.jpg,,0,0
+155,COMMERCE CITY,10489 Chambers Rd,Commerce City,CO,80022,Jeremiah Day,James Barlow,Central Colorado,16,Eastern Region,3,2013,11,14,39.8871457,-104.8092412,,,0,1
+157,THORNTON 88TH AVENUE,800 E 88th Ave,Thornton,CO,80229,Casey Longacre,Michael Brumble,Central Colorado,16,Eastern Region,3,2014,3,5,39.8558380,-104.9763830,157-Thornton.jpg,,0,0
+158,CENTENNIAL ARAPAHOE RD,15787 E Arapahoe Rd,Centennial,CO,80016,Ryan Turner,J.R. Roberts,Central Colorado,16,Eastern Region,3,2014,1,30,39.5950392,-104.8052488,,,0,1
+159,LAKESIDE 44TH AVENUE,5871 W 44th Ave,Denver,CO,80212,Lonnie Grimm,Joe Oliver,Central Colorado,16,Eastern Region,3,2014,10,22,39.7769939,-105.0609114,159-Lakeside.jpg,,0,0
+160,LONGMONT EMERY STREET,633 S Emery St,Longmont,CO,80501,David Stephenson,Christopher Hoskins,Central Colorado,16,Eastern Region,3,2014,10,29,40.1507527,-105.1005368,160-Longmont Emery St.jpg,,0,0
+151,AURORA TOWER ROAD,3430 Tower Rd,Aurora,CO,80011,Jeff Lowry,John Brown,Central Colorado,16,Eastern Region,3,2012,9,19,39.7629410,-104.7716033,151 Aurora Tower Rd.jpg,,0,0
+568,REEDLEY,379 I St,Reedley,CA,93654,Nate Baer,John Merrill,South Central California,15,Southern Region,4,2016,3,30,36.6011181,-119.4596381,568-Reedley.jpg,,0,0
+569,NORCO HAMNER AVE,1701 3rd St,Norco,CA,92860,Cody Lyczewski,Robert Cooper,Southeastern California,17,Southern Region,4,2016,6,20,33.9172377,-117.5604434,569-Norco Hamner Ave..jpg,,0,0
+557,SELMA,2731 Highland Ave,Selma,CA,93662,Randy Sandall,Daniel Hanks,South Central California,15,Southern Region,4,2013,8,20,36.5728868,-119.6306538,,,0,1
+657,STOCKTON HAMMER,3554 E Hammer Ln,Stockton,CA,95212,John Burgess,Krysta Cordero,Central California,14,Southern Region,4,2005,6,13,38.0206911,-121.2705492,,,0,1
+152,DENVER FEDERAL BLVD,2001 Federal Blvd,Denver,CO,80211,Ed Ferrell,Anthony Owens,Central Colorado,16,Eastern Region,3,2012,10,15,39.7478599,-105.0256292,152 Denver Federal Blvd.jpg,,0,0
+558,BAKERSFIELD MING AVE,4901 Ming Ave,Bakersfield,CA,93309,Cris Arizmendi,Jacob Vinson,South Central California,15,Southern Region,4,2014,2,19,35.3389933,-119.0564549,,,0,1
+571,TEMECULA BUTTERFIELD,43890 Butterfield Stge Rd,Temecula,CA,92592,Scott Borden,Shane Fourmont,Southeastern California,17,Southern Region,4,2016,6,15,33.4850268,-117.0773840,571-Temecula Butterfield Stage Rd..jpg,,0,0
+168,AURORA CHAMBERS RD,2360 S Chambers Rd,Aurora,CO,80014,Alex Wiltermood,Travis Arnold,Central Colorado,16,Eastern Region,3,2016,7,7,39.6734130,-104.8094672,168-Aurora Chambers Rd..jpg,,0,0
+559,BAKERSFIELD OSWELL,2512 Oswell St,Bakersfield,CA,93306,Brian Beltran,Arturo Orozco,South Central California,15,Southern Region,4,2014,1,8,35.3914571,-118.9502917,,,0,1
+153,HIGHLANDS RANCH,945 Sgt Jon Stiles Dr,Highlands Ranch,CO,80129,Aaron Layson,Aaron Benton,Central Colorado,16,Eastern Region,3,2012,10,19,39.5500995,-105.0011717,153 Highlands Ranch.jpg,,0,0
+154,LITTLETON BOWLES AVE,13331 W Bowles Ave,Littleton,CO,80127,Pete Skelley,Joshua Bryant,Central Colorado,16,Eastern Region,3,2012,10,5,39.6103086,-105.1487570,154 Littleton Bowels Ave.jpg,,0,0
+156,PARKER HILLTOP RD,11265 S Pikes Peak Dr,Parker,CO,80138,Bryce Tucker,Davis Blosl,Central Colorado,16,Eastern Region,3,2012,10,18,39.5118475,-104.7633594,156 Parker Hilltop.jpg,,0,0
+266,PORTLAND SELLWOOD,2500 SE Tacoma St,Portland,OR,97202,Jenny Mccool,Scott Palmer,Northwestern Oregon,5,Central Region,2,2012,8,8,45.4646403,-122.6390480,,,0,1
+428,RICHLAND WEST,2825 Queensgate Dr,Richland,WA,99352,Jake Miller,Jayson Rasmussen,Eastern Washington,4,Northwestern Region,1,2012,10,1,46.2564470,-119.3138977,428 Richland West.jpg,,0,0
+551,DINUBA,1060 W El Monte Way,Dinuba,CA,93618,Forrest Waltermire,Sean Jennings,South Central California,15,Southern Region,4,2012,10,9,36.5460536,-119.4069754,551 Dinuba.jpg,,0,0
+552,FRESNO BLACKSTONE AVENUE,3966 N Blackstone Ave,Fresno,CA,93726,Kevin Johnson,Paul Mcmindes,South Central California,15,Southern Region,4,2012,10,16,36.7898463,-119.7900670,552 Fresno Blackstone AVE.jpg,,0,0
+553,FRESNO KINGS CANYON RD,5740 E Kings Canyon Rd,Fresno,CA,93727,Brad Buffan,Neal Workman,South Central California,15,Southern Region,4,2012,10,20,36.7356585,-119.6945747,553 Kings Canyon.jpg,,0,0
+554,FRESNO WEST SHAW AVE,4588 W Shaw Ave,Fresno,CA,93722,Randy Hecker,Adam Gregory,South Central California,15,Southern Region,4,2012,10,19,36.8087801,-119.8753330,554 West Shaw.jpg,,0,0
+555,CLOVIS,1742 Clovis Ave,Clovis,CA,93612,Rob Dyer,Micky Cardwell,South Central California,15,Southern Region,4,2012,10,27,36.8107923,-119.7007722,555 Clovis.jpg,,0,0
+556,LOS BANOS,1500 E Pacheco Blvd,Los Banos,CA,93635,Mychal Hesner,J.D. Jeffries,South Central California,15,Southern Region,4,2012,11,1,37.0574619,-120.8315754,556 Los Banos.jpg,,0,0
+679,ELK GROVE CALVINE,8301 Elk Grove Florin Rd,Sacramento,CA,95829,Jeff Beba,Antonio Recoder,Central California,14,Southern Region,4,2013,1,16,38.4559615,-121.3711007,679 Elk Grove Calvine.jpg,,0,0
+560,PORTERVILLE JAYE STREET,640 S Jaye St,Porterville,CA,93257,Lane Holm,Seth Merritt,South Central California,15,Southern Region,4,2013,12,26,36.0540697,-119.0256467,,,0,1
+167,TIMNATH,4560 Weitzel St,Timnath,CO,80547,Andy Acuna,Mark Shy,Central Colorado,16,Eastern Region,3,2016,8,24,40.5236620,-104.9876029,167-Timnath.jpg,,0,0
+561,MADERA,2140 W Kennedy Ave,Madera,CA,93637,Wayne Gorath,Camden Buttacavoli,South Central California,15,Southern Region,4,2014,12,9,36.9813365,-120.0881143,561-Madera.jpg,,0,0
+563,BAKERSFIELD PANAMA LANE,6725 Panama Ln,Bakersfield,CA,93313,James Edwards,Wesley Winn,South Central California,15,Southern Region,4,2015,3,18,35.2957375,-119.0780429,563-Bakersfield Panama.jpg,,0,0
+162,BRIGHTON 50TH AVE,163 S 50th Ave,Brighton,CO,80601,Dustin Ronning,Nicholas Baughman,Central Colorado,16,Eastern Region,3,2015,7,23,39.9852345,-104.7528889,162-Brighton.jpg,,0,0
+163,GREELEY 71ST AVE,7005 W 10th St,Greeley,CO,80634,Richard Mcclure,Travis Miller,Central Colorado,16,Eastern Region,3,2015,7,23,40.4219747,-104.7931928,163-Greeley.jpg,,0,0
+574,HOLLISTER,1500 McCray St,Hollister,CA,95023,Alan Mcnamee,Alex Law,South Central California,15,Southern Region,4,2016,8,23,36.8496189,-121.3972482,,,0,1
+164,FOUNTAIN,7990 Fountain Mesa Rd,Fountain,CO,80817,Greg Hamel,Garrett Lanz,Central Colorado,16,Eastern Region,3,2015,11,25,38.7159183,-104.7020823,164-Fountain.jpg,,0,0
+165,COLORADO SPRINGS BARNES,4395 Integrity Center Pt,Colorado Springs,CO,80917,Cory Menear,Dylan Howell,Central Colorado,16,Eastern Region,3,2015,11,18,38.8958488,-104.7207941,165-Colorado Springs Barnes Rd..jpg,,0,0
+562,CLOVIS HERNDON AVENUE,1635 Herndon Ave,Clovis,CA,93611,Matt Clift,Andrew Schroeder,South Central California,15,Southern Region,4,2015,1,8,36.8380282,-119.6866252,,,0,1
+564,SANGER,710 Academy Ave,Sanger,CA,93657,Tim Schluckebier,Juan Barron,South Central California,15,Southern Region,4,2015,2,4,36.7062681,-119.5553103,,,0,1
+565,BAKERSFIELD CALLOWAY DR,5411 Calloway Dr,Bakersfield,CA,93312,Jason Marine,Victor Echeveste,South Central California,15,Southern Region,4,2015,9,2,35.4101227,-119.1106328,,,0,1
+566,BAKERSFIELD BUCK OWENS,3012 Buck Owens Blvd,Bakersfield,CA,93308,Justin Scott,Cy Marquis,South Central California,15,Southern Region,4,2016,2,24,35.3878700,-119.0426070,566-Bakersfield-Buck-Owens-Blvd.jpg,,0,1
+567,HANFORD,330 N 12th Ave,Hanford,CA,93230,Greg Dickson,Ryan Vinyard,South Central California,15,Southern Region,4,2016,3,2,36.3235581,-119.6747275,,,0,1
+572,PERRIS,1697 N Perris Blvd,Perris,CA,92571,Brady Leblanc,Caleb Jacques,Southeastern California,17,Southern Region,4,2016,7,8,33.8025454,-117.2260267,,,0,1
+573,MORENO VALLEY PERRIS BLVD,12682 Perris Blvd,Moreno Valley,CA,92553,Frank Hernandez,Bill Schacht,Southeastern California,17,Southern Region,4,2016,7,8,33.9364547,-117.2263103,573-Moreno Valley Perris Blvd..jpg,,0,0
+169,AURORA SMOKY HILL RD,23990 E Smoky Hill Rd,Aurora,CO,80016,Jared Hemming,Miguel Moran,Central Colorado,16,Eastern Region,3,2016,7,20,39.5974986,-104.7069909,169-Aurora Smoky Hill Rd..jpg,,0,0
+570,FONTANA SIERRA AVE,6251 Sierra Ave,Fontana,CA,92336,Chris Baker,Joel Coleman,Southeastern California,17,Southern Region,4,2016,7,20,34.1378853,-117.4361213,570-Fontana Sierra Ave..jpg,,0,0
+575,MERCED 16TH ST,430 W 16th St,Merced,CA,95340,John Bailey,Napoleon Raygoza,South Central California,15,Southern Region,4,2016,9,21,37.3000529,-120.4828464,,,0,1

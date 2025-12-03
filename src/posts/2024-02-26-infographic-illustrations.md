@@ -2,9 +2,9 @@
 title: Infographic illustration raw scans
 date: '2024-02-26'
 tags:
-    - Illustration
-    - Newspapers
-    - Drawing
+    - illustration
+    - newspapers
+    - drawing
 metas:
     image: /img/illo-work/aneurysm.png
 ---

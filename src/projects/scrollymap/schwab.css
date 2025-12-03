@@ -1,0 +1,27 @@
+body { margin:0; padding:0; }
+
+#map { position:absolute; top:0; bottom:0; width:100%; }
+
+#cardOverlay {
+	width: 400px;
+	padding: 15px;
+	position: absolute;
+	overflow-y: scroll;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(255,255,255,0.6);
+	z-index: 999;
+}
+
+#cardOverlay::-webkit-scroll {
+	display: none;
+}
+
+#cardOverlay > .panel {
+	opacity: 0.5;
+}
+
+#cardOverlay > .panel.active {
+	opacity: 1;
+}
