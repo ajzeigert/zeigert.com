@@ -7,7 +7,7 @@ tags:
 metas:
   image: /img/scrollymap.png
 comments:
-  src: 
+  src: https://mastodon.social/@zeigert/115657604144410767
 ---
 
 ![Scrolly map](/img/scrollymap.png)
