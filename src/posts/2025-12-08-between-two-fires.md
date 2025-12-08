@@ -6,7 +6,7 @@ tags:
   - review
   - books
 comments:
-  src: 
+  src: https://mastodon.social/@zeigert/115685739259847772 
 ---
 
 [“Between Two Fires” by Christopher Beuhler](https://christopherbuehlmanauthor.com/book/between-two-fires/) | ★★★★★ 5/5 stars
