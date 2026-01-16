@@ -4,7 +4,7 @@ date: '2026-01-16'
 tags:
   - links
 comments:
-  src:
+  src: https://mastodon.social/@zeigert/115906769931789515
 ---
 
 I spent a good part of the last month down with the flu. I'm several weeks past day zero and still waking up with a frog in my throat, although it's a little better every day. I hope you and yours are healthy. This influenza A variant that's going around is no slouch.
