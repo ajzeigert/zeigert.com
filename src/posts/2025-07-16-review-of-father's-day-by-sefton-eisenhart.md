@@ -3,7 +3,7 @@ title: Review of Father's Day by Sefton Eisenhart
 date: '2025-07-16'
 draft: false
 tags:
-  - reviews
+  - review
 comments: 
   src: 'https://mastodon.social/@zeigert/114863843799549215'
 ---

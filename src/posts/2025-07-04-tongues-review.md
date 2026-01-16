@@ -3,7 +3,7 @@ title: Review of Tongues Vol. 1 by Anders Nilsen
 date: '2025-07-04T00:00:00.000Z'
 draft: false
 tags:
-  - reviews
+  - review
 comments: 
   src: 'https://mastodon.social/@zeigert/114796417939299181'
 ---

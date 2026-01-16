@@ -4,7 +4,7 @@ date: '2025-06-23T00:00:00.000Z'
 draft: false
 tags:
   - books
-  - reviews
+  - review
 comments:
   src: 'https://mastodon.social/@zeigert/114733738664861241'
 ---
