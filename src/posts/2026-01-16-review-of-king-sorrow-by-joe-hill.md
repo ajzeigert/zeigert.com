@@ -4,6 +4,8 @@ date: '2026-01-16'
 tags:
   - review
   - books
+comments:
+  src: https://mastodon.social/@zeigert/115906366458749176
 ---
 
 [King Sorrow by Joe Hill](https://www.harpercollins.com/products/king-sorrow-joe-hill?variant=43416030445602) | ★★★★☆ 4/5 stars
