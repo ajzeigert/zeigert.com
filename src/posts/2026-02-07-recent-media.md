@@ -6,7 +6,7 @@ tags:
   - media
   - review
 comments:
-  src: 
+  src: https://mastodon.social/@zeigert/116030773039023002
 ---
 
 ## The Knives by Ed Brubaker and Sean Phillips
