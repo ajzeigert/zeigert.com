@@ -5,8 +5,10 @@ draft: false
 tags:
   - illustration
   - painting
+metas:
+  image: /img/squares/IMG_7551.jpeg
 comments:
-  src:
+  src: https://mastodon.social/@zeigert/116042194974854297
 ---
 
 For some reason I found myself scrolling through my photos app and landed on a drawing series I did in 2021. They're little more than doodles, coloring-page shape logic. It's a good mental exercise, though.
