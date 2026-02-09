@@ -1,0 +1,9 @@
+22:38:57 Starting Bookokrat EPUB reader
+22:38:57 Settings file not found, creating with defaults at "/Users/zeigert/Library/Application Support/bookokrat/config.yaml"
+22:38:57 [DEBUG] (1) bookokrat::settings: Saved settings to "/Users/zeigert/Library/Application Support/bookokrat/config.yaml"
+22:38:57 [DEBUG] (1) bookokrat::theme: Applied saved theme: Oceanic Next
+22:38:57 Image picker initial protocol type: Kitty
+22:38:57 Kitty protocol detected, using Kitty
+22:38:57 Final protocol type: Kitty
+22:38:57 [DEBUG] (1) bookokrat::main_app: Initial terminal size: 159x29
+22:41:11 Shutting down Bookokrat
