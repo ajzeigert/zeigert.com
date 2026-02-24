@@ -1,7 +1,6 @@
 ---
 title: 'Michael Shannon & Jason Narducy & Friends, Portland, February 2026'
 date: '2026-02-17'
-draft: false
 metas:
   image: /img/shannon_02.jpeg
 tags:
