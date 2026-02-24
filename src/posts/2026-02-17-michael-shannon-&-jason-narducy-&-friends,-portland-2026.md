@@ -7,7 +7,7 @@ tags:
   - music
   - concert
 comments:
-  src: 
+  src: https://mastodon.social/@zeigert/116127921966142343
 ---
 
 ![Michael Shannon fronting an R.E.M. cover band.](/img/shannon_02.jpeg)
