@@ -10,7 +10,7 @@ menu:
 
 ### Role: Senior Software Engineer, UI/UX Designer
 
-**Dates:** 2015 - present
+**Dates:** 2015 - 2026
 
 **Company:** GeoEngineers, Inc.
 
