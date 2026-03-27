@@ -5,7 +5,7 @@ draft: false
 tags:
   - deno
 comments:
-  src: 
+  src: https://mastodon.social/@zeigert/116299967982606947
 ---
 
 This is a housekeeping post. I updated the host plumbing on zeigert.com to the [new Deno Deploy](https://docs.deno.com/deploy/migration_guide/) since they sent out the ominous "the old Deno Deploy will be deleted soon" email.
