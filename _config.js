@@ -41,7 +41,8 @@ const site = lume({
 			disallow: ["ChatGPT-User"],
 		}),
 	)
-	.copy("projects/scrollymap")
+	// .copy("projects/scrollymap")
+	.copy("projects")
 	.copy("BingSiteAuth.xml");
 
 export default site;
