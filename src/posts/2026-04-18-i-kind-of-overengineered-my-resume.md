@@ -101,5 +101,7 @@ This creates a new yaml file in `src/resume-variants/`, which is parsed by `src/
 
 ## Syndication
 
-I was unable to automatically push changes to LinkedIn because although LinkedIn does have an API, it does not support changes to the specific fields necessary to a completely automatic update.
+I was unable to automatically push changes to LinkedIn because, although LinkedIn does have an API, it does not support making changes to the specific fields necessary to a completely automatic update.
+
+
 
