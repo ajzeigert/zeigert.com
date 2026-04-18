@@ -1,0 +1,138 @@
+basics:
+  name: Andy Zeigert
+  label: Senior Software Engineer, UI/UX Designer, Geospatial Engineer, Cloud Infrastructure Engineer, Project Management
+  email: andy@zeigert.com
+  phone: "541-788-0452"
+  url: https://zeigert.com
+  location:
+    city: Bend
+    region: OR
+    countryCode: US
+  profiles:
+    - network: Mastodon
+      url: https://mastodon.social/@zeigert
+    - network: GitHub
+      username: ajzeigert
+      url: https://github.com/ajzeigert
+    - network: LinkedIn
+      username: andy-zeigert
+      url: https://linkedin.com/in/andy-zeigert
+
+summary: >-
+  Versatile Senior Software Engineer with 10+ years of experience building
+  full-stack web applications and geospatial tools for environmental and
+  engineering clients. Passionate about user satisfaction, clean code, elegent CI/CD pipelines, right-sized & secure cloud infrastructure, testing and documentation. If there's a geospatial component, even better.
+
+work:
+  - company: Freelance / Independent
+    location: Bend, Oregon (remote)
+    positions:
+      - title: Software Engineer, Developer
+        startDate: 2026-03
+        highlights:
+          - Contract web dev, UI/UX design, and geospatial dev
+        skills:
+          - JavaScript
+          - React
+          - Node
+          - UI/UX
+          - Geographic Information Systems (GIS)
+          - Web Maps
+
+  - company: GeoEngineers, Inc.
+    location: Tacoma, Washington (remote)
+    positions:
+      - title: Senior Software Engineer
+        startDate: 2021-03
+        endDate: 2026-03
+        highlights:
+          - Established application templates and best practices, reducing code review turnaround and improving consistency across environments
+          - Built automated build/deploy pipelines and improved testing infrastructure, accelerating release cycles and reducing deployment errors
+          - Implemented standardized Single Sign-On across all new applications, eliminating redundant authentication workflows for end users
+          - Mentored university students through a partnership with Western Washington University
+        skills:
+          - Cloud Application Infrastructure
+          - Full-Stack Web Development
+          - Geospatially-enabled Databse Development
+          - Project Management
+          - Authentication and security
+          - Github Actions / AWS CodePipeline / Azure Pipelines
+      - title: Software Engineer
+        startDate: 2018-01
+        endDate: 2021-03
+        highlights:
+          - Built and shipped web applications used by scientists, engineers and other specialists, improving data collection and project management workflows
+          - Managed development and production environments for multiple Node.js applications on AWS and Azure, ensuring reliable uptime and smooth deployments
+          - Developed and managed iOS applications and distribution
+          - Right-sized and combined assets across multiple AWS accounts, saving up to 20% on monthly compute costs
+          - Improved security across cloud accounts
+        skills:
+          - Geographic Information Systems (GIS)
+          - Amazon Web Services (AWS)
+          - PostgreSQL
+          - Node.js
+          - React.js
+          - JavaScript
+      - title: UX/UI Designer
+        startDate: 2015-07
+        endDate: 2018-01
+        highlights:
+          - Designed intuitive interfaces for environmental data management applications, enabling clients to efficiently manage sensor, laboratory, and incident data
+          - Collaborated with stakeholders to translate complex requirements into clear, usable software interfaces
+          - Implemented user testing frameworks across applicaiton portfolio
+        skills:
+          - Graphic Design
+          - Geographic Information Systems (GIS)
+          - User Interface Design
+          - Interaction Design
+
+  - company: The Bulletin
+    location: Bend, Oregon
+    positions:
+      - title: Graphics Reporter
+        startDate: 2010-05
+        endDate: 2015-02
+        highlights:
+          - Produced maps, infographics, and interactive data visualizations for print and web, enhancing reader engagement with complex stories
+          - Wrote and edited copy for publication
+          - Built interactive web infographics that expanded the newspaper's digital storytelling capabilities
+        skills:
+          - Geographic Information Systems (GIS)
+          - Data Analysis
+          - JavaScript
+          - Web Application Design
+      - title: Project Facilitator
+        startDate: 2008-02
+        endDate: 2010-05
+        highlights:
+          - Led implementation of a new publishing system by designing templates for multiple publications, streamlining the production workflow
+          - Trained staff on the new system, ensuring smooth adoption across the newsroom
+        skills:
+          - NewsCycle Solutions CMS
+          - Adobe Creative Suite
+      - title: Graphic Designer
+        startDate: 2005-05
+        endDate: 2010-05
+        highlights:
+          - Designed daily newspaper and magazine page layouts
+        skills:
+          - Adobe Creative Suite
+          - Page Layout
+          - Print Design
+
+education:
+  - institution: Central Oregon Community College
+    area: Geographic Information Systems
+    studyType: Certificate
+    startDate: 2014
+    endDate: 2014
+    location: Bend, Oregon
+    description: Completed a 1-year certificate in GIS. Learned about geospatial systems and workflows, developed a familiarity with ArcGIS, ArcMap and related ESRI systems.
+
+  - institution: Ball State University
+    area: Journalism Graphics
+    studyType: Bachelor of Arts
+    startDate: 2001
+    endDate: 2005
+    location: Muncie, Indiana
+    description: Studied journalism and graphic design.

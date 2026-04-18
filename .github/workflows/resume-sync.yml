@@ -1,0 +1,54 @@
+name: Resume LinkedIn Sync Reminder
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'src/_data/resume.yml'
+
+jobs:
+  create-sync-issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Generate diff
+        id: diff
+        run: |
+          DIFF=$(git diff HEAD~1 HEAD -- src/_data/resume.yml | grep '^[+-]' | grep -v '^[+-][+-][+-]' | head -60)
+          # Write to file to avoid escaping issues
+          echo "$DIFF" > /tmp/resume-diff.txt
+
+      - name: Create sync issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DIFF=$(cat /tmp/resume-diff.txt)
+
+          gh issue create \
+            --title "Sync resume changes to LinkedIn" \
+            --assignee ajzeigert \
+            --label "resume-sync" \
+            --body "## Resume updated — sync to LinkedIn
+
+          Your resume at [zeigert.com/resume](https://zeigert.com/resume/) was just updated. Review the changes below and update your LinkedIn profile.
+
+          ### Changes
+
+          \`\`\`diff
+          ${DIFF}
+          \`\`\`
+
+          ### LinkedIn sections to check
+          - [ ] [Intro / headline](https://www.linkedin.com/in/andy-zeigert/edit/forms/intro/new/)
+          - [ ] [Experience](https://www.linkedin.com/in/andy-zeigert/details/experience/)
+          - [ ] [Education](https://www.linkedin.com/in/andy-zeigert/details/education/)
+          - [ ] [Skills](https://www.linkedin.com/in/andy-zeigert/details/skills/)
+
+          ### Your current resume
+          - **Web:** https://zeigert.com/resume/
+          - **JSON Resume:** https://zeigert.com/resume.json"

@@ -1,0 +1,262 @@
+---
+layout: layouts/base.vto
+bodyClass: body-tag
+---
+<style>
+.resume .resume-contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  font-size: 0.95em;
+  margin-top: -0.5rem;
+}
+.resume .resume-section {
+  margin-bottom: 2rem;
+}
+.resume .resume-employer {
+  margin-bottom: 1.5rem;
+}
+.resume .resume-location {
+  color: var(--color-dim, #666);
+  margin-top: -0.5rem;
+}
+.resume .resume-position {
+  margin-bottom: 1.25rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--color-line, #e0e0e0);
+}
+.resume .resume-position-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.resume .resume-position-header h4 {
+  margin: 0;
+}
+.resume .resume-dates {
+  color: var(--color-dim, #666);
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+.resume .resume-skills {
+  font-size: 0.9em;
+  color: var(--color-dim, #666);
+}
+.resume .resume-education {
+  margin-bottom: 1.25rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--color-line, #e0e0e0);
+}
+.resume .resume-json-link {
+  margin-top: 2rem;
+  font-size: 0.85em;
+}
+
+.resume h1 small {
+  color: gray;
+}
+
+@media print {
+  /* Hide site chrome */
+  nav.navbar,
+  .resume .resume-json-link {
+    display: none !important;
+  }
+
+  body, main {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+
+  .resume {
+    font-size: 11pt;
+    line-height: 1.4;
+  }
+
+  .resume .post-header {
+    margin-bottom: 0.25rem;
+  }
+
+  .resume .post-title {
+    font-size: 20pt;
+    margin-bottom: 0.1rem;
+  }
+
+  .resume .resume-contact {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 10pt;
+    line-height: 0.75rem
+  }
+
+  .resume .resume-contact a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .resume .resume-contact a::after {
+    content: none !important;
+  }
+
+  .resume .resume-profile {
+    display: none;
+  }
+
+
+  .resume .resume-summary p {
+    font-size: 10pt;
+    margin: 0;
+  }
+
+  .resume .resume-section {
+    margin-bottom: 1rem;
+  }
+
+  .resume h2 {
+    font-size: 14pt;
+    border-bottom: 1px solid #000;
+    padding-bottom: 0.15rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .resume h3 {
+    font-size: 12pt;
+    margin-bottom: 0.15rem;
+  }
+
+  .resume .resume-location {
+    font-size: 10pt;
+    margin-top: -0.25rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .resume .resume-position {
+    margin-bottom: 0.5rem;
+    padding-left: 0.75rem;
+    border-left: 1.5px solid #999;
+  }
+
+  .resume .resume-position-header h4 {
+    font-size: 11pt;
+    font-weight: bold;
+  }
+
+  .resume .resume-dates {
+    font-size: 10pt;
+  }
+
+  .resume ul {
+    margin: 0.2rem 0;
+    padding-left: 1.25rem;
+  }
+
+  .resume li {
+    margin-bottom: 0.1rem;
+    font-size: 10pt;
+  }
+
+  .resume .resume-skills {
+    font-size: 9pt;
+    margin-top: 0.15rem;
+  }
+
+  .resume .resume-employer {
+    margin-bottom: 0.75rem;
+  }
+
+  .resume .resume-education {
+    margin-bottom: 0.5rem;
+    padding-left: 0.75rem;
+    border-left: 1.5px solid #999;
+  }
+
+  .resume .resume-education p {
+    font-size: 10pt;
+    margin: 0.1rem 0;
+  }
+
+  /* Avoid breaking positions across pages */
+  .resume .resume-position {
+    break-inside: avoid;
+  }
+
+  .resume .resume-education {
+    break-inside: avoid;
+  }
+}
+</style>
+<article class="post resume" data-pagefind-body>
+  <header class="post-header">
+    <h1 class="post-title">{{ it.resume.basics.name }} <small>résumé</small></h1>
+    <p class="resume-contact">
+      {{ if it.resume.basics.email }}<a href="mailto:{{ it.resume.basics.email }}">{{ it.resume.basics.email }}</a>{{ /if }}
+      {{ if it.resume.basics.phone }}<a href="tel:{{ it.resume.basics.phone }}">{{ it.resume.basics.phone }}</a>{{ /if }}
+      {{ if it.resume.basics.url }}<a href="{{ it.resume.basics.url }}">{{ it.resume.basics.url }}</a>{{ /if }}
+      {{ for profile of it.resume.basics.profiles }}<a href="{{ profile.url }}" class="resume-profile resume-profile-{{ profile.network.toLowerCase() }}">{{ profile.network }}</a>{{ /for }}
+      {{ if it.resume.basics.location }}<span>{{ it.resume.basics.location.city }}, {{ it.resume.basics.location.region }}</span>{{ /if }}
+    </p>
+  </header>
+
+  <div class="post-body">
+    {{ if it.resume.summary }}
+    <section class="resume-section resume-summary">
+      <h2>Summary</h2>
+      <p>{{ it.resume.summary }}</p>
+    </section>
+    {{ /if }}
+
+    <section class="resume-section">
+      <h2>Work History</h2>
+      {{ for employer of it.resume.work }}
+      <div class="resume-employer">
+        <h3>{{ employer.company }}</h3>
+        <p class="resume-location">{{ employer.location }}</p>
+        {{ for position of employer.positions }}
+        <div class="resume-position">
+          <div class="resume-position-header">
+            <h4>{{ position.title }}</h4>
+            <span class="resume-dates">{{ position.startDate |> resumeDate }} &ndash; {{ position.endDate |> resumeDate }}</span>
+          </div>
+          {{ if position.highlights }}
+          <ul>
+            {{ for highlight of position.highlights }}
+            <li>{{ highlight }}</li>
+            {{ /for }}
+          </ul>
+          {{ /if }}
+          {{ if position.skills }}
+          <p class="resume-skills"><strong>Skills:</strong> {{ position.skills.join(", ") }}</p>
+          {{ /if }}
+        </div>
+        {{ /for }}
+      </div>
+      {{ /for }}
+    </section>
+
+    <section class="resume-section">
+      <h2>Education</h2>
+      {{ for edu of it.resume.education }}
+      <div class="resume-employer">
+        <h3>{{ edu.institution }}</h3>
+        <p class="resume-location">{{ edu.location }}</p>
+        <div class="resume-position">
+          <div class="resume-position-header">
+            <h4>{{ edu.studyType }} in {{ edu.area }}</h4>
+            <span class="resume-dates">{{ edu.startDate |> resumeDate }}{{ if edu.startDate != edu.endDate }} &ndash; {{ edu.endDate |> resumeDate }}{{ /if }}</span>
+          </div>
+          {{ if edu.description }}
+          <ul>
+            <li>{{ edu.description }}</li>
+          </ul>
+          {{ /if }}
+        </div>
+      </div>
+      {{ /for }}
+    </section>
+
+    <p class="resume-json-link"><a href="/resume.json">View as JSON Resume</a></p>
+  </div>
+</article>
