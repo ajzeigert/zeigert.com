@@ -1,0 +1,18 @@
+title: Résumé — Acme Corp
+slug: acme-corp
+jobUrl: 'https://example.com/job/id/1245'
+summary: 'Experienced web developer with 10+ years working closely with stakeholders from across company disciplines. '
+
+keywords: 
+  "Senior Software Engineer":
+    - Containerization
+    - Python
+    - Project Management
+    
+hide: ["Graphic Designer"]
+
+highlights: 
+   "Senior Software Engineer":
+    - Led migration to containerized deployments
+    - Established CI/CD pipelines using GitHub Actions
+

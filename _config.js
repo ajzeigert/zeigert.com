@@ -41,6 +41,18 @@ const site = lume({
 			disallow: ["ChatGPT-User"],
 		}),
 	)
+	.filter("resumeDate", (d) => {
+		if (!d) return "Present";
+		const s = String(d);
+		const parts = s.split("-");
+		if (parts.length === 1) return s;
+		const months = [
+			"January", "February", "March", "April", "May", "June",
+			"July", "August", "September", "October", "November", "December",
+		];
+		return months[parseInt(parts[1], 10) - 1] + " " + parts[0];
+	})
+	.ignore("resume-variants")
 	// .copy("projects/scrollymap")
 	.copy("projects")
 	.copy("BingSiteAuth.xml");

@@ -1,0 +1,37 @@
+# Resume variant for Acme Corp
+# Copy this file and customize for each application.
+#
+# Available options:
+#   title:      Custom page title (default: "Résumé")
+#   slug:       URL slug — outputs to /resume/<slug>/ (required)
+#   jobUrl:     Link to the job posting (for your reference)
+#   summary:    Override the summary statement (tailored to this role)
+#   keywords:   Extra skills/keywords to append to relevant positions
+#   hide:       List of position titles to hide entirely
+#   highlights: Override or add highlights for specific positions
+#              (matched by position title)
+#
+# Positions are matched by their exact title from resume.yml.
+# The canonical resume at /resume/ is never affected.
+
+title: "Résumé — Acme Corp"
+slug: acme-corp
+jobUrl: https://example.com/jobs/123
+
+summary: >-
+  Results-oriented Software Engineer with 10+ years of experience...
+  (tailored summary for this specific role)
+
+keywords:
+  "Software Engineer":
+    - Python
+    - Kubernetes
+    - CI/CD
+
+hide:
+  - "Graphic Designer"
+
+highlights:
+  "Senior Software Engineer":
+    - Led migration to containerized deployments
+    - Established CI/CD pipelines using GitHub Actions

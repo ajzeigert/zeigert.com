@@ -7,7 +7,7 @@ menu:
 ---
 
 <div class="h-card">
-    <p>Hi, my name is <a class="p-name u-url" href="https://zeigert.com">Andy Zeigert</a> (he/him). I write here about art, mapmaking and web development, but you can also find me at <a href="https://mastodon.social/@zeigert">@zeigert</a> on mastadon.social. <br/>Feel free to email me at <a class="u-email" href="mailto:andy@zeigert.com">andy@zeigert.com</a>.</p>
+    <p>Hi, my name is <a class="p-name u-url" href="https://zeigert.com">Andy Zeigert</a> (he/him). I write here about art, mapmaking and web development, but you can also find me at <a href="https://mastodon.social/@zeigert">@zeigert</a> on mastadon.social.<br><br>Feel free to email me at <a class="u-email" href="mailto:andy@zeigert.com">andy@zeigert.com</a>.</p>
     <img class="u-photo" src="/img/avatar.png" alt="Andy Zeigert circa... a while ago. Dressed as a centurion for Halloween.">
 </div>
 
@@ -30,7 +30,7 @@ Leading with all of that only scratches the surface, of course. I don't really c
 - [Mastodon](https://mastodon.social/@zeigert)
 - [Bluesky](https://bsky.app/profile/zeigert.com)
 - [Github](https://github.com/ajzeigert/)
-- [Glitch](https://glitch.com/@zeigert)
+- ~~[Glitch](https://glitch.com/@zeigert)~~ RIP
 
 ### Less important elsewhere but you're welcome to follow me
 
@@ -40,7 +40,7 @@ Leading with all of that only scratches the surface, of course. I don't really c
 - [Chess.com](https://www.chess.com/member/zeigert) _Play me! I'm not very good!_
 - [Goodreads](https://www.goodreads.com/user/show/1465437-andy-zeigert) _Thinking about switching to a fediverse reading tracker, but still here for now_
 - [LinkedIn](https://www.linkedin.com/in/andy-zeigert/) _Yeah, I know. Seems like the career equivalent of car insurance — doesn't really seem important until you need it_
-- [Puzzmo](https://www.puzzmo.com/user/ii/zeigert) _I've been doing their crossword almost every day for a while now_
+- ~~[Puzzmo](https://www.puzzmo.com/user/ii/zeigert) _I've been doing their crossword almost every day for a while now_~~ Kinda fell off this one
 - [bandcamp](https://bandcamp.com/andyzeigert) _Just a fan, I don't upload any music there_
 
 I'm @zeigert or @ajzeigert on many other services, but chances are that if I didn't mention them above, I don't use them much.
