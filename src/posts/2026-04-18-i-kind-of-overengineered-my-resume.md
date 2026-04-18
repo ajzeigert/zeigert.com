@@ -9,7 +9,7 @@ tags:
   - linkedin
   - jobseeking
 comments:
-  src: 
+  src: https://mastodon.social/@zeigert/116424452009143694
 ---
 
 ![Printing a résumé straight from the web](../img/resume-update-2.png)
