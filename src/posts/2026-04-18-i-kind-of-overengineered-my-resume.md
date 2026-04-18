@@ -103,5 +103,4 @@ This creates a new yaml file in `src/resume-variants/`, which is parsed by `src/
 
 I was unable to automatically push changes to LinkedIn because, although LinkedIn does have an API, it does not support making changes to the specific fields necessary to a completely automatic update.
 
-
-
+In fact, it seems the ONLY way to update your work and education history on LinkedIn is by logging into their web portal and making the changes manually. It's not great, but there was still 
