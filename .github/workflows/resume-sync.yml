@@ -2,7 +2,7 @@ name: Resume LinkedIn Sync Reminder
 
 on:
   push:
-    branches: [master]
+    branches: [main]
     paths:
       - 'src/_data/resume.yml'
 
