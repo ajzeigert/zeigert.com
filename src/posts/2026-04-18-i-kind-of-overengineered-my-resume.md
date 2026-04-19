@@ -12,7 +12,7 @@ comments:
   src: https://mastodon.social/@zeigert/116424452009143694
 ---
 
-![Printing a résumé straight from the web](../img/resume-update-2.png)
+![Printing a résumé straight from the web](/img/resume-update-2.png)
 
 I've been working on [my résumé](/resume/) lately. I attended a webinar offered by a career advisor firm that I connected with, and I learned a little about how job seeking has changed since I last did it. Some highlights:
 
