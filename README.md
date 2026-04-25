@@ -7,5 +7,5 @@ To deploy to production, simply push to `main`.
 To run lume locally in watch mode:
 
 ```
-deno task lume -w 
+deno task lume -s --no-cms 
 ```

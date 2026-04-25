@@ -30,12 +30,11 @@ work:
         highlights:
           - Contract web dev, UI/UX design, and geospatial dev
         skills:
-          - JavaScript
-          - React
-          - Node
+          - Geospatial Web Development
           - UI/UX
           - Geographic Information Systems (GIS)
-          - Web Maps
+          - Full-Stack Web Development
+          - JavaScript, Node, React, Python, PostgreSQL, PostGIS
 
   - company: GeoEngineers, Inc.
     location: Tacoma, Washington (remote)
@@ -44,17 +43,16 @@ work:
         startDate: 2021-03
         endDate: 2026-03
         highlights:
-          - Established application templates and best practices, reducing code review turnaround and improving consistency across environments
           - Built automated build/deploy pipelines and improved testing infrastructure, accelerating release cycles and reducing deployment errors
-          - Implemented standardized Single Sign-On across all new applications, eliminating redundant authentication workflows for end users
+          - Implemented security best practices across application stacks, contributed toward company goal of CMMC Level 2 certification
           - Mentored university students through a partnership with Western Washington University
+          - Established application templates and best practices, reducing code review turnaround and improving consistency across environments
         skills:
           - Cloud Application Infrastructure
           - Full-Stack Web Development
-          - Geospatially-enabled Databse Development
           - Project Management
-          - Authentication and security
-          - Github Actions / AWS CodePipeline / Azure Pipelines
+          - Authentication and Security
+          - CI/CD Pipelines
       - title: Software Engineer
         startDate: 2018-01
         endDate: 2021-03
@@ -66,11 +64,8 @@ work:
           - Improved security across cloud accounts
         skills:
           - Geographic Information Systems (GIS)
-          - Amazon Web Services (AWS)
-          - PostgreSQL
-          - Node.js
-          - React.js
-          - JavaScript
+          - Cloud Application Infrastructure
+          - Full-Stack Web Development
       - title: UX/UI Designer
         startDate: 2015-07
         endDate: 2018-01

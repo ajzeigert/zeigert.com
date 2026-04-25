@@ -1,0 +1,47 @@
+title: "Résumé — Development Seed"
+slug: development-seed
+jobUrl: https://developmentseed.org/careers/technical-project-lead/
+
+summary: >-
+  Technical project leader and Senior Software Engineer with 10+ years of experience building geospatial web applications and cloud infrastructure for environmental and scientific clients. Proven track record of bridging engineering teams and non-technical stakeholders, managing cross-functional projects, and delivering tools that support data-driven science. Deep background in GIS, cloud-native geospatial workflows, and open-source development. Passionate about open science, Earth observation, and building technology that magnifies the impact of publicly funded research.
+
+keywords:
+  "Software Engineer, Developer":
+    - Open Source
+    - Cloud-Native Geospatial
+  "Senior Software Engineer":
+    - Stakeholder Management
+    - Cross-Functional Team Leadership
+    - Open Source
+    - Earth Observation
+  "Software Engineer":
+    - Environmental Data Systems
+    - Geospatial Web Applications
+  "UX/UI Designer":
+  "Graphics Reporter":
+    - Data Visualization
+    - Scientific Communication
+    - Geospatial Analysis
+
+hide:
+  - "Page Designer"
+
+highlights:
+  "Senior Software Engineer":
+    - Led cross-functional engineering projects for environmental and geoscience clients, coordinating scope, timelines, and delivery across distributed teams
+    - Built automated CI/CD pipelines and testing infrastructure, accelerating release cycles and ensuring reliable deployments
+    - Mentored junior engineers through a university partnership, investing in team growth and technical development
+    - Implemented security best practices across application stacks, contributed toward company goal of CMMC Level 2 certification
+  "Software Engineer":
+    - Built and shipped geospatial web applications used by scientists and engineers, improving data collection and environmental project management workflows
+    - Managed development and production environments for multiple Node.js applications on AWS and Azure, ensuring reliable uptime across projects
+    - Managed cloud infrastructure across AWS and Azure, making architectural decisions that balanced performance, cost, and security
+  "UX/UI Designer":
+    - Designed intuitive interfaces for environmental data management applications, enabling clients to efficiently manage sensor, laboratory, and incident data
+    - Collaborated directly with stakeholders to translate complex scientific and engineering requirements into clear, usable software interfaces
+    - Implemented user testing frameworks that improved product quality and client satisfaction across a broad portfolio of applications
+  "Graphics Reporter":
+    - Produced maps, data visualizations, and interactive geospatial tools for a regional newspaper, making complex environmental and scientific stories accessible
+  "Project Facilitator":
+    - Led implementation of a new publishing system across multiple publications, managing scope, timelines, and cross-team coordination
+    - Trained staff on the new system, ensuring smooth adoption and minimal disruption to production workflows
