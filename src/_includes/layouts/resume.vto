@@ -101,10 +101,13 @@ bodyClass: body-tag
     content: none !important;
   }
 
-  .resume .resume-profile {
-    display: none;
+  .resume .resume-contact .resume-profile::after {
+    content: " (" attr(href) ")" !important;
   }
 
+  .resume .resume-contact .resume-profile-no-print {
+    display: none !important;
+  }
 
   .resume .resume-summary p {
     font-size: 10pt;
@@ -195,7 +198,7 @@ bodyClass: body-tag
       {{ if it.resume.basics.email }}<a href="mailto:{{ it.resume.basics.email }}">{{ it.resume.basics.email }}</a>{{ /if }}
       {{ if it.resume.basics.phone }}<a href="tel:{{ it.resume.basics.phone }}">{{ it.resume.basics.phone }}</a>{{ /if }}
       {{ if it.resume.basics.url }}<a href="{{ it.resume.basics.url }}">{{ it.resume.basics.url }}</a>{{ /if }}
-      {{ for profile of it.resume.basics.profiles }}<a href="{{ profile.url }}" class="resume-profile resume-profile-{{ profile.network.toLowerCase() }}">{{ profile.network }}</a>{{ /for }}
+      {{ for profile of it.resume.basics.profiles }}<a href="{{ profile.url }}" class="resume-profile resume-profile-{{ profile.network.toLowerCase() }}{{ if profile.print === false }} resume-profile-no-print{{ /if }}">{{ profile.network }}</a>{{ /for }}
       {{ if it.resume.basics.location }}<span>{{ it.resume.basics.location.city }}, {{ it.resume.basics.location.region }}</span>{{ /if }}
     </p>
   </header>

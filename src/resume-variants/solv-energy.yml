@@ -1,0 +1,43 @@
+title: Résumé — Cloud Systems Engineer
+slug: solv-energy
+jobUrl: https://www.linkedin.com/jobs/view/cloud-systems-engineer-at-solv-energy
+
+summary: >-
+  Developer and cloud infrastructure engineer with 10+ years of experience building applications on AWS and Azure environments for engineering and environmental clients. Comfortable writing full-stack code in the morning and infrastructure-as-code tooling in the afternoon. Strong track record in CI/CD automation, cost optimization and security hardening. I like building clean, repeatable, well-documented infrastructure and earning buy-in across teams. As a developer, I aim for applications that clients not only like to use but feel involved in.
+
+hide:
+  - "UX/UI Designer"
+  - "Graphics Reporter"
+  - "Project Facilitator"
+  - "Page Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - Zero Trust
+    - CMMC
+    - Terraform
+    - Bicep
+  "Software Engineer":
+    - Cloud Cost Optimization
+
+highlights:
+  "Senior Software Engineer":
+    - Restructured AWS environment into a managed Organization with individual IAM users, MFA, and role-based cross-account access, eliminating shared
+      master credentials across all accounts
+    - Migrated four production applications from hardcoded credentials to AWS Secrets Manager and environment variables, remediating secrets exposure
+      and strengthening compliance posture toward CMMC Level 2 certification
+    - Administered Azure AD (Entra ID) and designed enterprise SSO authentication pattern embedded in application templates, ensuring
+      consistent identity management and conditional access across all new deployments
+    - Built infrastructure-as-code-style provisioning workflows using AWS CloudFormation and CLI tooling for VPC, RDS, and Elastic Beanstalk environments
+    - Implemented GitHub Actions CI/CD pipelines for five Elastic Beanstalk applications and AWS CodeBuild for ECS container workloads, automating
+      deployments and enforcing PR-based release discipline
+    - Led Azure AI Foundry project, designing secure data access architecture and LLM integration for a safety report chatbot with accuracy and PII
+      protection requirements
+    - Mentored university student teams through full application lifecycle, including production deployment to AWS and Azure environments
+  "Software Engineer":
+    - Managed production AWS and Azure environments for multiple Node.js applications across Elastic Beanstalk, ECS, and RDS, maintaining uptime
+      and deployment reliability for engineering workloads
+    - Audited AWS accounts and right-sized oversized compute instances, reducing monthly cloud spend by approximately 20% through instance
+      optimization and savings plan adoption
+    - Improved cloud security posture by establishing IAM policies, access controls, and account separation across multiple AWS environments
+    - Developed and managed iOS mobile distribution pipeline for GeoGrab, a React Native geospatial data collection application deployed to field staff

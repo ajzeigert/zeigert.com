@@ -11,12 +11,15 @@ basics:
   profiles:
     - network: Mastodon
       url: https://mastodon.social/@zeigert
+      print: false
     - network: GitHub
       username: ajzeigert
       url: https://github.com/ajzeigert
+      print: false
     - network: LinkedIn
       username: andy-zeigert
       url: https://linkedin.com/in/andy-zeigert
+      print: true
 
 summary: >-
   Versatile Senior Software Engineer with 10+ years of experience building full-stack web applications and geospatial tools for environmental and engineering clients. Passionate about user satisfaction, clean code, elegent CI/CD pipelines, right-sized & secure cloud infrastructure, testing and documentation. If there's a geospatial component, even better.
