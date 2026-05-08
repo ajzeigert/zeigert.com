@@ -1,0 +1,51 @@
+title: Résumé — Senior Engineer, Overstory
+slug: overstory-senior-engineer
+jobUrl: 'https://job-boards.eu.greenhouse.io/overstory/jobs/4779122101?gh_src=my.greenhouse.search'
+
+summary: >-
+  Senior Software Engineer with 10+ years of experience building geospatial web applications and data pipelines for environmental and engineering clients. Deep background in spatial data systems — PostGIS, geospatial ETL/ELT pipelines, and GIS-integrated full-stack applications — developed working with scientists, engineers, and field staff on projects touching FERC dam safety, EPA Superfund sites, and wetland delineation workflows. Equally comfortable owning backend infrastructure and data architecture as I am building the React interfaces that surface that data. Drawn to Overstory because the mission sits at the intersection of geospatial technology and climate impact — two things I care deeply about.
+
+hide:
+  - "Project Facilitator"
+  - "Page Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - Python
+    - React
+    - PostGIS
+    - Geospatial Data Pipelines
+    - Geospatial Web Applications
+    - ETL
+    - PostgreSQL
+    - FastAPI
+    - REST APIs
+    - Data Annotation Workflows
+    - Node.js
+    - CI/CD
+    - AWS
+    - Azure
+  "UX/UI Designer":
+    - React
+    - User Workflows
+    - Data Visualization
+  "Graphics Reporter":
+    - Geospatial Analysis
+    - Data Visualization
+
+highlights:
+  "Senior Software Engineer":
+    - Promoted to Senior Software Engineer after three years, reflecting expanded ownership of cloud infrastructure, deployment systems, and team mentorship
+    - Built and maintained the Spills App, a web dashboard used to coordinate transformer spill response and cleanup tracking for Puget Sound Energy, managing thousands of incidents across storm events and day-to-day operations
+    - Built geospatial data collection and processing pipelines for field staff on environmental projects contracted with state, federal, and tribal government clients, including FERC dam safety compliance workflows, EPA Superfund site data management, and wetland delineation tools
+    - Designed and led implementation of an internal generative AI assistant on Azure AI Foundry, integrating structured data from CosmosDB with role-based access controls and PII protections — required designing reliable data pipelines and secure data access architecture
+    - Built full-stack geospatial web and mobile applications using React, Node.js, and PostgreSQL/PostGIS — including GeoGrab, a React Native field data collection app deployed to iOS and Android for remote environmental project sites
+    - Managed AWS and Azure cloud infrastructure across multiple production applications — CI/CD pipelines, serverless event-driven services, and security hardening toward CMMC Level 2 certification
+    - Worked alongside scientists, engineers, and field specialists on projects contracted with state, federal, and tribal government clients — hosted stakeholder brown bag sessions to surface domain expert feedback before features shipped
+    - Co-led development of a company-wide inventory tracking system, replacing fragmented spreadsheet processes with a unified platform that grew to thousands of entries and was adopted across the organization
+    - Mentored four university partnership teams — approximately twelve students total — through full application lifecycles on projects requiring spatial data access patterns and secure backend design
+  "UX/UI Designer":
+    - Designed interfaces for environmental data management applications handling sensor data, lab results, and incident records — translating complex domain workflows into clear, task-oriented UIs used by scientists and engineers
+    - Collaborated directly with domain experts to surface the right data at the right point in field and office workflows
+  "Graphics Reporter":
+    - Produced maps, data visualizations, and interactive geospatial tools for a regional newspaper, making complex environmental and land-use stories accessible to a general audience

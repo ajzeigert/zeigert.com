@@ -1,0 +1,54 @@
+title: Résumé — Senior Cloud Software Engineer
+slug: trc-cloud-engineer
+jobUrl: 'https://careers.trccompanies.com/careers-home/jobs/25290?lang=en-us'
+
+summary: >-
+  Senior Software Engineer with 10+ years of experience building cloud-hosted geospatial applications and data pipelines for environmental and engineering clients. Deep AWS and Azure experience across serverless (Lambda, Azure Functions), containerized (ECS), and managed (Elastic Beanstalk) platforms. Brings strong geospatial domain knowledge — ArcGIS Enterprise integration, spatial data pipelines, PostGIS — alongside a track record of hardening cloud security and automating deployments.
+
+hide:
+  - "Graphics Reporter"
+  - "Project Facilitator"
+  - "Page Designer"
+  - "UX/UI Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - AWS Lambda
+    - Azure Functions
+    - Event-Driven Architecture
+    - Geospatial Data Pipelines
+    - ArcGIS Enterprise
+    - ArcGIS Server
+    - ArcGIS Portal
+    - PostGIS
+    - CMMC
+  "Software Engineer":
+    - AWS Lambda
+    - ArcGIS Server
+    - PostGIS
+    - Cloud Cost Optimization
+
+highlights:
+  "Senior Software Engineer":
+    - Built and deployed serverless applications using AWS Lambda and Azure Functions as part of event-driven, microservice-oriented architectures
+      for engineering and environmental data workflows
+    - Designed and deployed geospatial applications on ArcGIS Server and Portal, including map service publishing, spatial analysis tools, and
+      integration with enterprise data workflows
+    - Collaborated with cross-functional teams to integrate GIS services into broader cloud-hosted application stacks on AWS and Azure
+    - Restructured AWS environment into a managed Organization with individual IAM users, MFA, and role-based cross-account access, eliminating
+      shared master credentials; migrated four applications to AWS Secrets Manager
+    - Implemented GitHub Actions CI/CD pipelines for five Elastic Beanstalk applications and AWS CodeBuild for ECS container workloads, automating
+      deployments and enforcing PR-based release discipline
+    - Implemented security best practices across application stacks, contributing toward company goal of CMMC Level 2 certification
+    - Mentored university student teams through full application lifecycle, including a recent Azure AI Foundry project requiring secure LLM data
+      access architecture and PII protection
+    - Built infrastructure-as-code-style provisioning workflows using AWS CloudFormation and CLI tooling for VPC, RDS, and Elastic Beanstalk
+      environments
+  "Software Engineer":
+    - Managed production AWS and Azure environments for multiple Node.js applications across Elastic Beanstalk, ECS, and RDS, maintaining uptime
+      and deployment reliability for geospatial engineering workloads
+    - Audited AWS accounts and right-sized oversized compute instances, reducing monthly cloud spend by approximately 20% through instance
+      optimization and savings plan adoption
+    - Developed and shipped GeoGrab, a React Native geospatial data collection application, through the full mobile distribution pipeline to iOS and
+      Android app stores for field staff use
+    - Integrated geospatial services with backend feature services and relational databases including PostgreSQL/PostGIS

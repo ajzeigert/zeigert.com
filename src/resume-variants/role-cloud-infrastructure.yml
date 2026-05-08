@@ -1,0 +1,57 @@
+title: Résumé — Cloud Infrastructure Engineer
+slug: role-cloud-infrastructure
+
+summary: >-
+  Senior Software Engineer with 10+ years of experience building and operating cloud infrastructure for production applications on AWS and Azure. Strong track record in CI/CD automation, security hardening, cost optimization, and infrastructure-as-code — developed while serving as the primary cloud and DevOps engineer across a portfolio of applications at a civil engineering firm. Comfortable writing application code in the morning and wiring up pipelines in the afternoon. I like building clean, repeatable, well-documented infrastructure that teams can actually own and operate.
+
+hide:
+  - "UX/UI Designer"
+  - "Graphics Reporter"
+  - "Project Facilitator"
+  - "Page Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - AWS
+    - Azure
+    - Docker
+    - Elastic Container Service (ECS)
+    - Elastic Beanstalk
+    - RDS
+    - AWS Lambda
+    - Azure Functions
+    - Azure App Service
+    - Azure AI Foundry
+    - GitHub Actions
+    - AWS CodeBuild
+    - AWS CloudFormation
+    - Infrastructure as Code
+    - AWS Secrets Manager
+    - IAM
+    - Azure AD / Entra ID
+    - SSO
+    - CI/CD Pipelines
+    - CMMC
+    - Zero Trust
+    - Cloud Cost Optimization
+    - Incident Response
+    - Monitoring
+    - Node.js
+    - PostgreSQL
+
+highlights:
+  "Senior Software Engineer":
+    - Promoted to Senior Software Engineer after three years, reflecting expanded ownership of cloud infrastructure, deployment systems, and team mentorship
+    - Restructured AWS environment into a managed Organization with individual IAM users, MFA enforcement, and role-based cross-account access, eliminating shared master credentials across all accounts
+    - Migrated four production applications from hardcoded credentials to AWS Secrets Manager and environment variables, remediating secrets exposure and strengthening compliance posture toward CMMC Level 2 certification
+    - Administered Azure AD (Entra ID) and designed an enterprise SSO authentication pattern embedded in application templates, ensuring consistent identity management and conditional access across all new deployments
+    - Implemented GitHub Actions CI/CD pipelines for five Elastic Beanstalk applications and AWS CodeBuild pipelines for ECS container workloads, automating deployments and enforcing PR-based release discipline
+    - Built infrastructure-as-code provisioning workflows using AWS CloudFormation and CLI tooling for VPC, RDS, and Elastic Beanstalk environments, enabling reproducible environment setup and reducing manual provisioning errors
+    - Led Azure AI Foundry deployment, designing secure data access architecture and LLM integration for a safety report assistant with accuracy and PII protection requirements
+    - Built and deployed serverless event-driven services using AWS Lambda and Azure Functions, reducing compute costs and increasing flexibility across multiple application workloads
+    - Designed a React/Node/PostgreSQL application template with CLI-driven Elastic Beanstalk deployment and Azure AD SSO built in, reducing new project setup from weeks to hours; five production applications currently run on it
+    - Managed production AWS and Azure environments for multiple Node.js applications across Elastic Beanstalk, ECS, and RDS, maintaining uptime and deployment reliability
+    - Audited AWS accounts and right-sized oversized compute instances, reducing monthly cloud spend by approximately 20% through instance optimization and savings plan adoption
+    - Improved cloud security posture by establishing IAM policies, access controls, and account separation across multiple AWS environments
+    - Built and managed containerized application workloads on ECS using Docker-based deployment patterns in production environments
+    - Mentored four university partnership teams — approximately twelve students total — through full application lifecycles including production deployment to AWS and Azure environments

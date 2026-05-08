@@ -1,0 +1,56 @@
+title: Résumé — Staff Solutions Architect, Code for America
+slug: cfa-solutions-architect
+
+application:
+  place: LinkedIn
+  dateApplied: 2026-05-06
+
+# summary: >-
+  # Versatile Senior Software Engineer with 10+ years of experience bridging technical complexity and real-world client needs. Career shaped by a journalist's commitment to civic engagement — making information accessible and useful to the people who need it. At GeoEngineers, led architecture and delivery of full-stack applications for state, federal, and tribal government clients navigating complex regulatory and environmental requirements. Recent work includes designing a generative AI system on Azure AI Foundry with PII safeguards and role-based access controls. Adept at translating ambiguous requirements into clear technical solutions, guiding cross-functional teams, and building systems that partners can own and sustain independently.
+
+summary:
+  - Versatile Senior Software Engineer with 10+ years of experience building simple tools for complex problems. Most recently worked for a civil engineering firm, led architecture and delivery of full-stack applications in support of state, federal and tribal government clients, often navigating regulatory and environmental requirements. Adept at translating ambiguous requirements into clear technical solutions, coordinating with technical and non-technical stakeholders, and building systems that partners can own and sustain independently. Commitment to civic engagement comes from a background as a journalist, where the value of making information accessible and useful to the people who need it was top priority. Filling skill gaps and learning new tech still excite me.
+
+  - I know how to build systems, right-size cloud infrastructure, harden security, boost adoption and mentor junior developers. I’m looking to join a team that needs one or more of those skills.
+   
+hide:
+  - "Project Facilitator"
+  - "Page Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - Python
+    - Azure
+    - AWS
+    - Generative AI
+    - Large Language Models
+    - DevOps
+    - Data Infrastructure
+    - PostgreSQL
+    - Role-Based Access Control
+    - CI/CD
+    - Government Services
+    - Digital Services
+  "Software Engineer":
+    - Python
+    - AWS
+    - Azure
+    - React
+    - REST
+    - Node.js
+    - PostgreSQL
+    - Government Services
+
+highlights:
+  "Senior Software Engineer":
+    - Led architecture and delivery of the Safety Hub — a company-wide safety reporting and data management platform — from requirements gathering with non-technical stakeholders through implementation, deployment and ongoing maintenance
+    - Designed and led implementation of an internal generative AI assistant on Azure AI Foundry, integrating CosmosDB safety report data with PII protections and role-based access controls to enforce appropriate data boundaries
+    - Architected and delivered multiple business-critical applications including a subcontractor management system and a front desk kiosk check-in system — leading requirements definition, technical design, and stakeholder collaboration at each stage
+    - Built geospatial data collection pipelines for field staff on environmental projects contracted with state, federal, and tribal government clients, including FERC dam safety compliance workflows, EPA Superfund site data management, and wetland delineation tools
+    - Implemented security best practices across application stacks, contributing toward CMMC Level 2 certification — including IAM restructuring, secrets management migration, and CI/CD pipeline controls
+    - Mentored university student teams through full application lifecycles, coaching on architecture decisions, implementation tradeoffs, and professional engineering practices
+  "Software Engineer":
+    - Built and managed cloud environments on AWS and Azure, including secure networking resources and CI/CD pipelines
+    - Implemented event-driven microservice architecture using AWS Lambda on several projects, bringing down overall compute costs and increasing flexibility 
+    - Developed geospatial field data collection tools used by scientists and engineers on government-contracted projects
+    - Contributed to numerous web application development projects, including both front-end development, backend REST APIs and database design

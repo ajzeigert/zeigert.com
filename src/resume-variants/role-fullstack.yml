@@ -1,0 +1,65 @@
+title: Résumé — Full-Stack Developer
+slug: role-fullstack
+
+summary: >-
+  Senior Software Engineer with 10+ years of experience building full-stack web applications from requirements through production, for engineering, environmental, and government clients. Deep experience across React frontends, Node.js and Python backends, PostgreSQL databases, and cloud-hosted deployments on AWS and Azure. Spent a decade at a civil engineering firm owning the full lifecycle of internal and client-facing tools — from stakeholder interviews through design, implementation, and ongoing maintenance. Background in UX and data journalism means I care about what the application actually communicates, not just whether it runs.
+
+hide:
+  - "Project Facilitator"
+  - "Page Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - React
+    - React Native
+    - Node.js
+    - Python
+    - PostgreSQL
+    - PostGIS
+    - REST APIs
+    - TypeScript
+    - Full-Stack Web Development
+    - AWS
+    - Azure
+    - CI/CD
+    - Authentication
+    - Role-Based Access Control
+    - Generative AI
+    - Large Language Models
+    - iOS
+    - Android
+  "UX/UI Designer":
+    - React
+    - User Research
+    - Interaction Design
+    - User Testing
+    - Environmental Data Systems
+  "Graphics Reporter":
+    - JavaScript
+    - Data Visualization
+    - Interactive Web Applications
+
+highlights:
+  "Senior Software Engineer":
+    - Promoted to Senior Software Engineer after three years, reflecting expanded ownership of cloud infrastructure, deployment systems, and team mentorship
+    - Led architecture and delivery of the Safety Hub — a company-wide safety reporting and data management platform — from requirements gathering with non-technical stakeholders through implementation, deployment, and ongoing maintenance
+    - Designed and led implementation of an internal generative AI assistant on Azure AI Foundry, integrating structured CosmosDB data with PII protections and role-based access controls to enforce appropriate data boundaries
+    - Architected and delivered multiple business-critical applications including a subcontractor management system and a front desk kiosk check-in system — leading requirements definition, technical design, and stakeholder collaboration at each stage
+    - Co-led development of a company-wide inventory tracking system that replaced fragmented spreadsheet and email processes, growing to thousands of cataloged entries adopted across the organization; led a three-student university team from concept through production deployment
+    - Built geospatial data collection and processing pipelines for field staff on projects contracted with state, federal, and tribal government clients, including FERC dam safety compliance, EPA Superfund site data management, and wetland delineation tools
+    - Led full-stack architecture decisions across React frontends, REST API backends, and PostgreSQL/PostGIS databases for multiple concurrent products
+    - Implemented security best practices including IAM restructuring, secrets management migration, enterprise SSO patterns, and CI/CD pipeline controls — contributing toward CMMC Level 2 certification
+    - Designed a React/Node/PostgreSQL application template with CLI-driven Elastic Beanstalk deployment and Azure AD SSO built in, reducing new project setup from weeks to hours; five production applications currently run on it
+    - Built and shipped web applications used by scientists, engineers, and field specialists, improving data collection and project management workflows across multiple environmental programs
+    - Developed and shipped GeoGrab, a React Native geospatial field data collection application, through the full mobile distribution pipeline to iOS and Android app stores
+    - Managed production environments on AWS and Azure for multiple Node.js applications, maintaining uptime and smooth deployments across Elastic Beanstalk, ECS, and RDS
+    - Implemented event-driven microservice architecture using AWS Lambda on multiple projects, bringing down compute costs and increasing architectural flexibility
+    - Hosted stakeholder brown bag sessions during development cycles, embedding user feedback into application design before features shipped
+    - Mentored four university partnership teams — approximately twelve students total — through full application lifecycles, delivering production software including a company-wide inventory system
+  "UX/UI Designer":
+    - Designed intuitive interfaces for environmental data management applications, enabling clients to efficiently manage sensor, laboratory, and incident data
+    - Collaborated directly with stakeholders to translate complex scientific and engineering requirements into clear, usable software interfaces
+    - Implemented user testing frameworks that improved product quality and client satisfaction across a broad portfolio of applications
+  "Graphics Reporter":
+    - Built interactive web infographics and data-driven applications that expanded the newspaper's digital storytelling capabilities
+    - Produced maps and data visualizations for print and web, making complex stories accessible to a general audience

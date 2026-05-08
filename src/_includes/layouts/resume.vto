@@ -58,6 +58,10 @@ bodyClass: body-tag
   color: gray;
 }
 
+@page {
+  margin: 0.75in;
+}
+
 @media print {
   /* Hide site chrome */
   nav.navbar,
@@ -181,9 +185,9 @@ bodyClass: body-tag
     margin: 0.1rem 0;
   }
 
-  /* Avoid breaking positions across pages */
-  .resume .resume-position {
-    break-inside: avoid;
+  /* Keep position header with its first bullet, but allow long lists to break */
+  .resume .resume-position-header {
+    break-after: avoid;
   }
 
   .resume .resume-education {
@@ -207,7 +211,11 @@ bodyClass: body-tag
     {{ if it.resume.summary }}
     <section class="resume-section resume-summary">
       <h2>Summary</h2>
-      <p>{{ it.resume.summary }}</p>
+      {{ if Array.isArray(it.resume.summary) }}
+        {{ for para of it.resume.summary }}<p>{{ para }}</p>{{ /for }}
+      {{ else }}
+        <p>{{ it.resume.summary }}</p>
+      {{ /if }}
     </section>
     {{ /if }}
 

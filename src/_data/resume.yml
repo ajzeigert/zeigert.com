@@ -1,6 +1,6 @@
 basics:
   name: Andy Zeigert
-  label: Senior Software Engineer, Geospatial Engineer, UI/UX, Cloud Infrastructure Engineer, Project Management
+  label: Senior Software Engineer, Geospatial Engineer, Cloud Infrastructure Engineer, UI/UX, Project Management
   email: andy@zeigert.com
   phone: "541-788-0452"
   url: https://zeigert.com
@@ -22,7 +22,7 @@ basics:
       print: true
 
 summary: >-
-  Versatile Senior Software Engineer with 10+ years of experience building full-stack web applications and geospatial tools for environmental and engineering clients. Passionate about user satisfaction, clean code, elegent CI/CD pipelines, right-sized & secure cloud infrastructure, testing and documentation. If there's a geospatial component, even better.
+  Versatile Senior Software Engineer with 10+ years of experience building geospatial tools and web applications for environmental and engineering clients. Passionate about user satisfaction, clean code, elegent CI/CD pipelines, right-sized & secure cloud infrastructure, testing and documentation. Technically skilled, strong communicator, always learning.
 
 work:
   - company: Freelance / Independent
@@ -31,7 +31,7 @@ work:
       - title: Software Engineer, Developer
         startDate: 2026-03
         highlights:
-          - Contract web dev, UI/UX design, and geospatial dev
+          - Helping clients with geospatial web apps, data pipelines and overall systems improvement
         skills:
           - Geospatial Web Development
           - UI/UX
@@ -43,23 +43,14 @@ work:
     location: Tacoma, Washington (remote)
     positions:
       - title: Senior Software Engineer
-        startDate: 2021-03
+        startDate: 2018-01
         endDate: 2026-03
         highlights:
+          - Promoted to Senior Software Engineer after three years, reflecting expanded ownership of cloud infrastructure, deployment systems, and team mentorship
           - Built automated build/deploy pipelines and improved testing infrastructure, accelerating release cycles and reducing deployment errors
           - Implemented security best practices across application stacks, contributed toward company goal of CMMC Level 2 certification
           - Mentored university students through a partnership with Western Washington University
           - Established application templates and best practices, reducing code review turnaround and improving consistency across environments
-        skills:
-          - Cloud Application Infrastructure
-          - Full-Stack Web Development
-          - Project Management
-          - Authentication and Security
-          - CI/CD Pipelines
-      - title: Software Engineer
-        startDate: 2018-01
-        endDate: 2021-03
-        highlights:
           - Built and shipped web applications used by scientists, engineers and other specialists, improving data collection and project management workflows
           - Managed development and production environments for multiple Node.js applications on AWS and Azure, ensuring reliable uptime and smooth deployments
           - Developed and managed iOS applications and distribution
@@ -69,6 +60,9 @@ work:
           - Geographic Information Systems (GIS)
           - Cloud Application Infrastructure
           - Full-Stack Web Development
+          - Project Management
+          - Authentication and Security
+          - CI/CD Pipelines
       - title: UX/UI Designer
         startDate: 2015-07
         endDate: 2018-01

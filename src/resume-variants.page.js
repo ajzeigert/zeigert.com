@@ -1,6 +1,9 @@
 import { parse } from "https://deno.land/std@0.224.0/yaml/mod.ts";
 
+const isServing = Deno.args.includes("-s") || Deno.args.includes("--serve");
+
 export default function* ({ resume }) {
+  if (!isServing) return;
   // Read all variant files from resume-variants/
   let entries;
   try {

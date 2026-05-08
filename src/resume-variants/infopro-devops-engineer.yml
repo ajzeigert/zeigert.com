@@ -1,0 +1,56 @@
+title: Résumé — DevOps Engineer, Eucon Americas
+slug: infopro-devops-engineer
+jobUrl: 'https://smartapply.indeed.com/beta/indeedapply/form/resume-selection-module/resume-selection'
+
+application:
+  place: Indeed
+  dateApplied: 2026-05-06
+
+summary: >-
+  Senior Software Engineer with 10+ years of experience operating and improving cloud infrastructure for production applications, with a strong focus on Azure, CI/CD automation, containerization, and security hardening. At GeoEngineers, served as a primary DevOps engineer across a portfolio of cloud-hosted applications — building pipelines, managing environments, tightening access controls, and driving the organization toward CMMC Level 2 certification. Comfortable owning infrastructure end-to-end, debugging production incidents, and collaborating across Product, Development, and IT Operations teams. Thrive in agile, international, fast-moving environments.
+
+hide:
+  - "Graphics Reporter"
+  - "Project Facilitator"
+  - "Page Designer"
+  - "UX/UI Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - Azure DevOps
+    - Azure App Service
+    - Azure Functions
+    - Docker
+    - Elastic Container Service (ECS)
+    - GitHub Actions
+    - Terraform
+    - AWS CloudFormation
+    - Infrastructure as Code
+    - CMMC
+    - Secrets Management
+    - IAM
+    - Incident Response
+  "Software Engineer":
+    - Azure
+    - AWS
+    - Docker
+    - ECS
+    - CI/CD
+    - Cloud Cost Optimization
+    - Node.js
+
+highlights:
+  "Senior Software Engineer":
+    - Implemented GitHub Actions CI/CD pipelines for five production Elastic Beanstalk applications and AWS CodeBuild pipelines for ECS container workloads, automating deployments and enforcing PR-based release discipline
+    - Continuously improved Azure cloud architecture for hosted applications, including Azure Functions-based event-driven services and Azure AI Foundry deployments with secure data access patterns
+    - Built infrastructure-as-code provisioning workflows using AWS CloudFormation and CLI tooling, covering VPC, RDS, and application environment configuration — reducing manual provisioning errors and enabling reproducible environments
+    - Restructured AWS environment into a managed Organization with individual IAM users, MFA enforcement, and role-based cross-account access, eliminating shared master credentials; migrated four applications to AWS Secrets Manager
+    - Implemented security best practices across the application portfolio, contributing directly toward company goal of CMMC Level 2 certification
+    - Analyzed and resolved production incidents across multiple cloud-hosted Node.js applications, coordinating root cause investigation and remediation with application and infrastructure stakeholders
+    - Established application environment templates and deployment standards, reducing configuration drift and improving consistency across development, staging, and production
+    - Mentored university student teams on cloud architecture and DevOps practices through a partnership with Western Washington University
+  "Software Engineer":
+    - Managed production AWS and Azure environments for multiple Node.js applications across Elastic Beanstalk, ECS, and RDS, maintaining uptime and smooth deployments
+    - Audited cloud accounts and right-sized oversized compute instances, reducing monthly cloud spend by approximately 20% through instance optimization and savings plan adoption
+    - Improved security posture across cloud accounts, including access control reviews and elimination of over-permissioned roles
+    - Built and managed containerized application workloads on ECS, gaining hands-on experience with Docker-based deployment patterns in production environments

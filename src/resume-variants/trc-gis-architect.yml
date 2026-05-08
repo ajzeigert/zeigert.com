@@ -1,0 +1,51 @@
+title: Résumé — Lead GIS Architect
+slug: trc-gis-architect
+jobUrl: 'https://careers-trccompanies.icims.com/jobs/25648/lead-gis-architect/candidate?from=login&eem=WemXnt_4hsdQuhuhq2YE5BA6jd_6MP8YDLSSniZpbiIGlPTvUCLvKmyzfyqcBAAd&code=21982159e8e559648bc4acad7ce3d3a8674f4db304e34b123f71ff450f5e17d0&ga=ee3a8c796497ddee71d90dfa6cd3ad031dfaccdd404e4dee59f17b8691f471ff&accept_gdpr=1'
+
+application:
+  place: Company site
+  dateApplied: 2026-04-24
+  response: Call from recruiter
+  dateResponded: 2026-04-25
+
+summary: >-
+  Senior Software Engineer and GIS architect with 10+ years of experience designing and deploying enterprise geospatial solutions for environmental and engineering clients, utilizing both modern Esri server tools and open-source alternatives. Deep experience integrating ArcGIS Enterprise into cloud-hosted application stacks on AWS and Azure. Brings a UX and client-engagement background that bridges the gap between technical architecture and what stakeholders actually need.
+
+hide:
+  - "Graphics Reporter"
+  - "Project Facilitator"
+  - "Page Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - ArcGIS Enterprise
+    - ArcGIS Server
+    - ArcGIS Portal
+    - ArcGIS Pro
+    - Enterprise GIS Architecture
+    - Cloud-Native GIS
+  "Software Engineer":
+    - ArcGIS Server
+    - ArcGIS Portal
+    - PostGIS
+
+highlights:
+  "Senior Software Engineer":
+    - Designed and deployed geospatial applications on ArcGIS Server and Portal, including map service publishing, spatial analysis tools, and integration
+      with enterprise data workflows on AWS and Azure
+    - Collaborated with cross-functional teams to integrate GIS services into broader cloud-hosted application stacks, bridging geospatial and enterprise
+      system boundaries
+    - Implemented security best practices across application stacks, contributing toward company goal of CMMC Level 2 certification
+    - Built infrastructure-as-code-style provisioning workflows for cloud environments supporting geospatial application deployments
+    - Mentored university student teams through full application lifecycle, including production deployment; led four sessions producing working software
+      adopted internally
+    - Established application templates and best practices, reducing onboarding friction and improving consistency across GIS and web application teams
+  "Software Engineer":
+    - Managed production GIS and web application environments on AWS and Azure, maintaining uptime and deployment reliability for engineering workloads
+    - Developed and shipped GeoGrab, a React Native geospatial data collection application, through the full mobile distribution pipeline to iOS and
+      Android app stores for field staff use
+    - Integrated geospatial services with backend feature services and relational databases including PostgreSQL/PostGIS
+  "UX/UI Designer":
+    - Designed interfaces for environmental data management applications, translating complex domain requirements into usable tools for scientists,
+      engineers, and field specialists
+    - Established user testing frameworks and stakeholder feedback processes, embedding user research directly into the development workflow

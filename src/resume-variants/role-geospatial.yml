@@ -1,0 +1,64 @@
+title: Résumé — Geospatial Developer
+slug: role-geospatial
+
+summary: >-
+  Senior Software Engineer and geospatial specialist with 10+ years of experience building spatial data systems, GIS-integrated applications, and field data collection tools for environmental and engineering clients. Deep experience across the full geospatial stack — PostGIS, ArcGIS Enterprise, cloud-native GIS workflows, and geospatial ETL pipelines — developed working with scientists, engineers, and field staff on projects spanning FERC dam safety compliance, EPA Superfund sites, and wetland delineation. Equally comfortable at the database, the API layer, and the map interface. Background in data journalism adds an unusual lens: geospatial data is only useful if it communicates clearly.
+
+hide:
+  - "Project Facilitator"
+  - "Page Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - Geographic Information Systems (GIS)
+    - PostGIS
+    - ArcGIS Enterprise
+    - ArcGIS Server
+    - ArcGIS Portal
+    - ArcGIS Pro
+    - Enterprise GIS Architecture
+    - Cloud-Native GIS
+    - Geospatial Data Pipelines
+    - Geospatial Web Applications
+    - ETL
+    - Spatial Analysis
+    - React
+    - React Native
+    - PostgreSQL
+    - AWS
+    - Azure
+    - Node.js
+    - CI/CD
+  "UX/UI Designer":
+    - Geographic Information Systems (GIS)
+    - Environmental Data Systems
+    - User Research
+  "Graphics Reporter":
+    - Geographic Information Systems (GIS)
+    - Data Visualization
+    - Geospatial Analysis
+    - Interactive Maps
+
+highlights:
+  "Senior Software Engineer":
+    - Promoted to Senior Software Engineer after three years, reflecting expanded ownership of cloud infrastructure, deployment systems, and team mentorship
+    - Built geospatial data collection and processing pipelines for field staff on environmental projects contracted with state, federal, and tribal government clients, including FERC dam safety compliance workflows, EPA Superfund site data management, and wetland delineation tools
+    - Designed and deployed geospatial applications on ArcGIS Server and Portal, including map service publishing, spatial analysis tools, and integration with enterprise data workflows on AWS and Azure
+    - Collaborated with cross-functional teams to integrate GIS services into broader cloud-hosted application stacks, bridging geospatial and enterprise system boundaries
+    - Led architecture and delivery of multiple business-critical full-stack applications, coordinating spatial data access, REST API design, and React frontend development across the full stack
+    - Developed and shipped GeoGrab, a React Native geospatial field data collection application, through the full mobile distribution pipeline to iOS and Android app stores for field staff use on environmental project sites
+    - Managed production GIS and web application environments on AWS and Azure, maintaining uptime and deployment reliability for geospatial engineering workloads
+    - Integrated geospatial feature services with REST APIs and relational databases including PostgreSQL/PostGIS
+    - Implemented event-driven microservice architecture using AWS Lambda to process and route geospatial data events, reducing compute costs and improving scalability
+    - Built infrastructure-as-code provisioning workflows for cloud environments supporting geospatial application deployments
+    - Implemented security best practices across application stacks, contributing toward CMMC Level 2 certification — including IAM restructuring, secrets management migration, and CI/CD pipeline controls
+    - Mentored four university partnership teams — approximately twelve students total — through full application lifecycles on projects requiring spatial data architecture and secure backend design, delivering production software including a company-wide inventory system
+    - Hosted stakeholder brown bag sessions during development cycles to gather feedback from scientists and engineers before features shipped, improving adoption across domain-specialist user bases
+    - Established application templates and best practices across GIS and web application teams, reducing onboarding friction and improving delivery consistency
+  "UX/UI Designer":
+    - Designed interfaces for environmental data management applications handling sensor data, lab results, and incident records — translating complex domain workflows into clear, task-oriented tools used by scientists, engineers, and field specialists
+    - Established user testing frameworks and stakeholder feedback processes, embedding user research into the development workflow
+    - Collaborated directly with domain experts to surface the right data at the right point in field and office workflows
+  "Graphics Reporter":
+    - Produced maps, data visualizations, and interactive geospatial tools for a regional newspaper, making complex environmental and land-use stories accessible to a broad audience
+    - Built interactive web infographics that brought geospatial data to readers unfamiliar with GIS, expanding the newspaper's digital storytelling capabilities
