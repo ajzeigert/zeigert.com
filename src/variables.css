@@ -82,6 +82,18 @@ a[href]:not(:where(
   content: " ↗";
 }
 
+.map-container a[href]::after {
+  content: none;
+}
+
+.map-container a {
+  text-decoration: none;
+}
+
+.map-container select {
+  font-family: var(--font-family-ui);
+}
+
 nav.navbar {
   /* padding: 1vh 0 1vh 0 !important; */
   /* padding: 1vh max(100% -15vw, 1.3rem) 1vh max(100% -15vw, 1.3rem) !important; */

@@ -1,0 +1,74 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "Andy Zeigert" [ref=e3] [cursor=pointer]:
+      - /url: /
+      - strong [ref=e4]: Andy Zeigert
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Archive" [ref=e7] [cursor=pointer]:
+          - /url: /archive/
+      - listitem [ref=e8]:
+        - link "About" [ref=e9] [cursor=pointer]:
+          - /url: /about/
+      - listitem [ref=e10]:
+        - link "@mastodon ↗" [ref=e11] [cursor=pointer]:
+          - /url: https://mastodon.social/@zeigert
+      - listitem [ref=e12]:
+        - button "◐" [ref=e13] [cursor=pointer]:
+          - generic [ref=e14]: ◐
+  - main [ref=e15]:
+    - article [ref=e16]:
+      - generic [ref=e17]:
+        - heading "Mokst Butte" [level=1] [ref=e18]
+        - generic [ref=e19]:
+          - paragraph [ref=e20]: by Andy Zeigert•
+          - paragraph [ref=e21]:
+            - time [ref=e22]: May 10th, 2026
+            - text: •
+          - paragraph [ref=e23]: 2 min read
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - region "Map" [ref=e26]
+          - generic:
+            - combobox [ref=e28] [cursor=pointer]:
+              - option "positron" [selected]
+              - option "satellite"
+            - group [ref=e29]:
+              - generic "Toggle attribution" [ref=e30] [cursor=pointer]
+              - generic [ref=e31]:
+                - link "MapLibre" [ref=e32] [cursor=pointer]:
+                  - /url: https://maplibre.org/
+                - text: "| ©"
+                - link "CARTO" [ref=e33] [cursor=pointer]:
+                  - /url: https://carto.com/about-carto/
+                - text: ", ©"
+                - link "OpenStreetMap" [ref=e34] [cursor=pointer]:
+                  - /url: http://www.openstreetmap.org/about/
+                - text: contributors
+        - paragraph [ref=e35]: It felt like time to do some old-fashioned geoblogging.
+        - paragraph [ref=e36]: I recently went for a hike at Mokst Butte near Newberry Volcano to gather some info for a mapping project I'm working on.
+        - paragraph [ref=e37]: Mokst Butte is a cinder cone in the field north of Newberry, with an elevation of 1,880 meters (6,168 ft) and a relief (height above the surrounding area) of about 176 meters (577 ft).
+        - paragraph [ref=e38]: "There is a large staging area to the east of the butte that can be accessed from Forest Road 9710, which follows the northern edge of the official volcanic monument boundary. The staging area is red cinder and largely free of trees. It appears to be used for some bonfires, but there are also a number of interesting petroforms: at least two medicine wheels and one labyrinth."
+        - paragraph [ref=e39]:
+          - text: There appears to be no established trail ascending the butte itself. It's either a scramble up razor-sharp boulders and scree on the south and west flanks or ankle-deep duff and dead fall on the east and north. Either way, straight up seems to be the best way. No signage in staging area to aid, no published trail map that the author could find. There is a Forest Service survey marker at the summit. Mokst Butte is a
+          - link "designated Research Natural Area ↗" [ref=e40] [cursor=pointer]:
+            - /url: https://research.fs.usda.gov/pnw/rnas/locations/mokst-butte
+          - text: ", so human activity is discouraged. (Sorry.)"
+        - paragraph [ref=e41]: The summit itself offers excellent views in almost every direction, from the Cascades to the east and a fine view of Newberry Crater to the south. The geology is mostly basaltic andesite with some vent and pyroclastic rocks as well.
+        - paragraph [ref=e42]: If you want to bring a dog, I'd recommend booties. There's a lot of sharp rock scrambling.
+        - paragraph [ref=e43]:
+          - strong [ref=e44]: "Travel time from Bend:"
+          - text: 40 minutes
+        - paragraph [ref=e45]:
+          - strong [ref=e46]: "Difficulty:"
+          - text: 4/5
+        - paragraph [ref=e47]:
+          - strong [ref=e48]: "Best dates:"
+          - text: Late April to early May, after the snow is gone but before it gets too hot
+    - navigation [ref=e49]:
+      - list [ref=e50]:
+        - listitem [ref=e51]:
+          - link "← Older post These Days" [ref=e52] [cursor=pointer]:
+            - /url: /posts/2026-04-18-these-days/
+            - text: ← Older post
+            - strong [ref=e53]: These Days

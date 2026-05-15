@@ -1,0 +1,67 @@
+title: Résumé — Sr. Software Engineer, BNSF
+slug: bnsf-frontend-engineer
+jobUrl: 'https://careers.bnsf.com/'
+
+summary: >-
+  Senior Software Engineer with 10+ years of experience building production-quality frontend and full-stack web applications — from stakeholder requirements through design, implementation, and deployment. Deep React and React Native experience including a shipped cross-platform field data collection app distributed to iOS and Android. Strong TypeScript foundation, UX design background, and a track record of enabling teams with limited UI experience to deliver polished, user-centered workflows. Built an internal generative AI assistant on Azure and actively integrate AI tooling into daily development. Comfortable owning technical design decisions that directly shape user outcomes.
+
+hide:
+  - "Project Facilitator"
+  - "Page Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - React
+    - React Native
+    - TypeScript
+    - JavaScript
+    - Node.js
+    - GraphQL
+    - REST APIs
+    - Mobile Development
+    - iOS
+    - Android
+    - CSS
+    - Generative AI
+    - Large Language Models
+    - Azure
+    - AWS
+    - CI/CD
+    - PostgreSQL
+    - Full-Stack Web Development
+    - UX Design Systems
+    - Cross-Platform Development
+  "UX/UI Designer":
+    - React
+    - User Research
+    - Interaction Design
+    - User Testing
+    - UX Design Systems
+  "Graphics Reporter":
+    - JavaScript
+    - Data Visualization
+    - Interactive Web Applications
+
+highlights:
+  "Software Engineer, Developer":
+    - Helping clients with geospatial web apps, data pipelines, and overall systems improvement
+
+  "Senior Software Engineer":
+    - Promoted to Senior Software Engineer after three years, reflecting expanded ownership of cloud infrastructure, deployment systems, and team mentorship
+    - Built and shipped GeoGrab, a React Native geospatial field data collection app, through the full mobile distribution pipeline to iOS and Android app stores — including offline support, GPS integration, and cross-platform parity across devices and browsers
+    - Designed a React/Node/PostgreSQL application template with CLI-driven Elastic Beanstalk deployment and Azure AD SSO built in, reducing new project setup from weeks to hours; five production applications currently run on it — a direct example of framework development enabling other engineers to ship faster
+    - Led architecture and delivery of the Safety Hub — a company-wide safety reporting and data management platform — from requirements gathering with non-technical stakeholders through implementation, deployment, and ongoing maintenance
+    - Designed and led implementation of an internal generative AI assistant on Azure AI Foundry, integrating structured CosmosDB data with PII protections and role-based access controls — an early example of AI-infused tooling delivered into a real operational workflow
+    - Mentored four university partnership teams — approximately twelve students total — through full application lifecycles, delivering production software; frequently coached engineers with limited frontend experience on React patterns, accessibility, and UX design system usage
+    - Hosted stakeholder brown bag sessions during development cycles, embedding domain expert feedback into application design before features shipped — partnering closely with non-technical users to ensure UI choices matched real workflows
+    - Led full-stack architecture decisions across React frontends, REST API backends, and PostgreSQL databases for multiple concurrent products
+    - Implemented security best practices including IAM restructuring, secrets management migration, enterprise SSO patterns, and CI/CD pipeline controls — contributing toward CMMC Level 2 certification
+    - Built and maintained the Spills App, a web dashboard used to coordinate transformer spill response and cleanup tracking for Puget Sound Energy, managing thousands of operational incidents across storm events and day-to-day operations
+    - Built geospatial data collection and processing pipelines for field staff working on state, federal, and tribal government contracts, including FERC dam safety compliance, EPA Superfund data management, and wetland delineation tools
+    - Managed production environments on AWS and Azure for multiple Node.js applications, maintaining uptime and smooth deployments across Elastic Beanstalk, ECS, and RDS
+  "UX/UI Designer":
+    - Designed intuitive interfaces for environmental data management applications, enabling scientists and engineers to efficiently manage sensor, laboratory, and incident data — translating complex domain workflows into clear, task-oriented UIs
+    - Collaborated directly with stakeholders to translate complex scientific and engineering requirements into usable software interfaces, establishing user testing frameworks that improved quality across a broad application portfolio
+  "Graphics Reporter":
+    - Built interactive web applications and data visualizations that expanded the newspaper's digital storytelling capabilities
+    - Produced maps and data-driven graphics for print and web, making complex stories accessible to a general audience

@@ -4,3 +4,4 @@ _cache
 .env
 .claude
 docs
+.worktrees

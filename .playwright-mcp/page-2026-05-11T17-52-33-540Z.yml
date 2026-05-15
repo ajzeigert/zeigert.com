@@ -1,0 +1,35 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "Andy Zeigert" [ref=e3] [cursor=pointer]:
+      - /url: /
+      - strong [ref=e4]: Andy Zeigert
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Archive" [ref=e7] [cursor=pointer]:
+          - /url: /archive/
+      - listitem [ref=e8]:
+        - link "About" [ref=e9] [cursor=pointer]:
+          - /url: /about/
+      - listitem [ref=e10]:
+        - link "@mastodon ↗" [ref=e11] [cursor=pointer]:
+          - /url: https://mastodon.social/@zeigert
+      - listitem [ref=e12]:
+        - button "◐" [ref=e13] [cursor=pointer]:
+          - generic [ref=e14]: ◐
+  - main [ref=e15]:
+    - article [ref=e16]:
+      - heading "404 - Page not found" [level=1] [ref=e18]
+      - generic [ref=e19]:
+        - heading "Content not found" [level=1] [ref=e20]
+        - heading "\"I think I might have a search bar in the back\"" [level=2] [ref=e21]:
+          - link "\"I think I might have a search bar in the back\"" [ref=e22] [cursor=pointer]:
+            - /url: "#%22i-think-i-might-have-a-search-bar-in-the-back%22"
+        - paragraph [ref=e23]:
+          - img "'Buffalo Bill answers the door'" [ref=e24]
+        - paragraph [ref=e25]:
+          - text: Go
+          - link "home" [ref=e26] [cursor=pointer]:
+            - /url: /
+          - text: .
+  - button "Toggle the Lume bar" [ref=e30] [cursor=pointer]:
+    - img [ref=e32]

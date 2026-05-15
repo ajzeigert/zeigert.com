@@ -1,0 +1,43 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "Andy Zeigert" [ref=e3] [cursor=pointer]:
+      - /url: /
+      - strong [ref=e4]: Andy Zeigert
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Archive" [ref=e7] [cursor=pointer]:
+          - /url: /archive/
+      - listitem [ref=e8]:
+        - link "About" [ref=e9] [cursor=pointer]:
+          - /url: /about/
+      - listitem [ref=e10]:
+        - link "@mastodon ↗" [ref=e11] [cursor=pointer]:
+          - /url: https://mastodon.social/@zeigert
+      - listitem [ref=e12]:
+        - button "◐" [ref=e13] [cursor=pointer]:
+          - generic [ref=e14]: ◐
+  - main [ref=e15]:
+    - article [ref=e16]:
+      - generic [ref=e17]:
+        - heading "Map plugin test" [level=1] [ref=e18]
+        - generic [ref=e19]:
+          - paragraph [ref=e20]: by Andy Zeigert•
+          - paragraph [ref=e21]:
+            - time [ref=e22]: December 31st, 2025
+            - text: •
+          - paragraph [ref=e23]: 1 min read
+      - paragraph [ref=e26]: Testing the map plugin with a GeoJSON file.
+    - navigation [ref=e27]:
+      - list [ref=e28]:
+        - listitem [ref=e29]:
+          - link "← Older post Review of Between Two Fires by Christopher Beuhler" [ref=e30] [cursor=pointer]:
+            - /url: /posts/2025-12-08-between-two-fires/
+            - text: ← Older post
+            - strong [ref=e31]: Review of Between Two Fires by Christopher Beuhler
+        - listitem [ref=e32]:
+          - link "Newer post → Links for January 2026" [ref=e33] [cursor=pointer]:
+            - /url: /posts/2026-01-16-january-links/
+            - text: Newer post →
+            - strong [ref=e34]: Links for January 2026
+  - button "Toggle the Lume bar" [ref=e38] [cursor=pointer]:
+    - img [ref=e40]

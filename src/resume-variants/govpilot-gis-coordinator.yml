@@ -1,0 +1,57 @@
+title: Résumé — GIS Coordinator
+slug: govpilot-gis-coordinator
+jobUrl: ''
+
+summary: >-
+  Senior Software Engineer and GIS specialist with 10+ years of experience building spatial data systems, geoprocessing pipelines, and field data collection tools for environmental and engineering clients working under regulatory frameworks. Deep hands-on experience across ArcGIS Pro and Enterprise, PostGIS, Python and SQL automation, and mobile GIS — developed on projects spanning FERC dam safety compliance, EPA Superfund sites, wetland delineation, and tribal government data workflows. These are structurally the same problems municipal GIS faces: regulated spatial datasets, permit and inspection records, field collection requirements, and non-technical end users who need tools that actually work. UX background means the spatial tools I build get adopted, not just deployed.
+
+hide:
+  - "Project Facilitator"
+  - "Page Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - ArcGIS Pro
+    - ArcGIS Enterprise
+    - ArcGIS Server
+    - ArcGIS Portal
+    - ArcGIS Online
+    - PostGIS
+    - QGIS
+    - Geodatabase Design
+    - Spatial Data Quality
+    - Coordinate Systems
+    - Geoprocessing
+    - Spatial Analysis
+    - Field Data Collection
+    - Mobile GIS
+    - ETL
+    - Geospatial Data Pipelines
+    - Python
+    - SQL
+    - PostgreSQL
+  "UX/UI Designer":
+    - Geographic Information Systems (GIS)
+    - Environmental Data Systems
+    - User Research
+  "Graphics Reporter":
+    - Geographic Information Systems (GIS)
+    - Geospatial Analysis
+    - Data Visualization
+
+highlights:
+  "Senior Software Engineer":
+    - Built geospatial data pipelines for FERC dam safety compliance, EPA Superfund, and tribal government clients — regulated permit, inspection, and site assessment data workflows that parallel municipal permitting, infrastructure records, and code enforcement data management
+    - Developed and shipped GeoGrab, a React Native mobile GIS field data collection application deployed to iOS and Android app stores, enabling field staff to capture, validate, and submit geospatial observations from environmental project sites
+    - Designed and deployed geospatial applications on ArcGIS Server and Portal, including map service publishing, spatial analysis tools, and integration with enterprise data workflows on AWS and Azure
+    - Built geoprocessing routines and spatial data pipelines to ingest, clean, validate, and transform datasets from field collection and third-party sources into structured geodatabases with consistent schemas and coordinate systems
+    - Integrated geospatial feature services with enterprise backends including PostgreSQL/PostGIS and REST APIs, maintaining spatial data schema integrity and coordinate system consistency across environments
+    - Hosted stakeholder brown bag sessions during development cycles to translate domain requirements from scientists and engineers into spatial tools before features shipped, improving adoption across non-technical user bases
+    - Promoted to Senior Software Engineer after three years, reflecting expanded ownership of cloud infrastructure, data architecture, deployment systems, and team mentorship
+    - Mentored four university partnership teams (approximately twelve students total) through full application lifecycles on projects requiring spatial data architecture and secure backend design, delivering production software including a company-wide inventory system
+  "UX/UI Designer":
+    - Designed interfaces for environmental data management applications handling sensor data, lab results, field observations, and incident records — translating complex domain workflows into clear, task-oriented tools used by scientists, engineers, and field specialists
+    - Established user testing frameworks and stakeholder feedback processes, embedding user research into the development workflow and ensuring tools matched how domain specialists actually worked
+  "Graphics Reporter":
+    - Produced maps and geospatial data visualizations for a regional newspaper, making complex land-use and environmental stories accessible to a broad audience unfamiliar with GIS
+    - Built interactive web infographics that expanded the newspaper's geospatial storytelling capabilities, demonstrating that spatial data communication is as important as spatial data accuracy

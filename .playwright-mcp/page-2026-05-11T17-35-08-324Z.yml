@@ -1,0 +1,62 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "Andy Zeigert" [ref=e3] [cursor=pointer]:
+      - /url: /
+      - strong [ref=e4]: Andy Zeigert
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Archive" [ref=e7] [cursor=pointer]:
+          - /url: /archive/
+      - listitem [ref=e8]:
+        - link "About" [ref=e9] [cursor=pointer]:
+          - /url: /about/
+      - listitem [ref=e10]:
+        - link "@mastodon ↗" [ref=e11] [cursor=pointer]:
+          - /url: https://mastodon.social/@zeigert
+      - listitem [ref=e12]:
+        - button "◐" [ref=e13] [cursor=pointer]:
+          - generic [ref=e14]: ◐
+  - main [ref=e15]:
+    - article [ref=e16]:
+      - generic [ref=e17]:
+        - heading "A Huyck down memory lane" [level=1] [ref=e18]
+        - generic [ref=e19]:
+          - paragraph [ref=e20]: by Andy Zeigert•
+          - paragraph [ref=e21]:
+            - time [ref=e22]: June 23rd, 2025
+            - text: •
+          - paragraph [ref=e23]: 2 min read
+          - generic [ref=e24]:
+            - link "maps" [ref=e25] [cursor=pointer]:
+              - /url: /archive/maps/
+            - link "indiana" [ref=e26] [cursor=pointer]:
+              - /url: /archive/indiana/
+      - generic [ref=e27]:
+        - iframe [ref=e28]:
+          
+        - paragraph [ref=e29]: I have a memory from childhood of spending time at a lake house with my parents. We rented it, this was long before AirBnB. It was a cool A frame house with a staircase that went right down to a nice dock with a pontoon boat that we could use. I always remembered it as "Hike Lake" but I had no real memory of where exactly it was. I knew it was in southern Michigan somewhere, but that was about it. And it turns out searching the web for "hike lake michigan" or a million variations of that was extremely unhelpful.
+        - paragraph [ref=e30]: Anyway, after a fruitless search I finally suspected that it must have had some odd spelling variation, so I started searching for a bunch of different spellings and eventually found it.
+        - paragraph [ref=e31]: I've had this map open in a tab for a week and it felt like some important comment was on the tip of my tongue. Even with what feels like the entirety of human knowledge only a few clicks/taps away, there remain things that are hard to find. I couldn't remember the actual name, and the details I could remember made it difficult to search for.
+        - paragraph [ref=e32]: There are other things like this, things I remember but that I can't find any trace of on the internet because I don't remember the right search terms.
+        - paragraph [ref=e33]: I'm going to end this post before I end up down some rabbit hole about human knowledge and technology.
+      - complementary [ref=e34]:
+        - generic [ref=e35]:
+          - heading "Comments" [level=2] [ref=e36]
+          - paragraph [ref=e37]:
+            - text: You can leave a comment by replying to
+            - link "this Mastodon post ↗" [ref=e38] [cursor=pointer]:
+              - /url: https://mastodon.social/@zeigert/114733934123130721
+            - text: from your own account on Mastodon or any other ActivityPub-capable social network that can exchange replies with Mastodon.
+        - generic [ref=e39]: No comments yet
+    - navigation [ref=e40]:
+      - list [ref=e41]:
+        - listitem [ref=e42]:
+          - 'link "← Older post Book review: Long Live Evil" [ref=e43] [cursor=pointer]':
+            - /url: /posts/2025-06-23-long-live-evil-review/
+            - text: ← Older post
+            - strong [ref=e44]: "Book review: Long Live Evil"
+        - listitem [ref=e45]:
+          - link "Newer post → Review of Tongues Vol. 1 by Anders Nilsen" [ref=e46] [cursor=pointer]:
+            - /url: /posts/2025-07-04-tongues-review/
+            - text: Newer post →
+            - strong [ref=e47]: Review of Tongues Vol. 1 by Anders Nilsen
