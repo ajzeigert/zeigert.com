@@ -4,7 +4,7 @@ import favicon from "lume/plugins/favicon.ts";
 import picture from "lume/plugins/picture.ts";
 import transformImages from "lume/plugins/transform_images.ts";
 import robots from "lume/plugins/robots.ts";
-import maplibrePlugin from "https://cdn.jsdelivr.net/gh/ajzeigert/lume-plugin-maplibre@v0.1.1/mod.ts";
+import maplibre from "https://cdn.jsdelivr.net/gh/ajzeigert/lume-plugin-maplibre@v0.1.2/mod.ts";
 // import maplibrePlugin from "../lume-maplibre/mod.ts";
 
 import cleanFeed from "./src/utils/cleanfeed.js";
@@ -33,7 +33,7 @@ const site = lume({
 	)
 	.use(picture())
 	.use(
-		maplibrePlugin({
+		maplibre({
 			mapClass: "nofeed",
 			fallbackClass: "feedonly",
 			styles: {
