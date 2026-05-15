@@ -8,7 +8,7 @@ tags:
 metas:
   image: /img/newberry/mokst_butte/mokst_butte_03.jpeg
 comments:
-  src: 
+  src: https://mastodon.social/@zeigert/116580624079074042
 map:
   geojson: ../projects/newberry/mokst.geojson
   style: satellite2
@@ -21,7 +21,7 @@ I went for a hike at Mokst Butte near Newberry Volcano on May 8 to gather some i
 
 Mokst Butte is a cinder cone on the north flank of Newberry, with an elevation of 1,880 meters (6,168 ft) and a relief (height above the surrounding area) of about 176 meters (577 ft). The butte (and subsequently the nearby lava flow) was named by the Forest Service with the Chinook jargon word for two. A series of buttes in the area were named in this way, likely in the early 20th century. [^1] 
 
-There is a large staging area to the east of the butte that can be accessed from Forest Road 9710, which follows the northern edge of the official volcanic monument boundary. The staging area is red cinder and largely free of trees. It appears to be used for some bonfires, but there are also a number of interesting petroforms: at least two medicine wheels and one labyrinth. They are marked in the staging area to the east in the map above.
+There is a large staging area to the east of the butte that can be accessed from Forest Road 9710, which follows the northern edge of the official volcanic monument boundary. The staging area is red cinder and largely free of trees. It appears to be used for some bonfires, but there are at least three interesting petroforms: two medicine wheels and one labyrinth. They are marked in the staging area to the east in the map above.
 
 ![Staging area with wheel](/img/newberry/mokst_butte/mokst_butte_01.jpeg)
 _One of several petroforms near the base of Mokst Butte._
