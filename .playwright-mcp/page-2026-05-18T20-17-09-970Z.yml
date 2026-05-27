@@ -1,0 +1,157 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Mapbox" [ref=e6] [cursor=pointer]:
+        - /url: https://www.mapbox.com
+        - img "Mapbox" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Mapbox’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /mapbox
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software Development Engineer II, Data Boundaries" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Mapbox US
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Department" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Search
+      - generic [ref=e26]:
+        - tablist [ref=e27]:
+          - tab "Overview" [selected] [ref=e28] [cursor=pointer]
+          - tab "Application" [ref=e29] [cursor=pointer]
+        - tabpanel "Overview" [ref=e31]:
+          - generic [ref=e32]:
+            - paragraph [ref=e33]: Mapbox is the leading real-time location platform for a new generation of location-aware businesses. Mapbox is the only platform that equips organizations with the full set of tools to power the navigation of people, packages, and vehicles everywhere. More than 4 million registered developers have chosen Mapbox because of the platform’s flexibility, security and privacy compliance. Organizations use Mapbox applications, data, SDKs and APIs to create customized and immersive experiences that delight their customers.
+            - heading "What We Do" [level=2] [ref=e34]:
+              - strong [ref=e35]: What We Do
+            - paragraph [ref=e36]: Mapbox Boundaries is an expertly curated set of global boundary data that allows you to add boundaries to your maps, dashboards, and data visualizations. Mapbox Boundaries consists of multiple data layers that come cartographically-matched, georeferenced, and processed as a Mapbox vector tileset ready for integration with your maps and data. From business intelligence analysis and data journalism to territory planning and logistics management, customers utilize boundary maps data in countless solutions.
+            - paragraph [ref=e37]: "Here are some of our recent Boundaries blog posts:"
+            - list [ref=e38]:
+              - listitem [ref=e39]:
+                - paragraph [ref=e40]:
+                  - link "Advanced Geospatial Analysis with Mapbox Boundaries Flat File Format" [ref=e41] [cursor=pointer]:
+                    - /url: https://www.mapbox.com/blog/boundaries-flat-file-format
+              - listitem [ref=e42]:
+                - paragraph [ref=e43]:
+                  - link "Expanded Coverage with Mapbox Boundaries 4.3" [ref=e44] [cursor=pointer]:
+                    - /url: https://www.mapbox.com/blog/granular-geospatial-boundary-data
+              - listitem [ref=e45]:
+                - paragraph [ref=e46]:
+                  - link "Introducing the Mapbox Snowflake Native App" [ref=e47] [cursor=pointer]:
+                    - /url: https://www.mapbox.com/blog/snowflake-native-app
+              - listitem [ref=e48]:
+                - paragraph [ref=e49]:
+                  - link "How Topology Improves GIS Data Quality" [ref=e50] [cursor=pointer]:
+                    - /url: https://www.mapbox.com/blog/topology-data-implications
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]:
+                  - link "Expanding the Boundaries of Visualization" [ref=e53] [cursor=pointer]:
+                    - /url: https://www.mapbox.com/blog/expanding-the-boundaries-of-visualization
+            - paragraph [ref=e54]: Our Boundaries team is a part of the Search Data organization that supplies address, boundaries, place, and points of interest (POI) data for global searches in countries around the world. Search is crucial for our customers’ applications and we are a key partner to the Maps and Navigation organizations at Mapbox. Whether you’re trying to find a place among the vast ocean of data on a global map or to find the exact location of a venue a few miles down the road, Search is in the critical path of our customers’ experiences.
+            - paragraph [ref=e55]
+            - heading "What You'll Do" [level=2] [ref=e56]:
+              - strong [ref=e57]: What You'll Do
+            - paragraph [ref=e58]: Our world is not static and, therefore, our data cannot be static. It needs to be constantly updated and available for Mapbox developers to utilize when they want to build a BI dashboard, create a navigation app, or customize the world for their audience. We want to expand our Boundaries data offerings to allow our users to consume more of our data to create their version of a living map and location service. This role will be focused on data engineering for feature expansion, improving coverage, increasing polygon precision, and building pipelines to ingest new data sources.
+            - paragraph [ref=e59]: "As a Software Engineer on the Boundaries team, you will:"
+            - list [ref=e60]:
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]: Integrate third-party data sources from different geographic areas into our data pipelines
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: Inspect and edit geospatial data using open-source tools
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: Develop geographic data processing pipelines
+              - listitem [ref=e67]:
+                - paragraph [ref=e68]: Interface with engineers from other teams to understand their needs for geospatial data and provide solutions
+              - listitem [ref=e69]:
+                - paragraph [ref=e70]: Implement automated quality metrics to ensure we are continuously delivering high quality data to our customers
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: Mentor other software engineers to develop all aspects of their engineering skill sets, including participating in design and code reviews
+                - paragraph [ref=e73]
+            - heading "What We Believe are Important Traits for This Role" [level=2] [ref=e74]:
+              - strong [ref=e75]: What We Believe are Important Traits for This Role
+            - list [ref=e76]:
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: 5+ years of industry experience working with data pipelines
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Proficiency in at least one modern programming language (like Python or Java) suitable for data processing
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Expertise with GIS tools and processes, preferably open-source ones such as QGIS, Postgres/PostGIS, GDAL/OGR, GeoJSON
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Experience with AWS technologies like S3 and Athena
+              - listitem [ref=e85]:
+                - paragraph [ref=e86]: Experience writing bash scripts and running command line tools
+              - listitem [ref=e87]:
+                - paragraph [ref=e88]: Working knowledge with SQL databases and ideally experience writing custom functions (e.g. with pl/pgsql)
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]: Excellent debugging experience and performance profiling that includes running QA or test systems at scale
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]: Strong experience with batch data processing and developed judgment to implement new data pipelines and best practices around it
+              - listitem [ref=e93]:
+                - paragraph [ref=e94]: Comfortable working with a git-based environment (such as GitHub)
+              - listitem [ref=e95]:
+                - paragraph [ref=e96]: Familiarity with Docker
+              - listitem [ref=e97]:
+                - paragraph [ref=e98]: Familiarity with CI/CD processes
+              - listitem [ref=e99]:
+                - paragraph [ref=e100]: Integrating data with APIs and querying data through APIs
+              - listitem [ref=e101]:
+                - paragraph [ref=e102]: Familiarity working with Iceberg, Glue and AWS Step Functions
+                - paragraph [ref=e103]
+            - heading "What We Value" [level=2] [ref=e104]:
+              - strong [ref=e105]: What We Value
+            - paragraph [ref=e106]:
+              - text: In addition to
+              - link "our core values" [ref=e107] [cursor=pointer]:
+                - /url: https://www.mapbox.com/about/values/
+              - text: ", which are not unique to this position and are necessary for Mapbox leaders:"
+            - list [ref=e108]:
+              - listitem [ref=e109]:
+                - paragraph [ref=e110]: We value high-performing creative individuals who dig into problems and opportunities.
+              - listitem [ref=e111]:
+                - paragraph [ref=e112]: We believe in individuals being their whole selves at work. We commit to this through supportive health care, parental leave, flexibility for the things that come up in life, and innovating on how we think about supporting our people.
+              - listitem [ref=e113]:
+                - paragraph [ref=e114]: We emphasize an environment of teaching and learning to equip employees with the tools needed to be successful in their function and the company.
+              - listitem [ref=e115]:
+                - paragraph [ref=e116]: We strongly believe in the value of growing a diverse team and encourage people of all backgrounds, genders, ethnicities, abilities, and sexual orientations to apply.
+            - paragraph [ref=e117]: Our annual base compensation for this role ranges from $160,650 - $217,350 for most US locations and 5% to 10% higher for US locations with a higher cost of labor. Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. Please discuss your specific work location with your recruiter for more information.
+            - paragraph [ref=e118]:
+              - emphasis [ref=e119]: By applying for this position, you acknowledge that you agree to the
+              - link "Mapbox Privacy Policy" [ref=e120] [cursor=pointer]:
+                - /url: https://www.mapbox.com/legal/privacy
+                - emphasis [ref=e121]: Mapbox Privacy Policy
+              - emphasis [ref=e122]: which is linked here.
+            - paragraph [ref=e123]:
+              - emphasis [ref=e124]: Mapbox participates in E-Verify to confirm employee work authorization. Please refer to the
+              - link "Notice of E-Verify Participation" [ref=e125] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1rVYht6vc6QJmVzwML1rlh3BFboC-JkGe/view?usp=drive_link
+                - emphasis [ref=e126]: Notice of E-Verify Participation
+              - emphasis [ref=e127]: and
+              - link "Right to Work" [ref=e128] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1Pnzz1t8ueq8iPftJ7kqPOGoTnD5mqi0H/view?usp=drive_link
+                - emphasis [ref=e129]: Right to Work
+              - emphasis [ref=e130]: posters for more information.
+            - paragraph [ref=e131]:
+              - emphasis [ref=e132]: We are committed to a fair and equitable hiring process. We do not discriminate against any protected class.
+            - paragraph [ref=e133]: "#LI-Remote"
+          - link "Apply for this Job" [ref=e134] [cursor=pointer]:
+            - /url: /mapbox/2fc1e9b6-8d13-4cb6-8271-a2f6322ec4ab/application
+            - button "Apply for this Job" [ref=e135]
+  - contentinfo [ref=e136]:
+    - link "Learn more about Ashby" [ref=e137] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e138]: Powered by
+      - img "Ashby" [ref=e139]
+    - paragraph [ref=e145]:
+      - link "Privacy Policy" [ref=e146] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e147] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e148] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

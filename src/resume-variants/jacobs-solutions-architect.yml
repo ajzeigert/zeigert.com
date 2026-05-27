@@ -1,0 +1,61 @@
+title: "Résumé — Jacobs Solutions Architect"
+slug: jacobs-solutions-architect
+jobUrl: https://careers.jacobs.com/en_US/careers/JobDetail/Solutions-Architect/39586
+
+summary: >-
+  Solutions architect and senior geospatial engineer with 15+ years of experience
+  spanning data journalism, UX design, and full-stack GIS development — delivering
+  digital solutions for environmental and engineering consulting clients. Deep
+  expertise across the Esri platform including ArcGIS Enterprise, Server, Portal,
+  Survey123, and Collector, paired with strong cloud infrastructure and data pipeline
+  skills. Proven track record in client-facing consulting environments, bridging
+  technical delivery and stakeholder communication on projects for federal, state,
+  and tribal clients.
+
+hide:
+  - "Page Designer"
+  - "Project Facilitator"
+
+keywords:
+  "Senior Software Engineer":
+    - ArcGIS Enterprise
+    - ArcGIS Server
+    - ArcGIS Portal
+    - ArcGIS Pro
+    - ArcGIS Online
+    - Survey123
+    - Collector for ArcGIS
+    - ArcPy
+    - ArcGIS API for JavaScript
+    - Python
+    - ETL
+    - SQL
+    - Model Builder
+    - Azure
+    - Mobile Data Collection
+    - Geospatial Data Pipelines
+    - Solutions Architecture
+  "UX/UI Designer":
+    - Data Visualization
+    - Environmental Data Systems
+    - Stakeholder Engagement
+  "Graphics Reporter":
+    - Geographic Information Systems (GIS)
+    - Data Visualization
+    - Geospatial Analysis
+
+highlights:
+  "Senior Software Engineer":
+    - Designed and deployed geospatial solutions on ArcGIS Enterprise, Server, and Portal — including map service publishing, spatial analysis tools, and integration with cloud-hosted application stacks on Azure and AWS
+    - Built Survey123 and Collector data collection workflows for field staff on environmental projects, streamlining data capture and reducing manual entry errors across field teams
+    - Developed geospatial data pipelines spanning mobile data collection, database management, and visualization — connecting field-collected data to reporting and decision-making workflows
+    - Led architecture and delivery of multiple business-critical full-stack applications for environmental and engineering consulting clients, coordinating spatial data access, REST API design, and frontend development
+    - Implemented event-driven microservice architecture using AWS Lambda to automate geospatial data processing and routing across project workflows
+    - Hosted stakeholder brown bag sessions during development cycles to gather feedback from scientists and engineers, improving adoption across domain-specialist user bases
+    - Mentored four university partnership teams — approximately twelve students total — through full application lifecycles on projects requiring spatial data architecture and secure backend design
+    - Implemented security best practices across application stacks, contributing toward CMMC Level 2 certification
+  "UX/UI Designer":
+    - Designed interfaces for environmental data management applications handling sensor data, lab results, and incident records — translating complex domain workflows into clear, task-oriented tools used by scientists, engineers, and field specialists
+    - Collaborated directly with domain experts to surface the right data at the right point in field and office workflows, improving usability across a broad consulting portfolio
+  "Graphics Reporter":
+    - Produced maps, data visualizations, and interactive geospatial tools for a regional newspaper — building a GIS foundation that has informed every technical role since

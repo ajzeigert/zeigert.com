@@ -8,6 +8,8 @@ export default function (title) {
 		content: {
 			title,
 			date: output,
+			metas: { image: "" },
+			comments: { src: "" },
 			draft: true,
 			content: "Don't get cocky",
 		},

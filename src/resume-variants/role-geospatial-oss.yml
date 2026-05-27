@@ -1,0 +1,51 @@
+title: "Résumé — Geospatial Data Engineer (Open Source)"
+slug: role-geospatial-oss
+
+summary: >-
+  Geospatial data engineer with 10+ years building spatial data pipelines and
+  open-source GIS applications for environmental and engineering clients. PostGIS
+  and vector tile formats have been my primary tools — developed across projects
+  spanning data ingestion, spatial ETL, and map delivery. Currently working on
+  incremental vector tile updates for area geometry types and building an open-source
+  MapLibre plugin. Former data journalist: I understand both how geospatial data is
+  built and how it's used to tell stories.
+
+hide:
+  - "Page Designer"
+  - "Project Facilitator"
+  - "UX/UI Designer"
+
+keywords:
+  "Software Engineer, Developer":
+    - Vector Tiles
+    - MapLibre
+    - Open Source
+    - Geospatial Data Engineering
+  "Senior Software Engineer":
+    - PostGIS
+    - GDAL/OGR
+    - GeoJSON
+    - Vector Tiles
+    - Spatial ETL
+    - Python
+    - AWS S3
+    - Batch Data Processing
+    - Geospatial Data Engineering
+    - QGIS
+    - Docker
+  "Graphics Reporter":
+    - Data Journalism
+    - Geospatial Analysis
+    - Data Visualization
+
+highlights:
+  "Software Engineer, Developer":
+    - Implementing incremental vector tile updates for area geometry types, improving coverage precision and update frequency for a client's geospatial data product
+    - Building an open-source MapLibre plugin for the Lume static site ecosystem, enabling GeoJSON and SimpleStyle rendering with CDN-loaded MapLibre
+  "Senior Software Engineer":
+    - Built geospatial data collection and processing pipelines for field staff on environmental projects, spanning data ingestion, spatial ETL, and delivery to PostGIS backends
+    - Integrated geospatial feature services with REST APIs and PostGIS/PostgreSQL databases, including custom spatial queries and pl/pgsql functions for data transformation
+    - Implemented event-driven microservice architecture using AWS Lambda to process and route geospatial data events, reducing compute costs and improving pipeline scalability
+    - Mentored four university partnership teams through full application lifecycles on projects requiring spatial data architecture and secure backend design
+  "Graphics Reporter":
+    - Produced maps and data visualizations for a regional newspaper — experience that directly informs how geospatial data gets used downstream by data journalists and BI teams

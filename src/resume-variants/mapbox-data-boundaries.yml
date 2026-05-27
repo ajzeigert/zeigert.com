@@ -1,0 +1,51 @@
+title: "Résumé — Mapbox Data Boundaries"
+slug: mapbox-data-boundaries
+jobUrl: https://jobs.ashbyhq.com/mapbox/2fc1e9b6-8d13-4cb6-8271-a2f6322ec4ab
+
+summary:
+  - Versatile software engineer with 10+ years building spatial data pipelines and GIS applications for environmental and engineering clients. Deep experience with mapping toolchains, cloud optimization and mentoring other developers. Current work includes creating a pipeline for updating Mapbox vector tiles from PostGIS using incremental updates and building an open-source MapLibre plugin.
+
+  - I've been using Mapbox tools and services for most of my career as a developer, and I think that my experience with AWS, data pipelines and open source geospatial tools make me an ideal candidate for the Boundaries team at Mapbox. Helping to expand this already-great service would be a career highlight for me.
+
+hide:
+  - "Page Designer"
+  - "Project Facilitator"
+  - "UX/UI Designer"
+
+keywords:
+  "Software Engineer, Developer":
+    - Mapbox Vector Tiles
+    - MapLibre
+    - Incremental Tiling
+    - Open Source 
+    - Geospatial Data Engineering
+  "Senior Software Engineer":
+    - PostGIS
+    - GDAL/OGR
+    - GeoJSON
+    - Mapbox
+    - Vector Tiles
+    - Spatial ETL
+    - Python
+    - AWS S3
+    - AWS Athena
+    - AWS Step Functions
+    - Batch Data Processing
+    - QGIS
+    - Docker
+  "Graphics Reporter":
+    - Data Journalism
+    - Geospatial Analysis
+    - Data Visualization
+
+highlights:
+  "Software Engineer, Developer":
+    - Implementing incremental vector tile updates for multiple geometry types in Mapbox vector tile format, improving coverage precision and update frequency for a client's geospatial data product
+    - Building an open-source MapLibre plugin for the Lume static site ecosystem, enabling GeoJSON and SimpleStyle rendering with CDN-loaded MapLibre
+  "Senior Software Engineer":
+    - Built geospatial data collection and processing pipelines for field staff on environmental projects, spanning data ingestion, spatial ETL, and delivery to PostGIS and ArcGIS backends
+    - Integrated geospatial feature services with REST APIs and PostGIS/PostgreSQL databases, including custom spatial queries and pl/pgsql functions for data transformation
+    - Implemented event-driven microservice architecture using AWS Lambda to process and route geospatial data events, reducing compute costs and improving pipeline scalability
+    - Mentored four university partnership teams through full application lifecycles on projects requiring data architecture and secure backend design
+  "Graphics Reporter":
+    - Produced maps and data visualizations for a regional newspaper — experience that directly informs how Boundaries data is used downstream by data journalists and BI teams

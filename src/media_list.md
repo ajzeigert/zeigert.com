@@ -1,16 +1,30 @@
 ---
-title: Watching, reading, playing
+title: Watching, reading, playing, listening
 layout: layouts/page.vto
 description: My media diet
+metas:
+    image: /img/media_diet.jpeg
 menu:
     visible: true
     title: Media List
     order: 3
 ---
 
+![Bookshelf peak](/img/media_diet.jpeg)
+
 Eventually I'd like a nice, sophisticated way to microblog about my media diet, but until such time I am going to use this space.
 
 ## Books
+
+### _Exiles_ by Mason Coile
+
+Website: https://www.penguinrandomhouse.com/books/761628/exiles-by-mason-coile/
+
+Finished: 5/26/26
+
+Stars: [4/5]
+
+Review: A taught thriller on the surface of Mars where three astronauts and three robots confront one another and the question: Why did we come here?
 
 ### _Kayak_ by Kristal Stittle
 
@@ -20,6 +34,8 @@ Finished: 5/16/26
 
 Stars: [4/5]
 
+
+
 ### _The Brothers K_ by David James Duncan
 
 Website: https://www.davidjamesduncan.com/the-brothers-k
@@ -28,7 +44,7 @@ Finished: 4/15/26
 
 Stars: [5/5]
 
-Review: I'm a sucker for baseball lit. 
+Review: Starts slow but this one built to the kind of emotional crescendo you rarely find. Lovely characters and lots of baseball.
 
 ## Movies
 
