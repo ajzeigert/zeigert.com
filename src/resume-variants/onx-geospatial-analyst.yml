@@ -1,0 +1,50 @@
+title: Résumé — Senior Geospatial Analyst
+slug: onx-geospatial-analyst
+jobUrl: ''
+
+summary: >-
+  Senior software and geospatial engineer with 10+ years building, validating, and shipping spatial datasets and geoprocessing pipelines for environmental and engineering clients. Advanced QGIS user with strong PostGIS, SQL, and Python (GDAL, geopandas, PyQGIS) skills, and deep experience in multi-source integration, conflation, and large-scale QA/QC of regulated spatial data moving reliably from source systems into customer-facing products. A daily user of Claude Code and AI tooling to generate, automate, and accelerate geospatial workflows. Bend, Oregon–based and an avid backcountry and offroad explorer — I build the kind of maps I actually use.
+
+hide:
+  - "UX/UI Designer"
+  - "Project Facilitator"
+  - "Page Designer"
+
+keywords:
+  "Senior Software Engineer":
+    - QGIS
+    - PostGIS
+    - PostgreSQL
+    - SQL
+    - Spatial Indexing & Performance Optimization
+    - Python
+    - GDAL
+    - geopandas
+    - PyQGIS
+    - Geospatial Data Pipelines
+    - ETL
+    - Multi-Source Data Integration
+    - Conflation
+    - QA/QC
+    - Spatial Analysis
+    - Data Quality
+    - Git
+    - Claude Code
+    - AI-Assisted Workflow Automation
+    - Docker
+  "Graphics Reporter":
+    - Geographic Information Systems (GIS)
+    - Geospatial Analysis
+    - Data Visualization
+
+highlights:
+  "Senior Software Engineer":
+    - Built and maintained geospatial data pipelines that ingest, clean, conflate, and validate multi-source datasets, ensuring spatial data moves reliably from source systems into customer-facing products
+    - Led complex geoprocessing and large-scale QA/QC — applying technical judgment to resolve ambiguous edge cases, identify data quality risks, and flag datasets for update, replacement, or retirement
+    - Performed advanced geoprocessing, editing, and spatial analysis in QGIS, and extended workflows with Python (GDAL, geopandas, PyQGIS) and tuned SQL/PostGIS queries with spatial indexing for performant, scalable processing over large datasets
+    - Use Claude Code and AI tooling daily as a repeatable co-pilot to generate, optimize, and automate geospatial workflows — feature extraction, classification, conflation, and QA — pairing human judgment with validation
+    - Developed and shipped GeoGrab, a React Native field data collection app deployed to iOS and Android, capturing and validating geospatial observations from project sites
+    - Worked autonomously on ill-defined, complex projects, bringing structure and execution rigor to ambiguous problem spaces while communicating technical decisions, risks, and progress clearly to non-technical partners
+    - Drove consistency and repeatability across teams using Git and collaborative workflows, and mentored junior engineers and university partnership teams
+  "Graphics Reporter":
+    - Produced maps and geospatial visualizations for a regional newspaper, making complex land-use and terrain stories accessible to a broad audience — spatial data is only useful if it communicates clearly

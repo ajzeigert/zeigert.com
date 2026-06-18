@@ -16,6 +16,16 @@ Eventually I'd like a nice, sophisticated way to microblog about my media diet, 
 
 ## Books
 
+### _Odessa_ by Gabrielle Sher
+
+Website: https://www.gabriellesher.com/odessa-a-novel
+
+Finished: 6/18/26
+
+Stars: [5/5]
+
+Review: A tidy monster story steeped in the traditions of an eastern European Jewish community. It's hard to write about without spoiling the whole thing, but if you like golems and dybbuks and Cossacks and family secrets and excellent descriptions of bodies in various states of decay, this book is for you. You'll get some bonus contemplation of "what makes me, me" for your effort, something to think about as we hurtle toward a future where tech bros think they will just clone themselves or upload their brains to the cloud in order to live forever or become ubermensch.
+
 ### _Exiles_ by Mason Coile
 
 Website: https://www.penguinrandomhouse.com/books/761628/exiles-by-mason-coile/
@@ -33,7 +43,6 @@ Website: https://store.tenebrouspress.com/products/kayak-ebook
 Finished: 5/16/26
 
 Stars: [4/5]
-
 
 
 ### _The Brothers K_ by David James Duncan
