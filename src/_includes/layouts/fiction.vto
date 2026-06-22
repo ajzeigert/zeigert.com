@@ -1,0 +1,19 @@
+---
+layout: layouts/base.vto
+---
+<style>
+.post-header > h4 {
+  margin-bottom: 0;
+}
+
+</style>
+<article class="post fiction" data-pagefind-body>
+  <header class="post-header">
+    <h2 class="post-title">{{it.title}}</h2>
+    <h4><em>By {{it.author}}</em></h4>
+  </header>
+
+  <div class="post-body">
+    {{it.content}}
+  </div>
+</article>
