@@ -67,6 +67,24 @@ Review: This movie was fun and stylish, but it seems to think that it was much m
 
 ## Comics
 
+### _HELLBOY AND THE B.P.R.D: PROFESSOR HARVEY IS GONE_ One Shot
+
+Finished: 6/20/26
+
+Stars: [3/5]
+
+Review: I was a big fan of the artist on this one, although the story felt built out of spare Mignola parts.
+
+### _FRANKENSTEIN NEW WORLD: The Sea of Forever_ #1-4
+
+Finished: 6/19/26
+
+Stars: [3/5]
+
+Review: I don't really understand the thinking behind this title. So, it's Frankenstein, who not only survived his own story, but somehow survived through the end of the world from the Hellboy stories (spoilers I guess). Now he's be-bopping around a strange new world, meeting interesting people and being kind of mopey. There are new threats. New allies. Dark Horse keeps an excellent art team on these stories but the plot feels a bit meandering and flat. Still... who doesn't love Frankenstein?
+
+When I read these new Frankenstein series, I also can't help thinking about the Frankenstein Undone book penned by former Hellboy editor Scott Allie and drawn by Ben Stenbeck. Allie stepped down after reports of his sexual misbehavior could no longer be ignored, and the series was canceled after the second issue. I always found Allie's writing to be some of the yawniest Hellboy stuff, but I'm an unabashed fan of Stenbeck. I imagine there's a folder full of finished artwork for that series somewhere, and since the whole thing was delayed by COVID, it's entirely possible that finished pages or even printed issues were placed aside. Even Mignola has declared the story "out of continuity," but I'd be lying if I said I didn't want to see the rest.
+
 ### _CRIMINAL #1_ by Ed Brubaker and Sean Phillips
 
 Finished 5/15/26
