@@ -2,6 +2,7 @@
 title: Streetlights
 author: Andy Zeigert
 type: fiction
+publishDate: 6/21/2026
 layout: layouts/fiction.vto
 ---
 
