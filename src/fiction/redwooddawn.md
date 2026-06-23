@@ -2,7 +2,7 @@
 title: Redwood Dawn
 author: Andy Zeigert
 type: fiction
-publishDate: 6/21/26
+publishDate: 6/23/26
 layout: layouts/fiction.vto
 ---
 
