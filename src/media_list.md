@@ -1,12 +1,11 @@
 ---
-title: Watching, reading, playing, listening
+title: Media Journal
 layout: layouts/page.vto
-description: My media diet
-metas:
+description: Watching, reading, playing, listeningmetas:
     image: /img/media_diet.jpeg
 menu:
     visible: true
-    title: Media List
+    title: Media Journal
     order: 3
 ---
 
@@ -15,6 +14,16 @@ menu:
 Eventually I'd like a nice, sophisticated way to microblog about my media diet, but until such time I am going to use this space.
 
 ## Books
+
+### _Fingersmith_ by Sarah Watersa
+
+Website:
+
+Finished: 8/10/2026
+
+Stars: [5/5]
+
+Review: I've been meaning to sit down with a Sarah Waters novel for some time now. I chose this one pretty much blind, but it did not disappoint. Evocative, richly detailed and emotionally unsparing. I'll dive into another of the authors books soon, I have a feeling.
 
 ### _Odessa_ by Gabrielle Sher
 
@@ -56,6 +65,14 @@ Stars: [5/5]
 Review: Starts slow but this one built to the kind of emotional crescendo you rarely find. Lovely characters and lots of baseball.
 
 ## Movies
+
+### _The Odyssey_ (2026)
+
+Finished: 8/4/2026
+
+Stars: [4/5]
+
+Review: All well and good. Top-notch casting all around, almost. Matt Damon probably seemed like a perfect choice for a classic Greek trickster but he's wildly underutilized in that regard. He seems to have brought the flat affect of Bourne to a performance that needed more Loki from Dogma. You get a little glimpse when they pass by the Sirens but that's about it. The core message of "we have brought about the end of our own civilization" perhaps demanded a more somber lead performance. However, that message often gets a little muddled in the medium, which revels in the bombast of monsters and sword fights. Odysseus tells us how important his men are to him, even as their names are mumbled once before they are swept from the deck of the ship and we all move on. Giving everyone a pronounced American accent, even actors with wonderful native British ones, should make it obvious what the director is trying to do. Unfortunately the internet is full of morons, who read that choice exactly wrong. At the same time, hipster cinephiles often criticize Christopher Nolan for his unsubtle filmmaking, but it takes skill to convince a broad audience to pay to watch those big thematic hammers swing. Anyone can make a film that questions the status quo. How many can make a billion dollars doing it?
 
 ### _The Running Man_ (2025)
 
